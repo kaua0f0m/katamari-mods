@@ -6,7 +6,6 @@ Código-fonte, ferramentas e textos de três mods não oficiais para a versão S
 |---|---|---|
 | [`traducao-ptbr/`](traducao-ptbr/) | 0.3 | Tradução para português brasileiro dos textos do jogo |
 | [`katamari-plus/`](katamari-plus/) | 0.2 | Tempo infinito configurável, encerrar fase pela pausa, jukebox, salvamento/carregamento automático com escolha de slot, pular abertura |
-| [`extramod/`](extramod/) | 0.1 | Versão anterior das melhorias de jogabilidade (substituída pelo Katamari Plus) |
 
 Cada pasta tem o seu `LEIA-ME` com detalhes, o instalador (`Instalar.ps1`), o desinstalador e o `manifesto.json` com os hashes SHA-256 dos arquivos esperados.
 
@@ -22,7 +21,7 @@ Este repositório **não contém arquivos do jogo**, nem originais nem modificad
 
 Os modelos do Argos Translate (`en_pt`, `en_pb`) e as dependências Python não estão incluídos; instale-os à parte.
 
-## Katamari Plus / ExtraMod
+## Katamari Plus
 
 O código em `source/` é compilado contra as DLLs do próprio jogo e aplicado com Mono.Cecil (`PatchGame.cs`). Para recompilar, coloque as DLLs originais do jogo em `Managed/` e o Mono.Cecil 0.11.6 em `tools/cecil/lib/net40/`, como indica o `Build.ps1`.
 
