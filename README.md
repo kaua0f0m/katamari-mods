@@ -5,7 +5,7 @@ Código-fonte, ferramentas e textos de dois mods não oficiais para a versão St
 | Pasta | Versão | O que é |
 |---|---|---|
 | [`traducao-ptbr/`](traducao-ptbr/) | 0.3 | Tradução para português brasileiro dos textos do jogo |
-| [`katamari-plus/`](katamari-plus/) | 0.2 | Tempo infinito configurável, encerrar fase pela pausa, jukebox, salvamento/carregamento automático com escolha de slot, pular abertura |
+| [`katamari-plus/`](katamari-plus/) | 0.3 | Tempo infinito configurável, encerrar fase pela pausa, jukebox, salvamento/carregamento automático com escolha de slot, pular abertura. Menu no idioma do jogo (ja, en, fr, de, it, es) ou em português com a tradução |
 
 Cada pasta tem o seu `LEIA-ME` com detalhes, o instalador (`Instalar.ps1`), o desinstalador e o `manifesto.json` com os hashes SHA-256 dos arquivos esperados.
 
@@ -14,7 +14,7 @@ Cada pasta tem o seu `LEIA-ME` com detalhes, o instalador (`Instalar.ps1`), o de
 Os pacotes prontos para instalar estão em [Releases](https://github.com/kaua0f0m/katamari-mods/releases):
 
 - [Tradução PT-BR 0.3](https://github.com/kaua0f0m/katamari-mods/releases/tag/traducao-v0.3)
-- [Katamari Plus 0.2](https://github.com/kaua0f0m/katamari-mods/releases/tag/plus-v0.2)
+- [Katamari Plus 0.3](https://github.com/kaua0f0m/katamari-mods/releases/tag/plus-v0.3)
 
 Baixe o ZIP, extraia, feche o jogo e execute `Instalar.ps1` no PowerShell. Se o jogo não estiver em `D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL`, informe o caminho: `.\Instalar.ps1 -GameDir 'C:\caminho\do\jogo'`.
 
