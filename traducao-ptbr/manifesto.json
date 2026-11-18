@@ -1,0 +1,137 @@
+{
+  "version": "0.3",
+  "language": "pt-BR",
+  "base_locale": "English",
+  "steam_buildid": "20629440",
+  "files": [
+    {
+      "path": "katamari_Data/resources.assets",
+      "source_sha256": "1899d7b356c8ca9c283583874576386315902d050a18fc914c5c2bcee4433818",
+      "patch_sha256": "7c78397fd1fa9b3788aed7add60189b0b57597345aa44109d6b577ce723e3489",
+      "modified_objects": 4,
+      "changed_fields": 5798,
+      "unchanged_objects": 1911,
+      "accepted_upgrade_hashes": [
+        "c6c2b6b897e68e5e0ce7e8e5d96fa255b9ae6e9ba241791297ce0d6d38f34fee",
+        "6e9c05d1a9f775f7f69f38840fb6c8151d78fd47039720f5fc2a0ae01af22a7d"
+      ]
+    },
+    {
+      "path": "katamari_Data/level11",
+      "source_sha256": "c0dd96e5790e557af82da7c65544bc3bc983463ce3a42a7330436867096554ac",
+      "patch_sha256": "5b50b753aa7556101b2144a8cddf657aa3a50f4f056f9c2a241c61be85ee75a3",
+      "modified_objects": 5,
+      "changed_fields": 5,
+      "unchanged_objects": 348,
+      "accepted_upgrade_hashes": [
+        "5b50b753aa7556101b2144a8cddf657aa3a50f4f056f9c2a241c61be85ee75a3"
+      ]
+    },
+    {
+      "path": "katamari_Data/level12",
+      "source_sha256": "2596afa5280b39b8d29af48d5fe2f8480b071444583242879d147d3ac2fcf139",
+      "patch_sha256": "a459a032dde7c2e2e51f58823d25476b643af1d3ab56838fdfa697dc5e0e9fb4",
+      "modified_objects": 7,
+      "changed_fields": 7,
+      "unchanged_objects": 1057,
+      "accepted_upgrade_hashes": [
+        "a459a032dde7c2e2e51f58823d25476b643af1d3ab56838fdfa697dc5e0e9fb4"
+      ]
+    },
+    {
+      "path": "katamari_Data/level14",
+      "source_sha256": "268884d0c96eaee55b605cd49624bd907d229093619d3169db9e6e748212f95f",
+      "patch_sha256": "f418c1e4ed398d18d5bdc391beb14943d098a623ff34ade0b03c1519a649f510",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 510,
+      "accepted_upgrade_hashes": [
+        "f418c1e4ed398d18d5bdc391beb14943d098a623ff34ade0b03c1519a649f510"
+      ]
+    },
+    {
+      "path": "katamari_Data/level17",
+      "source_sha256": "2b0ece0f30aa88709fe90ec6bd647d08b34954c72e6363111576aafd7968cb0e",
+      "patch_sha256": "5b808c8bddcd9e15fb2d6c2531fa5464978a1161f001c0e3e9119f99d451bf8f",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 912,
+      "accepted_upgrade_hashes": [
+        "5b808c8bddcd9e15fb2d6c2531fa5464978a1161f001c0e3e9119f99d451bf8f"
+      ]
+    },
+    {
+      "path": "katamari_Data/level29",
+      "source_sha256": "65eed279fb1b52cf6d368d075a772c0383ec31ba1f2bc9611fe3300ac470d06c",
+      "patch_sha256": "94bc7d22dda82d832f850e86f37ad1e67dc15d1602e1bf96ee22941ce775a421",
+      "modified_objects": 6,
+      "changed_fields": 6,
+      "unchanged_objects": 1468,
+      "accepted_upgrade_hashes": [
+        "94bc7d22dda82d832f850e86f37ad1e67dc15d1602e1bf96ee22941ce775a421"
+      ]
+    },
+    {
+      "path": "katamari_Data/level6",
+      "source_sha256": "6c3b51360f9eb1d0602663d241dbfe6fa6f55a4bc9555a16613c368023e3755d",
+      "patch_sha256": "68800b5119bfc07d3619a70fbf1a51607f8a884231ea82eee7bafc55e06bdf2a",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 360,
+      "accepted_upgrade_hashes": [
+        "68800b5119bfc07d3619a70fbf1a51607f8a884231ea82eee7bafc55e06bdf2a"
+      ]
+    },
+    {
+      "path": "katamari_Data/level8",
+      "source_sha256": "5fd508f002d1afe6d912565c6001a29e45023b12229ef2d7ac571cd3e2a0cf7e",
+      "patch_sha256": "4a1f3197e9098824f68af53d73ad3548c3fa34d80483ee2d58c39ab8fa89a2a5",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 1012,
+      "accepted_upgrade_hashes": [
+        "4a1f3197e9098824f68af53d73ad3548c3fa34d80483ee2d58c39ab8fa89a2a5"
+      ]
+    },
+    {
+      "path": "katamari_Data/StreamingAssets/StandaloneWindows/gamemain",
+      "source_sha256": "5d2aea8cee3860b3198f2cbe97a7b52644dcb94fa6be2665f4ae656080007dc8",
+      "patch_sha256": "4343267e25265f0d9b6711c133c4c293d37871e7860e0571599276189da656af",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 1371,
+      "accepted_upgrade_hashes": [
+        "4343267e25265f0d9b6711c133c4c293d37871e7860e0571599276189da656af"
+      ]
+    },
+    {
+      "path": "katamari_Data/StreamingAssets/StandaloneWindows/ui_pause",
+      "source_sha256": "d977ef92a6e38dc7f7e2655345cdb07488804a74c571db4deb5a2e46c8398599",
+      "patch_sha256": "a6d075f9855f32b59554a2cd21affd5586be0d6c910587381e3b0a9cef5faf95",
+      "modified_objects": 1,
+      "changed_fields": 1,
+      "unchanged_objects": 580,
+      "accepted_upgrade_hashes": [
+        "a6d075f9855f32b59554a2cd21affd5586be0d6c910587381e3b0a9cef5faf95"
+      ]
+    }
+  ],
+  "reviewed_changes_since_v02": 1081,
+  "main_entries": 6461,
+  "main_changed": 5615,
+  "additional_changed": 182,
+  "static_changed": 25,
+  "validation": {
+    "all_modified_strings_reparsed": true,
+    "unchanged_objects_byte_identical": true,
+    "textures_and_fonts_byte_identical": true,
+    "all_locales_reparsed": true,
+    "all_ids_audio_speakers_unchanged": true
+  },
+  "limitations": [
+    "Base automática com revisão contextual dos diálogos do Rei, das primeiras fases, nomes de estrelas, gêmeos e trechos de itens; outras descrições ainda podem precisar de ajustes.",
+    "Texturas e textos gravados nos vídeos permanecem originais.",
+    "Nomes próprios, marcas, termos culturais e algumas saudações estrangeiras foram preservados.",
+    "A revisão 0.3 não foi percorrida integralmente dentro do jogo."
+  ]
+}

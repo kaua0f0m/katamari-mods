@@ -1,0 +1,5 @@
+6461 entradas reabertas; IDs, áudio, locutores e outros idiomas preservados.
+1081 mudanças em relação à versão 0.2; todos os comandos de formatação preservados.
+10 arquivos reconstruídos; todos os objetos não alterados, texturas e fontes idênticos.
+Instalação confirmada por SHA-256 nos 10 destinos.
+Revisão textual 0.3 ainda sem percurso visual completo no jogo.

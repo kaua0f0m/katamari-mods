@@ -1,0 +1,738 @@
+MV_S_STR_001	Venham, está na hora de ir.
+MV_S_STR_002	Tá bom.
+MV_S_STR_003	Notícia urgente: as estrelas desapareceram do céu de repente.
+MV_S_STR_004	A causa está sendo investigada.
+MV_S_STR_005	Mãe, disseram na TV que todas as estrelas sumiram.
+MV_S_STR_006	Ah, querido, esse tipo de coisa não acontece.
+MV_S_STR_007	Olha, nosso táxi chegou.
+MV_S_STR_008	Mas foi o que disseram...
+MV_S_STR_009	Não foi?
+MV_S_STR_010	Temos novas informações.
+MV_S_STR_011	O céu noturno mostra sinais de recuperação.\nA causa está sendo investigada.
+MV_S_STR_012	Vamos, depressa.
+MV_S_STR_013	Mãe, agora estão dizendo que as estrelas estão voltando.
+MV_S_STR_014	Que bom, querido. Se não corrermos, vamos perder o avião.
+MV_S_STR_015	Mas foi o que disseram...
+MV_S_STR_016	Olha, já dá para ver a Ilha do Búzio.
+MV_S_STR_017	Tenho certeza de que vi aquele cara enorme.
+MV_S_STR_018	Olha, estou vendo o foguete!
+MV_S_STR_019	Ei, Michiru, é lá que o papai está.
+MV_S_STR_020	Logo vamos ver o pai de vocês, crianças.
+MV_S_STR_021	Aqui está o ônibus para o Centro Espacial.
+MV_S_STR_022	Tá bom.
+MV_S_STR_023	Esses foguetes espaciais são maiores do que eu imaginava.\nE tão bonitos.
+MV_S_STR_024	Agora também quero ser astronauta.
+MV_S_STR_025	Tenho certeza de que seu pai ficaria feliz.
+MV_S_STR_026	Falando no seu pai, onde será que ele está?
+MV_S_STR_027	Cancelado! Cancelado!
+MV_S_STR_028	Olha, não é o papai correndo para cá? Papai!
+MV_S_STR_029	Não vai ter lançamento hoje.
+MV_S_STR_030	Ah, não. Viemos de tão longe para ver seu lançamento.
+MV_S_STR_031	É que a Lua desapareceu.
+MV_S_STR_032	Minha nossa, ela sumiu mesmo.
+MV_S_STR_033	Deixa eu ver! Deixa eu ver!
+MV_S_STR_034	Eu quero ver.
+MV_S_STR_035	Continua...
+MV_S_STR_036	Centro Espacial
+MV_S_STR_037	Ah, querido.
+MV_C_RVV_001	Ah! Estou sentindo!
+MV_C_RVV_002	Estou sentindo o cosmo!
+MV_C_RVV_003	Câncer voltou andando de lado.
+MV_C_RVV_004	Que delícia...
+MV_C_RVV_005	Cisne renasceu das cinzas e voou de volta ao céu. 
+MV_C_RVV_006	Como uma fênix...
+MV_C_RVV_007	Coroa Boreal voltou ao seu lugar.
+MV_C_RVV_008	Que romântico...
+MV_C_RVV_009	Peixes saltou de volta ao céu.
+MV_C_RVV_010	Que frescor...
+MV_C_RVV_011	Virgem voltou, a constelação do amor.
+MV_C_RVV_012	Que beleza...
+MV_C_RVV_013	Ursa Maior voltou de seu passeio. 
+MV_C_RVV_014	Ela vai me atacar...
+MV_C_RVV_015	Gêmeos voltou para casa, de mãos dadas. 
+MV_C_RVV_016	Não sei quem é quem...
+MV_C_RVV_017	Touro voltou com tudo. 
+MV_C_RVV_018	Muuu...
+MV_C_RVV_019	A Estrela Polar finalmente voltou. 
+MV_C_RVV_020	Nunca mais vou me perder...
+KG_O_TTR_001	Ah, olá, Príncipe.\nAqui é o Rei.{^5} Quanto tempo.
+KG_O_TTR_002	Achamos que hoje seria um\nbom dia para {#7}rolar{#0}.\nO katamari.{^5} O Príncipe.
+KG_O_TTR_003	O primeiro rola, o segundo vai atrás.\n{^5}Rola, rola, rola.
+KG_O_TTR_004	Só para isso, Nós tivemos\no trabalho,{^5} o trabalho de\ncriar este espaço.
+KG_O_TTR_005	{#4}O Rei de Todo o Cosmo{#0}, {^4}tendo\ntodo esse trabalho só para rolar\num katamari.{^4} Que trabalheira. 
+KG_O_TTR_006	Então,{^4} queremos que você\ncomece a rolar {^5}mas, {^4}\nM-A-S, {^4}primeiro o principal,
+KG_O_TTR_007	M-A-S, {^4}primeiro o principal,\n{&s}o Príncipe gosta de {#7}vibração{#0}?
+KG_O_TTR_008	Ou seja, de mexer e tremer.
+KG_O_TTR_009	Não, não, {^4}eu detesto!\nPrefiro o básico! {^3}Adoro o natural!
+KG_O_TTR_010	Se é isso que diz, {^2}que declara,{^4}
+KG_O_TTR_011	você pode {#6}LIGAR{#0} e {#7}DESLIGAR{#0}\na vibração com {#4}{2}{#0}\nno {1}.
+KG_O_TTR_012	Tudo entendido? {^7}\nSim? {^5}Que bom.
+KG_O_TTR_013	Até mais tarde.
+KG_O_TTR_014	Ora, digno de um príncipe.\nQue habilidade. {^4}{&s}E que classe.
+KG_O_TTR_015	Deslumbrante.\n{^4}Estamos quase desmaiando.
+KG_O_TTR_016	Próximos desafios: Arrancada, {^3}\nMeia-volta,{^3} Olhar e {^3}Pular.
+KG_O_TTR_017	Cuidado, cuidado ao Olhar e\nao Pular.
+KG_O_TTR_018	Não é fácil fazer isso quando{^5}\nvocê está {#7}rolando{#0} com pressa.
+KG_O_TTR_019	Até mais tarde.
+KG_O_TTR_020	Incrível!\nIncrível, incrível!
+KG_O_TTR_021	In{^8}crível!
+KG_O_TTR_022	Já dominou? {^5}Tão rápido?\nSério? {^4}Quem é você?
+KG_O_TTR_023	Estamos tremendo de {#7}espanto!{#0}
+KG_O_TTR_024	Finalmente... {^10}\nUm {#6}gênio{#0} da rolagem!
+KG_O_TTR_025	Estamos sem palavras.
+KG_O_TTR_026	Estamos em choque.\nFomos superados.
+KG_O_TTR_027	Uma rolagem até elegante demais.\nQue luxo, {^4}o Príncipe é fabuloso.
+KG_O_TTR_028	Chegamos. {^4}{#6}Terra{#0}.
+KG_O_TTR_029	Cheia de coisas, como sempre.
+KG_O_TTR_030	Hum? {^4}HUM!?
+KG_O_TTR_031	Aaah, tão... {^6}tão... p-pequeno...{^4}\nVocê{^5} continua minúsculo.
+KG_O_TTR_032	Nem tínhamos reparado,\ncom essa história das estrelas.
+KG_O_TTR_033	O que é isso? {^5}Esse corpo, esse\nfísico. {^5}Você é mesmo Nosso filho?
+KG_O_TTR_034	Ahá! {^6}Já sei! {^5}
+KG_O_TTR_035	Fique forte enquanto rola o\nkatamari.{^7} Exercite-se {^6}e cresça.
+KG_O_TTR_036	Isso mesmo.
+KG_O_TTR_037	Não pense que vai chegar ao trono\nde escada rolante só porque\né o Príncipe.
+KG_O_TTR_038	Opa, {^7}mudamos de assunto.
+KG_O_TTR_039	Na primeira vez na {#6}Terra{#0}, {^4}\nnão precisa se preocupar com o tempo.
+KG_O_TTR_040	Acho que vamos buscar você {^5}\nquando o katamari tiver {#7}10cm{#0}.
+KG_O_TTR_041	Ah, {^4}acabamos de lembrar...
+KG_O_TTR_042	Há muitos seres vivos aqui, correndo{^5}\nde um lado para o outro e atrapalhando. 
+KG_O_TTR_043	Quando um deles vier por trás, {^4}\n{&s}um {#7}alerta{#0} aparecerá no canto\ninferior esquerdo.
+KG_O_TTR_044	Tente não esbarrar nos seres vivos,{^5} 
+KG_O_TTR_045	mas não se preocupe tanto.
+KG_O_TTR_046	Isso não acaba com o jogo nem nada,\nentão relaxe e vá rolando.
+KG_O_TTR_047	Boa sorte, Príncipe miudinho.
+KG_O_TTR_048	Como vai, Príncipe? {^7}\nComo é a Terra? {^10}Hein? Hein?{^10}
+KG_O_TTR_049	............{^4}{&s}Ah!
+KG_O_TTR_050	Você fez{^4} um katamari de 10cm.\nAh, que maravilha.
+KG_O_TTR_051	Tínhamos esquecido completamente.\nEntão você já entendeu quase tudo,\n{^6}imaginamos.
+KG_O_TTR_052	Todos na {#6}Terra{#0} são muito gentis, {^7}\nentão vão ajudar bastante, sim.
+KG_O_TTR_053	Vão deixar você enrolar tudo,\nsorrindo. {^6}Talvez até acenando. {^6} 
+KG_O_TTR_054	Enfim, {^5}vamos voltar para casa.
+UI_SYS_003	Versão de demonstração
+UI_SYS_004	Dados de Katamari Damacy
+UI_SYS_005	Álbum de fotos de Katamari Damacy
+UI_SYS_006	Dados do jogo
+UI_SYS_007	Dados do sistema
+UI_SYS_008	Verificando dados do sistema.\nNão desligue nem reinicie o aparelho.
+UI_SYS_009	Diâmetro
+UI_SYS_010	sem dados
+UI_SYS_011	novo jogo
+UI_SYS_015	Continuar o jogo {0}?
+UI_SYS_016	Carregando dados.\nNão desligue nem reinicie o aparelho.
+UI_SYS_017	Carregamento concluído.
+UI_SYS_018	Começar um novo jogo?
+UI_SYS_019	Criando dados do sistema.\nNão desligue nem reinicie o aparelho.
+UI_SYS_020	＊Escolha um arquivo para carregar＊
+UI_SYS_021	Carregar o arquivo {0}.\nTudo certo?
+UI_SYS_022	Cancelar o carregamento?
+UI_SYS_023	＊Escolha um arquivo para salvar＊
+UI_SYS_024	Salvar no arquivo {0}.\nTudo certo?
+UI_SYS_025	Sobrescrever o arquivo {0}.\nTudo certo?
+UI_SYS_026	Cancelar o salvamento?
+UI_SYS_027	Salvando dados.\nNão desligue nem reinicie o aparelho.
+UI_SYS_028	Jogo salvo.
+UI_SYS_029	Sim
+UI_SYS_030	Não
+UI_SYS_031	Selecionar
+UI_SYS_032	OK
+UI_SYS_033	Cancelar
+UI_SYS_034	Voltar
+UI_SYS_035	Voltar
+UI_SYS_036	Fechar
+UI_SYS_037	Pular
+UI_SYS_038	Instruções
+UI_SYS_041	Cima
+UI_SYS_042	Baixo
+UI_SYS_043	Esquerda
+UI_SYS_044	Direita
+UI_SYS_045	para selecionar.
+UI_SYS_046	para confirmar.
+UI_SYS_076	s
+UI_SYS_077	1º
+UI_SYS_078	2º
+UI_SYS_079	3º
+UI_SYS_080	Objetos
+UI_SYS_081	Parar de rolar
+UI_SYS_082	Este tamanho de katamari está bom?
+UI_SYS_083	Príncipe fotógrafo
+UI_SYS_084	Exibir
+UI_SYS_085	Ver próxima
+UI_SYS_086	Reduzir
+UI_SYS_087	Ampliar
+UI_SYS_088	Tirar foto
+UI_SYS_089	Salvar fotos no álbum?
+UI_SYS_090	Depois
+UI_SYS_091	Seu katamari equivale a <size=90>{0}</size> destes
+UI_SYS_092	Objetos coletados
+UI_SYS_093	Ranking de categorias
+UI_SYS_094	Objeto da constelação
+UI_SYS_095	Família dos ursos
+UI_SYS_096	Família das vacas
+UI_SYS_097	Ir ao PLANETA NATAL
+UI_SYS_098	Sair da fase e voltar\nao PLANETA NATAL?
+UI_SYS_099	Mesmo tamanho
+UI_SYS_100	Tamanho do katamari =
+UI_SYS_101	{0} de diferença
+UI_SYS_102	Tentar de novo
+UI_SYS_103	Sair
+UI_SYS_104	Diâmetro:
+UI_SYS_105	Concluído:
+UI_SYS_106	Objetos:
+UI_SYS_107	Objeto da constelação / % concluída:
+UI_SYS_108	Objeto da constelação:
+UI_SYS_109	Tamanho:
+UI_SYS_110	Minúsculo
+UI_SYS_111	Pequeno
+UI_SYS_112	Médio
+UI_SYS_113	Grande
+UI_SYS_114	Enorme
+UI_SYS_115	Diâmetro / Objetivo:
+UI_SYS_116	Dados da estrela anterior
+UI_SYS_117	Criar\nestrela
+UI_SYS_118	Criar\npoeira estelar
+UI_SYS_119	Criar\nconstelação
+UI_SYS_120	Criar\nLua
+UI_SYS_121	Estrela
+UI_SYS_122	Poeira estelar
+UI_SYS_123	Constelação
+UI_SYS_124	Lua
+UI_SYS_125	Cometa
+UI_SYS_129	Controle Pro
+UI_SYS_130	Botão direcional
+UI_SYS_131	Direcional
+UI_SYS_132	Botão A
+UI_SYS_133	Botão B
+UI_SYS_134	Botão X
+UI_SYS_135	Botão Y
+UI_SYS_136	Analógico L
+UI_SYS_137	Botão do analógico L
+UI_SYS_138	Analógico R
+UI_SYS_139	Botão do analógico R
+UI_SYS_140	Botão -
+UI_SYS_141	Botão +
+UI_SYS_142	Botão L
+UI_SYS_143	Botão R
+UI_SYS_144	Botão ZL
+UI_SYS_145	Botão ZR
+UI_SYS_146	Botão de captura
+UI_SYS_147	Botão HOME
+UI_SYS_148	Botão SL
+UI_SYS_149	Botão SR
+UI_SYS_150	Controle XInput
+UI_SYS_151	Direcional
+UI_SYS_152	Botão B
+UI_SYS_153	Botão A
+UI_SYS_154	Botão Y
+UI_SYS_155	Botão X
+UI_SYS_156	Analógico L
+UI_SYS_157	Analógico L↑
+UI_SYS_158	Analógico L↓
+UI_SYS_159	Analógico L←
+UI_SYS_160	Analógico L→
+UI_SYS_161	Botão do analógico L
+UI_SYS_162	Analógico R
+UI_SYS_163	Analógico R↑
+UI_SYS_164	Analógico R↓
+UI_SYS_165	Analógico R←
+UI_SYS_166	Analógico R→
+UI_SYS_167	Botão do analógico R
+UI_SYS_168	Botão BACK
+UI_SYS_169	Botão START
+UI_SYS_170	Botão L
+UI_SYS_171	Botão R
+UI_SYS_172	Gatilho L
+UI_SYS_173	Gatilho R
+UI_SYS_174	Botão Guia
+UI_SYS_176	Direcional
+UI_SYS_177	Botão ○
+UI_SYS_178	Botão ×
+UI_SYS_179	Botão △
+UI_SYS_180	Botão □
+UI_SYS_181	Analógico L
+UI_SYS_182	Botão L3
+UI_SYS_183	Analógico R
+UI_SYS_184	Botão R3
+UI_SYS_185	Botão SHARE
+UI_SYS_186	Botão OPTIONS
+UI_SYS_187	Botão L1
+UI_SYS_188	Botão R1
+UI_SYS_189	Botão L2
+UI_SYS_190	Botão R2
+UI_SYS_191	Botão do touchpad
+UI_SYS_192	Botão PS
+UI_SYS_193	Backspace
+UI_SYS_197	Espaço
+UI_SYS_206	Configurações de vídeo
+UI_SYS_207	Resolução
+UI_SYS_208	Suavização de bordas
+UI_SYS_209	Sombras
+UI_SYS_210	Texturas
+UI_SYS_211	Sincronização vertical
+UI_SYS_212	Modo de exibição
+UI_SYS_213	Filtragem anisotrópica
+UI_SYS_214	Contornos
+UI_SYS_215	Profundidade de campo
+UI_SYS_216	Muito alta
+UI_SYS_217	Alta
+UI_SYS_218	Média
+UI_SYS_219	Baixa
+UI_SYS_220	LIGADO
+UI_SYS_221	DESLIGADO
+UI_SYS_222	Finos
+UI_SYS_223	Normais
+UI_SYS_224	Grossos
+UI_SYS_228	Nenhum
+UI_SYS_239	Tela cheia
+UI_SYS_240	Janela
+UI_SYS_241	Janela sem bordas
+UI_SYS_242	Aperte +
+UI_SYS_243	Aperte Start
+UI_SYS_244	Aperte Options
+UI_SYS_245	Aperte Enter
+UI_SYS_246	Lá vem alguma coisa!
+UI_SYS_247	Ufa
+UI_SYS_256	Olhar ao redor
+UI_SYS_257	Esquerdo {0} Selecionar
+UI_SYS_258	Esquerdo {0} Olhar ao redor
+UI_SYS_259	Direito {0} Girar
+UI_SYS_260	Direito {0} Virar
+UI_SYS_261	Tela inicial
+UI_SYS_262	Voltar à tela inicial?
+UI_SYS_263	Sair do jogo
+UI_SYS_264	Concluído
+UI_SYS_265	{0} min {1} s
+UI_SYS_266	<size="50">1</size>º
+UI_SYS_267	<size="36">2</size>º
+UI_SYS_268	<size="36">3</size>º
+UI_SYS_269	Até a versão completa!
+UI_SYS_270	Controle
+UI_SYS_271	Teclado
+UI_SYS_272	Contrato de licença do usuário final
+UI_SYS_273	Política de privacidade
+UI_SYS_274	Concordo
+UI_SYS_275	Discordo
+UI_SYS_276	Reconecte o controle
+UI_SYS_277	Oclusão de ambiente
+UI_SYS_278	Vinheta
+UI_SYS_279	Manual online
+UI_SYS_280	Ao usar os Joy-Con, siga as instruções\ne use as alças. Segure com firmeza\ne não solte os controles.
+UI_SYS_281	Confira se não há ninguém perto de você.
+UI_SYS_282	Salve o jogo no Planeta Natal\nantes de sair.
+UI_SYS_283	Se sair sem salvar, seu progresso\nnão será mantido.
+UI_SYS_284	Você também pode controlar\ncom dois.
+UI_SYS_285	Ir ao site oficial
+UI_SYS_286	Os controles de movimento só funcionam com os dois Joy-Con desconectados do console.
+UI_SYS_287	Mesmo após selecionar "controles de movimento", jogar com os Joy-Con conectados ao console ou com o Controle Pro fará o jogo voltar aos "controles normais".
+UI_SYS_288	Não foi possível carregar o arquivo {0}. Os dados salvos estão corrompidos e foram redefinidos.
+UI_SYS_289	Continuar
+UI_SYS_290	Selecionar
+UI_SYS_291	Comprar Katamari Damacy Reroll
+UI_MSH_001	COGUMELO ESPACIAL
+UI_MSH_002	* Mais um primo chegou! *
+UI_MSH_003	Aperte L e R no\ncontrole do Jogador 1.
+UI_MSH_004	Aperte L e R no\ncontrole do Jogador 2.
+UI_MSH_005	Girar
+UI_MSH_006	Indicador de tamanho do katamari
+UI_MSH_007	Vocês estão do mesmo tamanho.\nO indicador fica girando.
+UI_MSH_008	Você é o maior.\nO indicador fica agitado.
+UI_MSH_009	Você é o menor.\nO indicador fica parado.
+UI_MSH_010	Controles
+UI_MSH_011	Arrancada
+UI_MSH_012	Quanto mais rápido mover os analógicos,\nmais forte será a Arrancada.
+UI_MSH_013	Travar mira
+UI_MSH_014	Mantenha o adversário à vista.
+UI_MSH_015	Começar a batalha?
+UI_MSH_016	Atual
+UI_MSH_017	de diferença
+UI_MSH_018	Arrancada
+UI_MSH_019	Enrole tudo
+UI_MSH_021	{1} {0} de diferença
+UI_MSH_022	O Príncipe
+UI_MSH_046	J1 FUGIU!!
+UI_MSH_047	J2 FUGIU!!
+UI_MSH_048	Configure o controle do J2.
+UI_MSH_049	Configure o controle do J1.
+UI_MSH_050	Quanto mais rápido apertar as teclas,\nmais forte será a Arrancada.
+UI_ERT_001	TERRA
+UI_ERT_002	Ver o final
+UI_ERT_003	Eterno
+UI_ERT_004	Normal
+UI_ERT_005	Ir ao Memorial da LUA
+UI_ERT_006	Criar uma estrela 1
+UI_ERT_007	Criar uma estrela 2
+UI_ERT_009	Criar uma estrela 3
+UI_ERT_011	Criar uma estrela 4
+UI_ERT_012	Criar uma estrela 5
+UI_ERT_013	Criar uma estrela 6
+UI_ERT_014	Criar uma estrela 7
+UI_ERT_015	Criar uma estrela 8
+UI_ERT_016	Criar uma estrela 9
+UI_ERT_017	Criar a Lua
+UI_ERT_018	Criar Câncer
+UI_ERT_019	Criar Cisne
+UI_ERT_020	Criar Coroa Boreal
+UI_ERT_021	Criar Peixes
+UI_ERT_022	Criar Virgem
+UI_ERT_023	Criar Ursa Maior
+UI_ERT_027	Criar Gêmeos
+UI_ERT_028	Criar Touro
+UI_ERT_029	Criar a Estrela Polar
+UI_ERT_030	Eterno 1
+UI_ERT_031	Eterno 2
+UI_ERT_032	Eterno 3
+UI_TTR_001	Rolar\npara a frente
+UI_TTR_002	Rolar para\na direita
+UI_TTR_003	Rolar para\na esquerda
+UI_TTR_004	Rolar\npara trás
+UI_TTR_005	Frear\nRole no\nsentido\ncontrário
+UI_TTR_006	Deslocar para\nos lados
+UI_TTR_007	Deslocamento rápido
+UI_TTR_008	Rolar\npara o lado
+UI_TTR_009	Arrancada
+UI_TTR_010	Olhar
+UI_TTR_011	Meia-volta
+UI_TTR_012	Pular
+UI_TTR_013	Voltar
+UI_TTR_014	Olhar ao redor
+UI_TTR_015	Próximo
+UI_TTR_016	Você não pode enrolar objetos maiores\nque o katamari. Bater em objetos\nmaiores e paredes faz coisas se soltarem\ndo katamari, reduzindo seu tamanho.
+UI_TTR_017	CRASH!
+UI_TTR_018	Objetos de <color="#BC4139FF">formato irregular</color> deixam\nseu katamari <color="#BC4139FF">torto</color>\ne <color="#BC4139FF">desequilibrado</color>.
+UI_TTR_019	Preso...
+UI_TTR_020	BOING!
+UI_TTR_021	Pessoas e carros <color="#BC4139FF">em movimento</color> precisam\nreceber uma <color="#BC4139FF">batida</color> antes de serem <color="#BC4139FF">enrolados</color>.\nQuando o katamari crescer, você poderá enrolá-los diretamente.\nA maioria dos <color="#BC4139FF">animais</color> pode ser enrolada <color="#BC4139FF">diretamente</color>.
+UI_TTR_022	POW!
+UI_TTR_023	AAAAH!
+UI_TTR_024	<color="#BC4139FF">Pequenos</color> <color="#BC4139FF">degraus</color> como este podem ser <color="#BC4139FF">superados</color> com o katamari.
+UI_TTR_025	HOP!
+UI_TTR_026	Ver o tutorial de novo?
+UI_PRN_001	PLANETA NATAL
+UI_PRN_002	DADOS
+UI_PRN_003	SALVAR
+UI_PRN_004	CARREGAR
+UI_PRN_005	Sair do jogo?
+UI_PRN_006	Até a próxima!
+UI_PRN_007	PRESENTES
+UI_PRN_008	VER CONSTELAÇÕES
+UI_PRN_009	COLEÇÃO
+UI_PRN_010	SOM
+UI_PRN_011	Mono
+UI_PRN_012	Estéreo
+UI_PRN_013	Música
+UI_PRN_014	Efeitos
+UI_PRN_015	Padrão
+UI_PRN_016	CONFIGURAR CONTROLES
+UI_PRN_017	Jogador
+UI_PRN_018	J1
+UI_PRN_019	J2
+UI_PRN_020	Tipo A
+UI_PRN_021	Tipo B
+UI_PRN_022	Tipo de controle
+UI_PRN_023	Controles normais
+UI_PRN_024	Controles simples
+UI_PRN_025	Controles Joy-Con (A)
+UI_PRN_026	Controles Joy-Con (B)
+UI_PRN_027	Dispositivo
+UI_PRN_028	Teclado
+UI_PRN_029	Controle
+UI_PRN_030	Vibração
+UI_PRN_031	LIGADA
+UI_PRN_032	DESLIGADA
+UI_PRN_033	Configurar teclas
+UI_PRN_034	Alterar
+UI_PRN_035	Não é possível alterar
+UI_PRN_036	Aperte a tecla que deseja atribuir.
+UI_PRN_037	Restaurar padrão
+UI_PRN_038	Redefinir?
+UI_PRN_039	Testar controles
+UI_PRN_040	Rolar
+UI_PRN_041	Alternar para cima e para baixo
+UI_PRN_042	Ir ao COGUMELO ESPACIAL
+UI_PRN_043	Ir à TERRA
+UI_PRN_044	A Lua
+UI_PRN_045	Terra
+UI_PRN_046	Cogumelo
+UI_PRN_047	Controle de meteoros
+UI_PRN_048	Aperte um dos botões abaixo para ver uma estrela cadente:
+UI_PRN_049	Estrela {0}
+UI_PRN_050	Cometa {0}
+UI_PRN_051	Controles de movimento
+UI_PRN_052	Configurar teclas do jogo
+UI_PRN_053	Esta tecla já está em uso.\nAlterar a atribuição?
+UI_NIC_001	COLEÇÃO
+UI_NIC_002	Objetos
+UI_NIC_003	Coletados
+UI_NIC_004	OBJETOS
+UI_NIC_005	LOCAIS
+UI_NIC_006	NOMES
+UI_NIC_007	TAMANHOS
+UI_NIC_008	ÁLBUM DE FOTOS
+UI_NIC_009	O menor de todos
+UI_NIC_010	Extremamente pequeno
+UI_NIC_011	Muito pequeno
+UI_NIC_012	Pequeno
+UI_NIC_013	Um pouco pequeno
+UI_NIC_014	Médio
+UI_NIC_015	Acima da média
+UI_NIC_016	Um pouco grande
+UI_NIC_017	Grande
+UI_NIC_018	Muito grande
+UI_NIC_019	Extremamente grande
+UI_NIC_020	O maior de todos
+UI_NIC_021	CASA
+UI_NIC_022	CIDADE
+UI_NIC_023	MUNDO
+UI_NIC_024	Pegar foto
+UI_NIC_025	Soltar foto
+UI_NIC_026	Ir à coleção
+UI_NIC_027	Rolar
+UI_NIC_034	Excluir
+UI_NIC_035	Excluir esta foto?
+UI_NIC_036	Tamanho para enrolar:
+UI_NIC_037	RARO
+UI_NIC_038	NOVO
+UI_NIC_039	Carregando álbum de fotos.\nNão desligue nem reinicie o aparelho.
+UI_NIC_040	Salvando
+UI_NIC_041	Sobrescrever os dados do álbum?
+UI_NIC_042	Salvando álbum de fotos.\nNão desligue nem reinicie o aparelho.
+UI_NIC_043	Salvamento concluído.
+UI_NIC_044	Voltar à coleção. Apenas as fotos\nna árvore serão salvas.\nAs demais fotos serão perdidas.\nTudo certo?
+UI_NIC_045	Coloque as fotos novas na árvore\npara salvá-las no álbum.
+UI_NIC_046	Álbum de fotos não encontrado.\nCriar um novo álbum?
+UI_NIC_047	Avançar
+UI_MON_001	LUA
+UI_MON_002	MEMORIAL
+UI_MON_003	Vídeo de abertura
+UI_MON_004	Vídeo de encerramento
+UI_MON_005	Capítulo 1
+UI_MON_006	Capítulo 2
+UI_MON_007	Capítulo 3
+UI_MON_008	Capítulo 4
+UI_MON_009	Capítulo 5
+UI_MON_010	Capítulo 6
+UI_MON_011	Capítulo 7
+UI_MON_012	Capítulo 8
+UI_MON_013	Câncer
+UI_MON_014	Cisne
+UI_MON_015	Coroa\nBoreal
+UI_MON_016	Peixes
+UI_MON_017	Virgem
+UI_MON_018	Ursa\nMaior
+UI_MON_019	Gêmeos
+UI_MON_020	Touro
+UI_MON_021	Estrela\nPolar
+UI_MON_030	Fim de jogo
+UI_MON_042	Cinema
+UI_MON_043	Biblioteca de músicas
+UI_MON_044	Ir à TERRA
+UI_MON_045	Katamari Damacy Reroll\nCréditos da equipe
+UI_END_001	Príncipe encantador
+UI_END_002	O Grande Rei de Todo o Cosmo
+UI_END_003	A Bela Rainha de Todo o Cosmo
+UI_END_004	SIM!
+UI_END_005	Total de objetos coletados:
+UI_END_006	Categorias
+UI_END_007	Diâmetro:
+UI_END_008	Você quase não enrolou países!\n                       - Rei de Todo o Cosmo
+UI_END_009	Não basta! Faltam países!\n                       - Rei de Todo o Cosmo
+UI_END_010	Pouca elegância\npara um Príncipe!\n            - Rei de Todo o Cosmo
+UI_END_011	Quase lá! Só mais alguns países!\n                       - Rei de Todo o Cosmo
+UI_END_012	Enfim, não há mais fronteiras.\nAbsolutamente esplêndido!\n                       - Rei de Todo o Cosmo
+UI_END_013	Ei, o céu ainda não está pronto!\n                                  - Mutsuo
+UI_END_014	Fim.
+UI_END_015	Obrigado.
+UI_END_016	Este planeta azul
+UI_END_017	gira tão tranquilamente.
+UI_END_018	Mas a tristeza
+UI_END_019	nunca vai embora
+UI_END_020	Por que continuamos
+UI_END_021	machucando uns aos outros?
+UI_END_022	Se tudo o que basta é
+UI_END_023	um pouco de carinho e compreensão?
+UI_END_024	AME. Vamos nos conectar,
+UI_END_025	para nossos corações baterem juntos
+UI_END_026	TENTE. Queremos enrolar tudo,
+UI_END_027	para ficarmos todos juntos.
+UI_END_028	Não pare, deixe o amor fluir.
+UI_END_029	Assim ficaremos juntos para sempre.
+UI_END_030	Você consegue ver?
+UI_END_031	Este é o nosso planeta.
+UI_END_032	Uma estrela tão linda...
+UI_END_033	Só precisamos de algumas coisas
+UI_END_034	para fazê-la brilhar. Basta:
+UI_END_035	amar a Mãe Natureza,
+UI_END_036	ter uma alimentação equilibrada,
+UI_END_037	dormir bastante,
+UI_END_038	e pegar um belo bronzeado!
+UI_END_039	De coração vazio, não podemos nos unir.
+UI_END_040	AME. Vamos nos conectar,
+UI_END_041	apesar dos muros entre nós.
+UI_END_042	TENTE. Queremos enrolar tudo,
+UI_END_043	enrolar até
+UI_END_044	os corações partidos.
+UI_END_045	AME. Vamos todos nos enrolar e virar um só.
+UI_END_046	Vamos lá!
+UI_END_047	Ah! Todos viraremos estrelas brilhantes!
+KG_O_SLC_001	Não...{^5}\nRealmente não foi um sonho.
+KG_O_SLC_002	Nós fizemos isso mesmo.{^9} O Rei\nde Todo o Cosmo fez isso mesmo.
+KG_O_SLC_003	Um céu cheio de estrelas...
+KG_O_SLC_004	{^5}Nós quebramos tudo.
+KG_O_SLC_005	Sim,{^3} Nós fomos levados.\nMuito {#3}levados{#0}.
+KG_O_SLC_006	Sentimos muito, muito mesmo.
+KG_O_SLC_007	Mas, só entre você e Nós,
+KG_O_SLC_008	foi uma delícia.{#3}♥{#0}
+KG_O_SLC_009	Não lembramos muito bem,{^6}\n{&s}mas estávamos abraçando a Natureza.
+KG_O_SLC_010	Sentimos a beleza de tudo,{^6}\ne amamos a todos.{^4}\nFoi assim que aconteceu.{^4}
+KG_O_SLC_011	Você viu? Sorrimos de verdade.\nVocê viu?{^4} As estrelas se\ndespedaçando, lindas e perfeitas.
+KG_O_SLC_012	Antes eram tantas\nque até incomodavam.\nAgora só há escuridão.
+KG_O_SLC_013	Hehe...{^5} Foi só um sonho...\nHehe...{^5} Mas um sonho lindo.
+KG_O_SLC_014	M{#3}♥{#0}{^4}A{#3}♥{#0}{^4}S{#3}♥{#0}
+KG_O_SLC_015	Aquele momento fabuloso e milagroso\npassou,{^6} {&a}aca{^4}bou.
+KG_O_SLC_016	Quando voltamos a Nós,{^5}\nestavam todos furiosos.
+KG_O_SLC_017	Nem o Rei de Todo o Cosmo\nescapou da fúria deles.\nMesmo,{^3} todo mundo ficou uma fera.
+KG_O_SLC_018	Enfim,{^5} Príncipe pequenino.
+KG_O_SLC_019	Depressa, traga de volta\no glorioso céu estrelado.
+KG_O_SLC_020	Nosso problema é seu problema. Sim?{^4}\nVocê Nos deve a vida, e Nós\ncobramos a dívida. Sim?
+KG_O_SLC_021	De mãos dadas,{^4} sempre juntos. Sim?\nA própria definição do vínculo\nentre pai e filho. Sim?
+KG_O_SLC_022	Muito bem,{^4} mãos à obra.
+KG_O_SLC_225	O quê?
+KG_O_SLC_226	Esqueceu seu próprio planeta?
+KG_O_SLC_227	É mesmo?{^4} Está falando sério?\nAlém de pequeno,\nvocê é meio lerdo.
+KG_O_SLC_228	Como pai, Nós temos\numa parcela de culpa.
+KG_O_SLC_229	Ah...{^5}\nEste é o seu Planeta Natal.
+KG_O_SLC_230	O planeta onde você mora.
+KG_O_SLC_231	Aqui você pode ver as estrelas,\nsalvar o jogo...{^3} e fazer muito mais.
+KG_O_SLC_232	Você pode até ir à {#6}Terra{#0} e ao\n{#7}Cogumelo Espacial{#0}, apertando\n{3} ou {4}.
+KG_O_SLC_233	Role seu katamari na {#6}Terra{#0}.\nVá ao {#7}Cogumelo Espacial{#0} para\ncompetir com seus primos!
+KG_O_SLC_234	E é isso, Vossa Pequeneza.{^3}\nTrate de se lembrar, Vossa Distração.
+KG_S_CMM_001	Hoje você vai rolar\ndentro de casa.
+KG_S_CMM_002	Hoje você vai rolar\npela cidade.
+KG_S_CMM_003	Hoje você vai rolar\npelo mundo.
+KG_S_CMM_004	Podemos confiar em você por{^5}\n{^5}{$r}{#6}{$t}{#0} no tempo da Terra,
+KG_S_CMM_005	mas, depois disso,{^5}\nnão espere que nem mesmo\no Rei de Todo o Cosmo aguente. 
+KG_S_CMM_006	Há uma passagem por aqui.
+KG_S_CMM_007	Um dos Nossos Presentes Reais!
+KG_S_CMM_008	Você achou! Achou mesmo.\nNão deixe que ele saia do katamari\naté o fim.
+KG_S_CMM_009	{#7}A{#2}rco{#3}-{#4}í{#1}r{#6}i{#3}s{#4}{#0} Real!
+KG_S_CMM_010	Aaah! Ele diminuiu!
+KG_S_CMM_011	Se não passar de 10cm,\nnão vai virar uma estrela decente!
+KG_S_CMM_012	Se não passar de 20cm,\nnão vai virar uma estrela decente!
+KG_S_CMM_013	Se não passar de 50cm,\nnão vai virar uma estrela decente!
+KG_S_CMM_014	Se não passar de 1m,\nnão vai virar uma estrela decente!
+KG_S_CMM_015	Se não passar de 1,5m,\nnão vai virar uma estrela decente!
+KG_S_CMM_016	Se não passar de 3m,\nnão vai virar uma estrela decente!
+KG_S_CMM_017	Se não passar de 6m,\nnão vai virar uma estrela decente!
+KG_S_CMM_018	Se não passar de 12m,\nnão vai virar uma estrela decente!
+KG_S_CMM_019	Se não passar de 30m,\nnão vai virar uma estrela decente!
+KG_S_CMM_020	Se não passar de 300m,\nnão vai virar uma Lua decente!
+KG_S_CMM_021	Ah! Está se desfazendo!\nAgora tem menos de 10cm!
+KG_S_CMM_022	Ah! Está se desfazendo!\nAgora tem menos de 20cm!
+KG_S_CMM_023	Ah! Está se desfazendo!\nAgora tem menos de 45cm!
+KG_S_CMM_024	Ah! Está se desfazendo!\nAgora tem menos de 50cm!
+KG_S_CMM_025	Ah! Está se desfazendo!\nAgora tem menos de 1,5m!
+KG_S_CMM_026	Ah! Está se desfazendo!\nAgora tem menos de 3m!
+KG_S_CMM_027	Ah! Está se desfazendo!\nAgora tem menos de 5m!
+KG_S_CMM_028	Ah! Está se desfazendo!\nAgora tem menos de 12m!
+KG_S_CMM_029	Se não aumentar o katamari,\nnão poderá ir à próxima fase!
+KG_S_CMM_030	Ah??{^4} Que belo katamari.
+KG_S_CMM_031	Vamos deixar você trabalhar, então.
+KG_S_CMM_032	Ah, ele diminuiu.\nMas isso não importa no Eterno.
+KG_S_S01_001	O katamari deve ter...{^6} Vejamos,\nmais ou menos {#7}{$s}{#0}.
+KG_S_S01_002	Esperamos um belo katamari,\n{^6}Príncipe minúsculo...
+KG_S_S01_003	{#0}Muito bem,{^5} acabou.
+KG_S_S01_004	Que tédio foi ficar assistindo.{^4}\nVamos voltar voando ao Espaço.
+KG_S_S01_005	Um lápis! Comprido!
+KG_S_S01_006	É um peão,{^3} um peão,{^3} um peão{^3} de xadrez.
+KG_S_S01_007	Que queijo cheio de queijice.
+KG_S_S01_008	Olha, ouro!
+KG_S_S01_009	Ah,{^5} Marcy.
+KG_S_S01_010	Cheia de cores, como sempre.
+KG_S_S01_011	Que perturbador.
+KG_S_S01_012	Caramelos são uma delícia.
+KG_S_S01_013	Que carta é essa?
+KG_S_S01_014	Mosquito...
+KG_S_S01_015	90 ienes no total.\nVai comprar algo para Nós?
+KG_S_S01_016	Economize energia!
+KG_S_S01_017	Ah! Formigas por toda parte.
+KG_S_S01_018	Ainda falta um polimento,{^4}\nmas tem potencial.
+KG_S_S01_019	Mas, já que chegou até aqui,{^6}\nqueremos um katamari realmente\nlindo e enorme.
+KG_S_S01_020	Olha só. Nada mal.\nUm katamari bem grande.
+KG_S_S01_021	Mas você pode deixá-lo muito,\nmuito maior, se for mesmo\num Príncipe.
+KG_S_S01_022	E ah,{^4} tivemos uma ideia.
+KG_S_S01_023	Tivemos uma ideia.\nSe o katamari for grande o bastante,
+KG_S_S01_024	vamos transformá-lo em estrela\nmesmo que você volte direto\nao Planeta Natal. 
+KG_S_S01_025	Você pode voltar pela\n{#4}tela de pausa{#0}.\nAté mais tarde.
+KG_O_MSC_001	Você ainda tem {#3}{$t}{#0}.
+KG_O_MSC_002	Ah! Um dos Nossos Presentes Reais!
+KG_O_MSC_003	Um tesouro sem igual, escolhido\npor este Rei dos Reis para seu herdeiro.
+KG_O_MSC_004	Enrole-o com cuidado.
+KG_O_MSC_005	Ah, priminho.\nO que faz aqui na Terra?
+KG_O_MSC_006	Enviando coisas à {#6}Terra{#0}...
+KG_O_MSC_007	Objetos... {^2}Mapas... {^2}Esperanças...\nSonhos...{^2} Amor... {^2}Alegria...
+KG_O_MSC_008	Confusão... {^2}Hesitação...\nCaprichos... {^2}Superficialidade... 
+KG_O_MSC_009	Som... {^2}Programas... {^2}Beleza...\n{^2}Luz... Cosmo... {^2}Big Bang...
+KG_O_MSC_010	{^2}Aquele dia... {^2}Aquele momento...{^2} Humor...\n{^2}Clima... {^2}Cheiro... {^2}Toque...
+KG_O_MSC_011	Mapas... {^2}Programas... {^2}Sentimentos...\nInspiração...{^2} Sabor...{^2} Moda...
+KG_O_MSC_012	Maravilha...{^2} Coração...{^2} Elegância...\nSorrisos...{^2} Covinhas... {^2}Sardas...
+KG_O_MSC_013	Filmes... {^2}Programas... {^2}Elefantes...\nGirafas...{^2} Ovelhas... {^2}Jacarés...
+KG_O_MSC_014	Vacas...{^2} Lontras-marinhas...{^2} Galinhas...\nOvos...{^2} Ovos cozidos...{^2} Pinguins
+KG_O_MSC_015	Hmmmmm...
+KG_O_MSC_016	Certo.\nA vibração está {#4}LIGADA{#0}.
+KG_O_MSC_017	Entendido.\nA vibração está {#4}DESLIGADA{#0}.
+KG_O_MSC_018	Como vai, {^6}\nNosso filho e herdeiro?
+KG_O_MSC_019	Faça um katamari grande por Nós.
+KG_O_MSC_020	Queremos cerca de{^4} {#3}$s{#0} para esta estrela.
+KG_O_MSC_021	Podemos esperar, hum, {^5}{$r}{#1}{$t}{#0},\nmas, depois disso, {^5}quem sabe.{^5}
+KG_O_MSC_022	Estamos ansiosos, {^4}\nNosso amado filho.
+KG_O_MSC_023	Hum, {^2}o katamari certamente\ncresceu...
+KG_O_MSC_024	É grande, mas {^5}queremos {#6}elegância{#0}\n{^5}e classe, {^5}{#7}cabeças se virando{#0}.\nQueremos suspiros e {^4}{#6}corações a mil{#0}.\nUm katamari cheio de {^4}{#7}brilho{#0}\ne inspiração. Nós queremos!{^5}
+KG_O_MSC_025	Mire mais alto!\n{^5}Até mais.
+KG_O_MSC_026	{#0}Bela rolagem! {^5}\n{#1}Você está melhorando!
+KG_O_MSC_027	{#0}Bela rolagem! {^5}\n{#2}Uma rolagem e tanto!
+KG_O_MSC_028	{#0}Bela rolagem! {^5}\n{#4}Você está crescendo!
+KG_O_MSC_029	Muito lento!{^6} Se está vivo,\n{^4}pegue antes que fuja!
+KG_O_MSC_030	{#1}Seu pateta!{#0}{^5}\nVocê deixou escapar!
+KG_O_MSC_031	{#2}Seu molenga!{#0}{^5}\nVocê deixou escapar!
+KG_O_MSC_032	{#3}Seu palhaço!{#0}\nVocê deixou escapar! {^5}
+KG_O_MSC_033	Teletranspooorte!\nEsse foi o "Teletransporte Real".
+KG_O_MSC_034	Só ajudando você a sair do aperto.
+KG_O_MSC_035	{^4}Mil desculpas.
+KG_O_MSC_036	OH!
+KG_O_MSC_037	O mesmo objeto! Foi a primeira\ncoisa que Nós enrolamos na vida!
+KG_O_MSC_038	Ah, ficamos emocionados.\nVamos anotar isso no diário.
+KG_O_MSC_039	OH!
+KG_O_MSC_040	O mesmo objeto! Foi a primeira\ncoisa em que Nós batemos na vida!
+KG_O_MSC_041	Vamos anotar isso no diário.
+KG_O_MSC_042	Bela rolagem!{^5}\nQue nobreza! {^4}Estamos deslumbrados!
+KG_O_MSC_043	Se alguma coisa sair correndo,\nenrole {#2}antes {#0}que ela fuja.
+KG_O_MSC_044	É claro que vamos anotar\nisso no diário.
+KG_O_MSC_045	Nããão, tarde demais!{^5}\nO que você está fazendo!
+KG_O_MSC_046	Se algo sair correndo, enrole\n{#2}antes{#0} que fuja. 
+KG_O_MSC_047	Vamos contar para a sua mãe.
+KG_O_MSC_048	Oooh!
+KG_O_MSC_049	O mesmo lugar! Foi bem {#6}aqui{#0}\nque Nós descansamos pela primeira vez!
+KG_O_MSC_050	Grazie, só um devaneio.\nVamos anotar isso no diário.
+KG_O_MSC_051	Oooh!
+KG_O_MSC_052	O mesmo lugar! Foi bem {#7}aqui{#0}\nque Nós nadamos pela primeira vez!
+KG_O_MSC_053	Estamos cheios de esperança.\n{&n}Vamos anotar isso no diário.
+KG_O_MSC_054	Muito bem.\nHora de aprender a tirar fotos.
+KG_O_MSC_055	Use {5} para olhar ao\nredor{^6} e aperte {#3}{6}{#0} para tirar uma foto.
+KG_O_MSC_056	É importante lembrar, mas {^5}
+KG_O_MSC_057	você só pode salvar {&s}{#4}3 {#0}míseras fotos.
+KG_O_MSC_058	Essas {#4}3 {#0}fotos ficam salvas nos\nnúmeros{#4} 1{#0},{#4} 2{#0} e{#4} 3{#0} do canto superior esquerdo.
+KG_O_MSC_059	{#6}Preste atenção!{#0}
+KG_O_MSC_060	O {#6}número{#0} que você escolher\nterá sua foto {#6}substituída{#0}.\nSem exceções.
+KG_O_MSC_061	Então, {^3}é bom conferir{^5}\nantes de tirar uma foto.
+KG_O_MSC_062	A última função mágica. 
+KG_O_MSC_063	Aperte {#2}{7}{#0} para ampliar a imagem.
+KG_O_MSC_064	Aperte {3} ou {4}\npara alternar entre as fotos{#6} 1{#0},{#6} 2 {#0}e{#6} 3{#0}.
+KG_O_MSC_065	Ah, explicação demais.
+KG_O_MSC_066	Se for tirar fotos,\nvire um profissional.
+KG_O_MSC_067	Ah, sim,{^4} quase esquecemos.\nTinha saído da cabeça.
+KG_O_MSC_068	Ao rolar na {#6}Terra{#0}, há\nmais algumas coisas para observar.
+KG_O_MSC_069	Hum?{^3}\nVai voltar ao seu Planeta Natal?
+KG_O_MSC_070	Vai voltar ao seu Planeta Natal?\nE o belo katamari grandão?{^4}\n{&n}Então você está desistindo.
+KG_O_MSC_071	Você tem seus motivos, {^6}sim.
+KG_O_MSC_072	Como tem um tamanho razoável,\nvamos transformá-lo em poeira estelar.
+KG_O_MSC_073	Não queremos desperdiçar.

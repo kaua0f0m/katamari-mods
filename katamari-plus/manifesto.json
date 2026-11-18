@@ -1,0 +1,29 @@
+{
+  "accepted_test_assemblies": [
+    "5170d8a7cc01c8317ce09446521e461a625a7e889d0608d72e70eee42b52b2bc",
+    "f07ef949334f74ebe83bd97ab192ea6fdf516a453189269feccb7ec52a28fe77"
+  ],
+  "files": [
+    {
+      "sha256": "f07ef949334f74ebe83bd97ab192ea6fdf516a453189269feccb7ec52a28fe77",
+      "path": "katamari_Data/Managed/Assembly-CSharp.dll",
+      "previous_sha256": "125cf93bfdcc9e360cfa21d00a3641f2e1f5445366bc8db86c791710059698fc"
+    },
+    {
+      "sha256": "e3fef0a10c628f9e2acce1edc16b030509ae00f09b26ce9e08f9f5d2c7ad1d44",
+      "path": "katamari_Data/Managed/KatamariQoL.dll",
+      "previous_sha256": "5f3924078e55d284a44a11f46f3a97033c8fef49c18192af767e1c1ab4408ecb"
+    }
+  ],
+  "game": "Katamari Damacy REROLL",
+  "validation": {
+    "method_bodies_parsed": 6576,
+    "original_camera_unchanged": true,
+    "native_empty_dash_stubs_unused": true,
+    "runtime": "v2.0.50727",
+    "branch_targets_checked": 16962
+  },
+  "original_assembly_sha256": "b8e181cf130b6fddb3670f03af6c15ecf8bc2e22689ea6ccc9624dee1c4de03b",
+  "version": "0.2",
+  "steam_appid": 848350
+}

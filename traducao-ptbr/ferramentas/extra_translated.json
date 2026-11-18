@@ -1,0 +1,4447 @@
+[
+  {
+    "object": 1591,
+    "id": "EULA_0001",
+    "offset": 148,
+    "en": "BANDAI NAMCO ENTERTAINMENT\r\nEND USER LICENSE AGREEMENT",
+    "pt": "BANDAI NAMCO ENTERTAINMENT\r\nCONTRATO DE LICENÇA DO USUÁRIO FINAL"
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0002",
+    "offset": 544,
+    "en": "Last Updated: April 1, 2018",
+    "pt": "Última atualização: 1 de abril de 2018"
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0003",
+    "offset": 1160,
+    "en": "PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.",
+    "pt": "LEIA ESTE CONTRATO ATENTAMENTE. AO ACESSAR OU USAR NOSSOS JOGOS OU SERVIÇOS, VOCÊ CONCORDA EM FICAR VINCULADO A TODOS OS TERMOS AQUI DESCRITOS E A TODOS OS TERMOS INCORPORADOS POR REFERÊNCIA. SE NÃO CONCORDAR COM TODOS ELES, NÃO ACESSE NEM USE NOSSOS JOGOS OU SERVIÇOS."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0004",
+    "offset": 3164,
+    "en": "THIS AGREEMENT CONTAINS, AMONG OTHER THINGS, AN ARBITRATION PROVISION (SECTION 19(a)) AND A CLASS ACTION WAIVER (SECTION 19(b)), WHICH DO NOT APPLY TO YOU IF YOU RESIDE OUTSIDE THE UNITED STATES.",
+    "pt": "ESTE CONTRATO CONTÉM, ENTRE OUTRAS DISPOSIÇÕES, UMA CLÁUSULA DE ARBITRAGEM (SEÇÃO 19(a)) E UMA RENÚNCIA A AÇÕES COLETIVAS (SEÇÃO 19(b)), QUE NÃO SE APLICAM A VOCÊ SE RESIDIR FORA DOS ESTADOS UNIDOS."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0005",
+    "offset": 5216,
+    "en": "If you are a resident of Germany, some specific clauses apply to you. See Sections 7 and 15 for details.\r\nIf you are a resident of the European Union, a specific clause applies to you. See Section 10 for details.\r\nIf you are a resident of Australia, a specific clause applies to you. See Section 15 for details.\r\nIf you are a resident of North, Central, or South America, excluding the United States, a specific clause applies to you. See Section 18 for details.\r\nIf you are a resident of the United States a specific clause applies to you. See Section 19 for details.",
+    "pt": "Se você é um residente da Alemanha, algumas cláusulas específicas se aplicam a você. Veja as Seções 7 e 15 para detalhes.\r\nSe você é um residente da União Europeia, uma cláusula específica se aplica a você. Veja a Seção 10 para detalhes.\r\nSe você é um residente da Austrália, uma cláusula específica se aplica a você. Veja a Seção 15 para detalhes.\r\nSe você é um residente da América do Norte, Central ou do Sul, excluindo os Estados Unidos, uma cláusula específica se aplica a você. Veja a Seção 18 para detalhes.\r\nSe você é um residente dos Estados Unidos, uma cláusula específica se aplica a você. Veja a Seção 19 para detalhes."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0006",
+    "offset": 10132,
+    "en": "This End User License Agreement (this “Agreement”) is a contract between you and either BANDAI NAMCO Entertainment Inc. (“BNEI”), BANDAI NAMCO Entertainment America Inc. (“BNEA”) or BANDAI NAMCO Entertainment Europe S.A.S. (“BNEE”) as applicable (in either case, “BANDAI NAMCO”, “us”, “we” or “our”) and applies to your access to, and use of, the game in which this Agreement appears (or if posted online, the game referenced above), including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with BANDAI NAMCO for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by BANDAI NAMCO.",
+    "pt": "Este Contrato de Licença de Usuário Final é um contrato entre você e a BANDAI NAMCO Entertainment Inc. (BNEI), BANDAI NAMCO Entertainment America Inc. (BNEA) ou BANDAI NAMCO Entertainment Europe S.A.S. (“BNEE”) conforme aplicável (em ambos os casos, “BANDAI NAMCO”, “nós”, “nós” ou “nosso”) e aplica-se ao seu acesso e uso do jogo no qual este Contrato aparece (ou se publicado online, o jogo referenciado acima), incluindo, sem limitação, qualquer porção multi-jogador, online, ou descarregável e qualquer documentação escrita ou eletrônica relacionada ou conteúdo (o “Jogo”). O jogo é licenciado, e não vendido, e este acordo não confere nenhum título ou propriedade ao jogo ou qualquer cópia dele. Este Acordo não altera de forma alguma os termos ou condições de qualquer outro acordo que você possa ter com a BANDAI NAMCO para outros produtos ou serviços. Quaisquer mudanças, adições ou deleções por você não são aceitáveis, e são expressamente rejeitadas pela BANDAI NAMCO."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0007",
+    "offset": 16604,
+    "en": "Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.",
+    "pt": "Termos adicionais fornecidos por nós (incluindo, mas não limitado a, taxas postadas, procedimentos de faturamento, e regras de promoção) podem se aplicar a funcionalidades particulares e recursos que fazem parte do jogo. Salvo indicação em contrário, quaisquer termos adicionais aplicáveis são incorporados por referência ao presente Acordo. Em caso de conflito entre este Acordo e quaisquer termos adicionais, os termos adicionais devem governar em relação a tais funcionalidades e características particulares."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0008",
+    "offset": 19956,
+    "en": "\r\n1. \tCONTRACTING PARTY. The BANDAI NAMCO entity with which you are entering into a contractual relationship with depends on your place of residence. If you are a resident of Asia, this Agreement is between you and BNEI. If you are a resident of North, Central, or South America, this Agreement is between you and BNEA. If you are a resident of anywhere else, this Agreement is between you and BNEE.",
+    "pt": "\r\n1.\tPARTE CONTRATANTE. A entidade da BANDAI NAMCO com a qual você estabelece uma relação contratual depende do seu local de residência. Se residir na Ásia, este Contrato será celebrado entre você e a BNEI. Se residir na América do Norte, Central ou do Sul, este Contrato será celebrado entre você e a BNEA. Se residir em qualquer outro local, este Contrato será celebrado entre você e a BNEE."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0009",
+    "offset": 22556,
+    "en": "\r\n2. \tPRIVACY. Data collected through this Game is controlled by BNEA. For more information, please refer to BNEA’s Privacy Policy (which will be shown after this Agreement) for information about how we collect, use, and disclose such data.",
+    "pt": "\r\n2.\tPRIVACIDADE. Os dados coletados por meio deste Jogo são controlados pela BNEA. Consulte a Política de Privacidade da BNEA, apresentada após este Contrato, para saber como coletamos, usamos e divulgamos esses dados."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0010",
+    "offset": 25996,
+    "en": "\r\n3. \tPRECONDITIONS OF THE LICENSES. The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:\r\na)\tYou have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms;\r\nb)\tYou agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;\r\nc)\tYour access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.\r\nd)\tYour access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.\r\ne)\tYou access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);\r\nf)\tYou have accepted and are in compliance with all terms and conditions applicable to the Hardware, including any terms of such platform regarding the checkout process.",
+    "pt": "\r\n3. \tCONDIÇÕES PRÉVIAS DAS LICENÇAS. As licenças concedidas neste Contrato estão especificamente condicionadas ao seguinte e ao seu total cumprimento de todos os outros termos e condições estabelecidos neste Contrato:\r\na) Você chegou à maioridade em sua jurisdição. Se você está abaixo da maioridade em sua jurisdição, seu pai ou tutor legal deve concordar em ser vinculado por este Acordo e quaisquer termos adicionais aplicáveis;\r\nb) Você concorda e cumpre todos os termos deste Acordo, e quaisquer termos adicionais que possam ser aplicáveis ao Jogo;\r\nc) Seu acesso e uso do jogo estão sujeitos a certas medidas de segurança, incluindo, sem limitação, registrar o jogo com um código de série, ter acesso contínuo à Internet, e aceitar certos recursos de segurança / gerenciamento de direitos digitais. Falhar em aceitar e cumprir totalmente com tais medidas de segurança pode prejudicar parcial ou completamente seu uso do jogo.\r\nd) Seu acesso e uso do jogo estão de acordo com todas as leis e regulamentos locais, estaduais, nacionais e estrangeiros aplicáveis.\r\ne) Você acessa e usa o jogo apenas em máquinas locais, executando cópias válidas licenciadas de sistemas operacionais em que o jogo foi projetado para operar (o \"Hardware\";\r\nf) Você aceitou e está em conformidade com todos os termos e condições aplicáveis ao Hardware, incluindo quaisquer termos de tal plataforma sobre o processo de checkout."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0011",
+    "offset": 36708,
+    "en": "\r\n4. \tLIMITED USE LICENSE.\r\na)\tSubject to the terms of this Agreement and your compliance with these terms, we grant you a nonexclusive, nontransferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.\r\nb)\tThe preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); (ii) use the Game for any purpose other than your own personal, noncommercial use; (iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; (iv) modify, alter, or create any derivative works of the Game; (v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; (vi) use the Game for purposes for which it is not designed; (vii) use the Game on any Hardware that you do not own or exclusively control; (viii) circumvent, or attempt to circumvent, any security measures in the Game; or (ix) attempt to obscure or mask your region when accessing any online features of the Game.",
+    "pt": "\r\n4. \tLICENÇA DE USO LIMITADO.\r\na) Sujeito aos termos deste Contrato e sua conformidade com estes termos, nós lhe concedemos uma licença não exclusiva, intransferível e limitada para usar o Jogo para o termo do Acordo em seu país de residência, em Hardware que você possui ou controla exclusivamente e apenas conforme permitido pelas regras de uso da plataforma aplicáveis ou termos de uso (se houver). Quaisquer atualizações, suplementos ou substituições ao jogo original são regidas por este Acordo a menos que termos de licença separados acompanhem tal atualização.\r\nb) Os estados precedentes a totalidade de seus direitos com relação ao jogo, e reservamos todos os direitos dentro e para o jogo não expressamente concedido a você neste acordo. Sem limitar o precedente, Você não vai fazer, ou autorizar ou permitir que qualquer terceiro faça, Qualquer um dos seguintes: (i) distribuir, Entendido Licença, aluguel, Ou vender o jogo (exceto como expressamente permitido por esta licença ou as regras de uso da plataforma aplicáveis); (ii) usar o jogo para qualquer outro propósito além de seu próprio pessoal, Uso não comercial; (iii) engenharia reversa, Descompilar, Desmontar, Ou tentar descobrir o código fonte do jogo; iv) modificar, alter, Ou criar qualquer obra derivada do jogo; (v) remover, alter, ou obscurecer qualquer direito de autor, Marca registrada, ou outros direitos de propriedade no jogo ou no jogo; (vi) usar o jogo para fins para os quais não foi projetado; (vii) usar o jogo em qualquer hardware que você não possui ou controle exclusivo; (viii) contornar, Ou tentar contornar, Quaisquer medidas de segurança no jogo; ou (ix) tentar obscurecer ou mascarar sua região quando acessar qualquer recurso online do jogo."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0012",
+    "offset": 47612,
+    "en": "\r\n5. \tOWNERSHIP. The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the BANDAI NAMCO logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of BANDAI NAMCO or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.",
+    "pt": "\r\n5. \tPROPRIEDADE. O Jogo e todo o conteúdo (exceto Conteúdo do Usuário, conforme definido abaixo) e outros materiais do Jogo ou disponíveis através do Jogo, incluindo, sem limitação, o logotipo da BANDAI NAMCO, e todos os projetos, textos, gráficos, imagens, informações, dados, software, arquivos de som, Moeda do Jogo, Itens Virtuais, outros arquivos e a seleção e arranjo dos mesmos são propriedade da BANDAI NAMCO ou de seus licenciantes e são protegidos por direitos autorais e outras leis e tratados de propriedade intelectual. Apesar de qualquer disposição em contrário aqui, você concorda que você não tem nenhum direito ou título ou qualquer conteúdo que apareça no jogo, incluindo, sem limitação, qualquer moeda do jogo e itens virtuais."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0013",
+    "offset": 53644,
+    "en": "\r\n6. \tTERM.\r\na)\tSubject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. BANDAI NAMCO shall not be liable to you or any third party for termination of your use of the Game.\r\nb)\tWithout limiting any other rights of BANDAI NAMCO, if you fail to comply with the terms and conditions of this Agreement, BANDAI NAMCO retains the right to immediately limit, suspend, or terminate your license to the Game.\r\nc)\tUpon termination of this Agreement: (i) your license to the Game shall cease immediately; and (ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.\r\nd)\tSections 4(b), 5, 6(d), 8, 11, 14-23 shall survive termination of this Agreement.",
+    "pt": "\r\n6. \tVIGÊNCIA.\r\nA) Sujeito a sua satisfação com as condições estabelecidas na Seção 3, este Acordo permanecerá em plena força e efeito enquanto você usar o Jogo. Qualquer uma das partes pode rescindir este acordo com ou sem causa a qualquer momento com aviso prévio razoável. Você pode rescindir este Acordo apagando ou destruindo todas as cópias do Jogo em sua posse, custódia ou controle. BANDAI NAMCO não será responsável perante você ou qualquer terceiro por rescisão de seu uso do jogo.\r\nb) Sem limitar quaisquer outros direitos da BANDAI NAMCO, se você não cumprir os termos e condições deste Acordo, a BANDAI NAMCO mantém o direito de limitar, suspender ou encerrar imediatamente sua licença para o Jogo.\r\nc) Após a rescisão deste Contrato: (i) sua licença para o Jogo deve cessar imediatamente; e (ii) você não terá direito a um reembolso de quaisquer taxas, incluindo quaisquer taxas não utilizadas, se houver, exceto para a Moeda de Jogo Comprada reembolsada conforme exigido pela lei aplicável.\r\nd) Seções 4(b), 5, 6(d), 8, 11, 14-23 sobreviverão à rescisão deste Acordo."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0014",
+    "offset": 62104,
+    "en": "\r\n7. \tAMENDMENTS. BANDAI NAMCO reserves the right to change or modify this Agreement at any time and for any reason at BANDAI NAMCO’s sole discretion. If BANDAI NAMCO makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.\r\n\r\nIf you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:\r\n\r\nBANDAI NAMCO reserves the right to change or modify this Agreement at any time, with the exception of the provisions determining the parties' primary contractual obligations hereunder. The parties' primary contractual obligations will not be changed in the manner described in this section. BANDAI NAMCO will inform you of any proposed modification of this Agreement, provide you with the proposed new version of this Agreement and notify you of the date when the new Agreement will be implemented. Any change is subject to a prior written (e-mail sufficient) notice of six weeks. If you do not expressly refuse the respective modification within six weeks from the date on which the new Agreement is implemented, you are deemed to have approved the modification of the Agreement. In the aforementioned notice of the proposed modification, BANDAI NAMCO will inform you expressly and specifically about the right to object within the six week period and the consequences of not expressly refusing the proposed modification.",
+    "pt": "\r\n7. \tALTERAÇÕES. BANDAI NAMCO reserva-se o direito de alterar ou modificar este Acordo a qualquer momento e por qualquer razão, a critério exclusivo da BANDAI NAMCO. Se a BANDAI NAMCO fizer mudanças neste Acordo, forneceremos um mês de aviso prévio de tais mudanças, como por exemplo, dando aviso através do Jogo. Seu uso contínuo do jogo após a data efetiva de tais mudanças confirmará sua aceitação do acordo revisto.\r\n\r\nSe você é um residente da Alemanha, além dos termos acima nesta seção, o seguinte texto adicional será aplicável a você:\r\n\r\nA BANDAI NAMCO reserva-se o direito de alterar ou modificar este Acordo a qualquer momento, com exceção das disposições que determinam as principais obrigações contratuais das partes. As principais obrigações contratuais das partes não serão alteradas da forma descrita nesta seção. BANDAI NAMCO irá informá-lo de qualquer proposta de modificação deste Acordo, fornecer-lhe a nova versão proposta deste Acordo e notificá-lo da data em que o novo Acordo será implementado. Qualquer mudança está sujeita a um aviso prévio escrito (e-mail suficiente) de seis semanas. Se você não recusar expressamente a respectiva modificação dentro de seis semanas a partir da data em que o novo acordo é implementado, você é considerado como tendo aprovado a modificação do acordo. No aviso acima mencionado da modificação proposta, a BANDAI NAMCO irá informá-lo expressamente e especificamente sobre o direito de se opor dentro do período de seis semanas e as consequências de não recusar expressamente a modificação proposta."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0015",
+    "offset": 71768,
+    "en": "\r\n8. \tMODIFICATION OF THE GAME. BANDAI NAMCO reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that BANDAI NAMCO will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof.",
+    "pt": "\r\n8. \tMODIFICAÇÃO DO JOGO. BANDAI NAMCO reserva-se o direito de modificar ou descontinuar, temporária ou permanentemente, o jogo ou quaisquer características ou porções dele com aviso prévio razoável e, em caso de emergência ou se absolutamente necessário, sem aviso prévio. Você concorda que BANDAI NAMCO não será responsável por qualquer modificação, suspensão, ou descontinuidade do jogo ou qualquer parte dele."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0016",
+    "offset": 78724,
+    "en": "\r\n9. \tIN-GAME CURRENCY AND VIRTUAL ITEMS.\r\na) \tBANDAI NAMCO may offer you the ability to: (i) purchase a limited license to use in-game currency (“Purchased Game Currency”); (ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, (“Game Currency”); and/or (iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by BANDAI NAMCO in the Game (“Virtual Items”). If BANDAI NAMCO offers the ability to purchase or earn such licenses, BANDAI NAMCO shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.\r\nb) \tGame Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from BANDAI NAMCO or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither BANDAI NAMCO nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that BANDAI NAMCO may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. BANDAI NAMCO, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.\r\nc) \tAll purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, BANDAI NAMCO does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.\r\nd) \tYou may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by BANDAI NAMCO. Except as otherwise agreed herein, BANDAI NAMCO reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.\r\ne) \tThe licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.",
+    "pt": "\r\n9. \tMOEDA DO JOGO E ITENS VIRTUAIS.\r\na) A BANDAI NAMCO pode oferecer a você a capacidade de: (i) comprar uma licença limitada para usar a moeda no jogo (“Moeda de Jogo Comprada”); (ii) ganhar uma licença limitada para usar a moeda no jogo executando tarefas específicas no jogo (juntamente com a moeda de jogo Comprada, (“Moeda de Jogo”); e/ou (iii) ganhar uma licença limitada, e/ou comprar uma licença limitada com a moeda de jogo, para bens e serviços virtuais disponibilizados pela BANDAI NAMCO no jogo (“Itens Virtuais”). Se a BANDAI NAMCO oferecer a capacidade de comprar ou ganhar tais licenças, a BANDAI NAMCO lhe concederá um direito e licença não exclusivos, não transferíveis, revogáveis, limitados para usar tal moeda de jogo ou itens virtuais, conforme aplicável, para seu uso pessoal, não comercial exclusivamente no Jogo, sujeito aos termos deste Contrato e sua conformidade com ele.\r\nb) A moeda do jogo só pode ser resgatada para itens virtuais para uso no jogo e nem a moeda do jogo nem os itens virtuais são reembolsáveis por dinheiro, qualquer coisa de valor monetário, ou por qualquer equivalente monetário da BANDAI NAMCO ou de qualquer outra pessoa ou entidade, exceto conforme exigido pela lei aplicável. Moeda do jogo e itens virtuais não têm um valor equivalente em moeda real e não agem como um substituto para moeda real. Nem a BANDAI NAMCO nem qualquer outra pessoa ou entidade tem qualquer obrigação de trocar a moeda do jogo ou itens virtuais por algo de valor, incluindo, mas não limitado a, moeda real. Você reconhece e concorda que a BANDAI NAMCO pode se envolver em ações que podem afetar os atributos do jogo ou valor percebido da Moeda do Jogo e/ou Itens Virtuais a qualquer momento, exceto conforme proibido pela lei aplicável. BANDAI NAMCO, a seu exclusivo critério, pode impor limites à quantidade de moeda do jogo que pode ser comprada, ganhada ou redimida.\r\nc) Todas as compras de moeda de jogo comprada são finais e não são reembolsáveis, transferíveis, ou intercambiáveis em qualquer circunstância, exceto conforme exigido pela lei aplicável.  Exceto pelo preço de compra da moeda do jogo comprado e certos itens virtuais, a BANDAI NAMCO não cobra taxas pelo acesso, uso ou não uso da moeda do jogo ou itens virtuais.\r\nd) Você não pode transferir, vender, presente, troca, comércio, locação, sublicenciamento, ou alugar moeda de jogo ou itens virtuais exceto no jogo e como expressamente permitido pela BANDAI NAMCO. Exceto como acordado aqui, a BANDAI NAMCO reserva e retém todos os direitos, títulos e interesses na moeda do jogo e itens virtuais.\r\ne) As licenças concedidas aqui para a Moeda do Jogo e Itens Virtuais terminarão após a rescisão deste Acordo, de acordo com a Seção 6, exceto conforme disposto aqui."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0017",
+    "offset": 95640,
+    "en": "\r\n10. \tRIGHT OF WITHDRAWAL. If you are a resident of a member state of the European Union, you have certain withdrawal rights for purchases of Game Currency or Virtual Items made with real currency. However, you expressly waive your withdrawal right once the performance of the service begins when your account is provided access to the Game Currency or Virtual Items. You agree that: (i) download of Game Currency or Virtual Items begins immediately after purchase; and (ii) you lose your right of withdrawal once the purchase is complete.",
+    "pt": "\r\n10. \tDIREITO DE ARREPENDIMENTO. Se você é residente de um Estado membro da União Europeia, você tem certos direitos de retirada para compras de moeda de jogo ou itens virtuais feitos com moeda real. No entanto, você renuncia expressamente a sua retirada direito uma vez que o desempenho do serviço começa quando a sua conta é fornecido acesso à moeda do jogo ou itens virtuais. Você concorda que: (i) o download da moeda do jogo ou itens virtuais começa imediatamente após a compra; e (ii) você perde seu direito de retirada quando a compra é concluída."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0018",
+    "offset": 100416,
+    "en": "\r\n11. \tUSER CONTENT. By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant BANDAI NAMCO a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to BANDAI NAMCO’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to BANDAI NAMCO survives any termination or revocation of this Agreement.",
+    "pt": "\r\n11. \tCONTEÚDO DO USUÁRIO. Ao postar qualquer comunicação, informação, propriedade intelectual, material, mensagens, fotos, gráficos, vídeos, URLs e outros itens ou conteúdo para o Jogo (“Conteúdo do Usuário”), na medida permitida pela lei local aplicável, você concede à BANDAI NAMCO uma licença mundial não exclusiva, totalmente transferível e sublicenciável para toda a duração da proteção legal aplicável dos direitos intelectuais de usar o Conteúdo do Usuário em conexão com o Jogo e bens e serviços relacionados, incluindo os direitos de reproduzir, copiar, adaptar, modificar, realizar, criar obras derivadas de, exibir, publicar, transmitir, transmitir, ou usar de outra forma, distribuir, explorar e comunicar ao público por todos os meios e mídias agora conhecidos ou daqui em diante, sem qualquer notificação ou compensação adicional de qualquer tipo para você. Na medida permitida pela lei aplicável, você renuncia a quaisquer direitos morais de paternidade, publicação, reputação ou atribuição em relação ao uso da BANDAI NAMCO e de outros jogadores e usufruto de tais ativos em conexão com o jogo e bens e serviços relacionados sob a lei aplicável. A licença concedida à BANDAI NAMCO sobrevive a qualquer rescisão ou revogação deste Acordo."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0019",
+    "offset": 114188,
+    "en": "\r\n12. \tONLINE CONDUCT. Unless through the intentional fault or gross negligence of BANDAI NAMCO, BANDAI NAMCO is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. BANDAI NAMCO may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. BANDAI NAMCO may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, “posted”) provided that in the case of User Content shared as a part of any private message within the Game, BANDAI NAMCO will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to BANDAI NAMCO as objectionable). BANDAI NAMCO reserves the right to delete or refuse to take online any User Content. Although BANDAI NAMCO does not regularly screen, edit, or monitor any of the User Content posted on the Game, BANDAI NAMCO reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if BANDAI NAMCO determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:\r\na) \tpost any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;\r\nb) \tpost any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;\r\nc) \tengage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;\r\nd) \tenter, disclose or disseminate any personal information about anyone (including you);\r\ne) \timpersonate any person or entity, including any BANDAI NAMCO officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;\r\nf) \timpede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;\r\ng) \tuse or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;\r\nh) \tdo anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of BANDAI NAMCO or the platform provider in maintaining the Game for the enjoyment of all its users.\r\ni) \tintentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.\r\nj) \ttrade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;\r\nk) \totherwise violates the terms of this Agreement, other policies communicated by BANDAI NAMCO, or creates liability for BANDAI NAMCO.",
+    "pt": "\r\n12. \tCONDUTA ONLINE. A menos que por culpa intencional ou negligência grave da BANDAI NAMCO, a BANDAI NAMCO não é responsável ou responsável pela conduta de qualquer usuário, se tal conduta se relaciona ou não com o acesso ou uso do Jogo. BANDAI NAMCO pode suspender ou encerrar seu acesso ao Jogo a qualquer momento se você violar os termos desta Seção 12 ou quaisquer outros termos e condições deste Acordo. A BANDAI NAMCO pode (por exemplo, em resposta a uma reclamação de um proprietário de direitos autorais) revisar qualquer Conteúdo do Usuário que seja carregado, publicado, armazenado ou exibido no Jogo (a seguir “posted”) desde que, no caso de Conteúdo do Usuário compartilhado como parte de qualquer mensagem privada dentro do Jogo, a BANDAI NAMCO não visualize ou reveja tal conteúdo, a menos que pelo menos uma das partes na comunicação conceda seu consentimento (por exemplo, reportando a mensagem à BANDAI NAMCO como objetável). BANDAI NAMCO reserva-se o direito de excluir ou recusar qualquer conteúdo de usuário online. Embora a BANDAI NAMCO não visualize, edite ou monitore regularmente nenhum dos Conteúdos do Usuário postados no Jogo, a BANDAI NAMCO reserva-se o direito, e tem absoluta discrição, de remover, edite ou edite qualquer Conteúdo do Usuário postado através do Jogo se a BANDAI NAMCO determinar, em seu razoável critério, que tal Conteúdo do Usuário viola este Contrato e/ou qualquer direito de terceiros, lei, regra ou regulamento aplicável. Você não pode usar o jogo se você já foi suspenso ou removido do jogo. Você é o único responsável por qualquer Conteúdo do Usuário que você postar ou transmitir para qualquer usuário ou terceiros. Especificamente, você concorda em não fazer, tentar fazer, ou fazer outro fazer qualquer um dos seguintes em conexão com o jogo:\r\na) publicar qualquer Conteúdo do Usuário que seja ilegal, difamatório, difamatório, ofensivo, obsceno, pornográfico, indecente, vulgar, obsceno, sexualmente explícito, assediando, ameaçando, invasivo de direitos de privacidade ou publicidade, abusivo, inflamatório ou fraudulento; promover ou incentivar qualquer atividade ilegal ou outra atividade anti-social, incluindo hackear; promover racismo, intolerância, ódio, ou dano físico ou outro de qualquer tipo contra qualquer grupo ou indivíduo ou é de outra forma questionável;\r\nb) publicar qualquer Conteúdo do Usuário que possa infringir qualquer patente, marca registrada, segredo comercial, direitos autorais, ou outro direito intelectual ou proprietário de qualquer pessoa ou entidade;\r\nc) engajar-se em atividades comerciais ou vendas comerciais, incluindo transmissão de quaisquer anúncios comerciais ou solicitações;\r\nd) entrar, divulgar ou divulgar qualquer informação pessoal sobre qualquer pessoa (incluindo você);\r\ne) personificar qualquer pessoa ou entidade, incluindo quaisquer funcionários da BANDAI NAMCO, líderes de fóruns, guias, anfitriões, empregados ou agentes, ou falsamente declarar ou de outra forma deturpar sua filiação com uma pessoa ou entidade;\r\nf) impedir ou interromper o jogo ou o fluxo normal de jogo ou diálogo ou usar linguagem vulgar, abuso, gritos excessivos (por exemplo, TODOS os CAPS), “espame”, ou qualquer outro método disruptivo ou prejudicial que perturbe outros usuários do jogo;\r\ng) usar ou explorar quaisquer bugs, erros ou falhas de projeto para obter acesso não autorizado ao Jogo, para obter uma vantagem injusta sobre outros jogadores, ou para enganar ou utilizar façanhas não autorizadas em conexão com o Jogo, incluindo, mas não limitado a acessar porções do Jogo que você não está autorizado a acessar e usar quaisquer bots, emuladores ou outras ferramentas de terceiros não autorizadas;\r\nh) fazer qualquer coisa que interfira com a capacidade de outros usuários de desfrutar de jogar o jogo de acordo com suas regras ou que, materialmente, aumenta a despesa ou dificuldade de BANDAI NAMCO ou o provedor de plataforma em manter o jogo para o prazer de todos os seus usuários.\r\ni) desconectar intencionalmente da rede durante o jogo online ou permitir-se ser derrotado por um determinado jogador repetidamente para ajudar a aumentar seus rankings ou ganhar conta no jogo.\r\nj) negociar, vender, leiloar, ou de outra forma transferir ou tentar transferir quaisquer itens virtuais ou moeda de jogo fora do jogo;\r\nk) de outra forma viola os termos deste Acordo, outras políticas comunicadas pela BANDAI NAMCO, ou cria responsabilidade pela BANDAI NAMCO."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0020",
+    "offset": 140060,
+    "en": "\r\n13. \tCOPYRIGHT POLICY. Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. The processing of your notification can be expedited by providing the information and declarations set out in 17 U.S.C. §512(c)(3). Compliance with this statute is not a prerequisite for infringement notification except for copyright owners located in the United States. Any person who knowingly misrepresents in a notification that the material or activity is infringing, may be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the accused material or activity. BANDAI NAMCO has adopted a policy of terminating, in appropriate circumstances and at BANDAI NAMCO’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, BANDAI NAMCO also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.\r\n\r\nBANDAI NAMCO Entertainment Inc.\r\nAttn: Copyright Agent\r\n5-37-8 Shiba, Minato-ku,\r\nTokyo 108-0014\r\nJapan\r\n+81-3-6744-6112 (phone)\r\n+81-3-6866-0577 (fax)\r\ncopyrightagent@bandainamcoent.co.jp",
+    "pt": "\r\n13. \tPOLÍTICA DE DIREITOS AUTORAIS. Donos de direitos autorais ou agentes de proprietários de direitos autorais que acreditam que qualquer coisa no jogo infringe qualquer direito de autor que seja de propriedade ou controlado por eles, podem apresentar uma notificação de tal violação com nosso agente designado de direitos autorais conforme estabelecido abaixo. O processamento de sua notificação pode ser acelerado fornecendo as informações e declarações estabelecidas em 17 U.S.C. §512(c)(3). Cumprimento deste estatuto não é um pré-requisito para notificação de infração exceto para os proprietários de direitos autorais localizados nos Estados Unidos. Qualquer pessoa que conscientemente deturpa em uma notificação que o material ou atividade está infringindo, pode ser responsável por quaisquer danos, incluindo custos e honorários advocatícios, incorridos por nós ou pelo alegado infrator como resultado de confiarmos em tal deturpação na remoção ou incapacitação do acesso ao material ou atividade acusado. BANDAI NAMCO adotou uma política de acabar, em circunstâncias apropriadas e a critério exclusivo da BANDAI NAMCO, usuários que são reincidentes infratores dos direitos de propriedade intelectual de terceiros. Desde que, no entanto, BANDAI NAMCO também pode limitar ou encerrar o acesso ao jogo de qualquer usuário que infrinja qualquer direito de propriedade intelectual de outros, quer haja ou não qualquer violação repetida.\r\n\r\nBANDAI NAMCO Entertainment Inc.\r\nAgente de Direitos Autorais\r\n5-37-8 Shiba, Minato-ku,\r\nTóquio 108-0014\r\nJapão\r\n+81-3-6744-6112 (fone)\r\n+81-3-6866-0577 (fax)\r\ncopyrightagent@bandainamcoent.co.jp"
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0021",
+    "offset": 149808,
+    "en": "\r\n14. \tTHIRD PARTY CONTENT. Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of BANDAI NAMCO, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by BANDAI NAMCO, except where expressly stated by BANDAI NAMCO.",
+    "pt": "\r\n14.\tCONTEÚDO DE TERCEIROS. Conteúdos de usuários, anunciantes e outros terceiros podem ser disponibilizados a você por meio do Jogo. Como não controlamos esses conteúdos, você concorda que, salvo em caso de dolo ou negligência grave da BANDAI NAMCO, não somos responsáveis por eles, não garantimos a exatidão ou a qualidade das informações neles contidas e não assumimos responsabilidade por conteúdos de terceiros não intencionais, censuráveis, imprecisos, enganosos ou ilegais. A referência a produtos, serviços, processos ou outras informações, por nome comercial, marca, fabricante, fornecedor ou de outra forma, não constitui nem implica endosso, patrocínio, recomendação ou vínculo por parte da BANDAI NAMCO, salvo declaração expressa da BANDAI NAMCO."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0022",
+    "offset": 158188,
+    "en": "\r\n15. \tDISCLAIMER. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY VIRUSES OR OTHER DISABLING FEATURES THAT AFFECT YOUR ACCESS TO OR USE OF THE GAME OR ANY INCOMPATIBILITY AMONG THE GAME, OTHER SERVICES, AND HARDWARE. THE GAME AND ALL OTHER SERVICES ARE PROVIDED “AS IS.” EXCEPT AS MIGHT BE DESCRIBED HEREIN, BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES OR CONDITIONS OF ANY KIND (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.\r\nSome jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.\r\n\r\nIf you are a resident of Australia, in addition to the above terms in this section, the following additional wording will apply to you:\r\nThis Section 15 does not intend to limit or reduce any mandatory or statutory consumers’ rights or remedies that apply under the laws of your local jurisdiction. To the extent permitted by law, the conditions and warranties implied by the Schedule 2 of the Competition and Consumer Act 2010 (Cth) (the Australian Consumer Law) are entirely excluded from this Agreement, and to the extent that they may not be excluded, you acknowledge that the liability of BANDAI NAMCO is limited to, and acknowledge that, it is fair and reasonable so to limit BANDAI NAMCO’S liability to:\r\n(i)\tthe supplying of the Game again; or\r\n(ii)\tthe payment of the cost of having the Game supplied again.\r\n\r\nIf you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:\r\nTo the extent any services are provided against a fee, the following applies: BANDAI NAMCO warrants that the Game will operate materially as specified in the applicable documentation or product description. In the event of any defect, BANDAI NAMCO will provide subsequent performance by either removing the defect (e.g. by providing a patch) or providing a new version of the service that does not have the defect, within a reasonable time period allowing for at least three attempts at subsequent performance. If subsequent performance definitely fails, you may exercise your other statutory rights, provided however that BANDAI NAMCO’s no-fault liability for initial defects under sec. 536a para 1. of the German Civil Code is excluded in any event.",
+    "pt": "\r\n15.\tISENÇÃO DE GARANTIAS. VOCÊ RECONHECE E CONCORDA QUE A BANDAI NAMCO, SEUS LICENCIANTES E FORNECEDORES NÃO SÃO RESPONSÁVEIS POR VÍRUS OU OUTROS RECURSOS QUE PREJUDIQUEM SEU ACESSO OU USO DO JOGO, NEM POR INCOMPATIBILIDADES ENTRE O JOGO, OUTROS SERVIÇOS E O HARDWARE. O JOGO E TODOS OS OUTROS SERVIÇOS SÃO FORNECIDOS NO ESTADO EM QUE SE ENCONTRAM. SALVO O QUE POSSA ESTAR DESCRITO NESTE CONTRATO, A BANDAI NAMCO, SEUS LICENCIANTES E FORNECEDORES EXCLUEM EXPRESSAMENTE TODAS AS GARANTIAS OU CONDIÇÕES DE QUALQUER NATUREZA, EXPRESSAS OU IMPLÍCITAS, DECORRENTES DA LEI OU DE OUTRA ORIGEM, INCLUINDO, SEM LIMITAÇÃO, GARANTIAS IMPLÍCITAS DE NÃO VIOLAÇÃO DE DIREITOS, COMERCIABILIDADE OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA.\r\nAlgumas jurisdições não permitem a exclusão de termos implícitos, nem a exclusão ou limitação de garantias em contratos com consumidores. Assim, algumas ou todas as exclusões desta seção podem não se aplicar a você.\r\n\r\nSe residir na Austrália, além dos termos acima, aplica-se a seguinte redação adicional:\r\nEsta Seção 15 não pretende limitar nem reduzir direitos ou meios de reparação obrigatórios dos consumidores previstos na legislação da sua jurisdição. Na medida permitida por lei, as condições e garantias implícitas do Anexo 2 da Competition and Consumer Act 2010 (Cth), a Lei Australiana do Consumidor, ficam inteiramente excluídas deste Contrato. Quando não puderem ser excluídas, você reconhece que a responsabilidade da BANDAI NAMCO se limita às opções abaixo e reconhece que essa limitação é justa e razoável:\r\n(i) fornecer novamente o Jogo; ou\r\n(ii) pagar o custo de fornecer novamente o Jogo.\r\n\r\nSe residir na Alemanha, além dos termos acima, aplica-se a seguinte redação adicional:\r\nNa medida em que os serviços forem prestados mediante pagamento, aplica-se o seguinte: a BANDAI NAMCO garante que o Jogo funcionará substancialmente de acordo com a documentação ou descrição do produto aplicável. Em caso de defeito, a BANDAI NAMCO providenciará a correção, eliminando o defeito, por exemplo, com uma atualização, ou fornecendo uma nova versão do serviço sem o defeito, dentro de um prazo razoável que permita ao menos três tentativas de correção. Se a correção falhar definitivamente, você poderá exercer seus demais direitos legais. Em qualquer hipótese, fica excluída a responsabilidade objetiva da BANDAI NAMCO por defeitos iniciais prevista na seção 536a, parágrafo 1, do Código Civil Alemão."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0023",
+    "offset": 174268,
+    "en": "\r\n16. \tINTERNET. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO IS NOT RESPONSIBLE OR LIABLE FOR ANY DELAYS OR FAILURES YOU MAY EXPERIENCE IN INITIATING, CONDUCTING, OR COMPLETING ANY TRANSMISSIONS OR TRANSACTIONS IN CONNECTION WITH THE GAME IN AN ACCURATE OR TIMELY MANNER. Further, BANDAI NAMCO cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. BANDAI NAMCO does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.",
+    "pt": "\r\n16.\tINTERNET. VOCÊ RECONHECE E CONCORDA QUE A BANDAI NAMCO NÃO É RESPONSÁVEL POR ATRASOS OU FALHAS QUE VOCÊ POSSA ENFRENTAR AO INICIAR, REALIZAR OU CONCLUIR, DE FORMA CORRETA OU NO PRAZO ADEQUADO, TRANSMISSÕES OU TRANSAÇÕES RELACIONADAS AO JOGO. Além disso, a BANDAI NAMCO não pode prometer nem garantir que você conseguirá acessar as partes online, multijogador ou disponíveis para download do Jogo sempre que desejar. Você poderá ficar sem acesso a essas partes por períodos prolongados. A BANDAI NAMCO não garante o funcionamento contínuo, seguro, sem erros ou sem vírus dessas partes do Jogo, nem a continuidade do funcionamento ou da disponibilidade de qualquer servidor específico."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0024",
+    "offset": 180696,
+    "en": "\r\n17. \tLIMITATION ON LIABILITY. EXCEPT FOR (1) DEATH OR PERSONAL INJURY CAUSED BY BANDAI NAMCO’S NEGLIGENCE, (2) FRAUD OR FRAUDULENT MISREPRESENTATION BY BANDAI NAMCO, (3) INTENTIONAL ACTS OR GROSS NEGLIGENCE OF BANDAI NAMCO, (4) LOSS OR DESTRUCTION OF TANGIBLE PERSONAL PROPERTY CAUSED BY THE USE OF THE GAME, AND (5) ANY OTHER LIABILITY WHICH CANNOT BE LIMITED OR EXCLUDED BY APPLICABLE LAW, IN NO EVENT SHALL BANDAI NAMCO OR ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, AND OTHER PARTNERS AND SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE GAME OR THE CONTENT CONTAINED IN OR ACCESSED THROUGH THE GAME OR THE FAILURE TO PROVIDE SUPPORT SERVICES. IN THE EVENT OF SLIGHT OR ORDINARY NEGLIGENCE, OR BREACH OF BANDAI NAMCO’S ESSENTIAL OBLIGATIONS UNDER THIS AGREEMENT, BANDAI NAMCO’S LIABILITY SHALL BE LIMITED TO DIRECT AND FORESEEABLE DAMAGES SUFFERED BY YOU. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BANDAI NAMCO, WHETHER IN CONTRACT, WARRANTY, TORT, PRODUCT LIABILITY, STRICT LIABILITY, INTELLECTUAL PROPERTY INFRINGEMENT OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE GAME OR TO THESE TERMS EXCEED ONE HUNDRED DOLLARS ($100) OR, IF HIGHER, THE AMOUNT PAID BY YOU TO BANDAI NAMCO FOR YOUR USE OF THE GAME. THIS SECTION 17 DOES NOT LIMIT ANY MANDATORY OR STATUTORY GUARANTEES THAT CANNOT BE LIMITED BY CONTRACT UNDER THE LAWS OF YOUR LOCAL JURISDICTION.",
+    "pt": "\r\n17.\tLIMITAÇÃO DE RESPONSABILIDADE. EXCETO EM CASO DE (1) MORTE OU LESÃO CORPORAL CAUSADA POR NEGLIGÊNCIA DA BANDAI NAMCO, (2) FRAUDE OU DECLARAÇÃO FRAUDULENTA DA BANDAI NAMCO, (3) ATOS DOLOSOS OU NEGLIGÊNCIA GRAVE DA BANDAI NAMCO, (4) PERDA OU DESTRUIÇÃO DE BENS MÓVEIS MATERIAIS CAUSADA PELO USO DO JOGO E (5) QUALQUER OUTRA RESPONSABILIDADE QUE NÃO POSSA SER LIMITADA OU EXCLUÍDA PELA LEGISLAÇÃO APLICÁVEL, EM NENHUMA HIPÓTESE A BANDAI NAMCO, SUAS SUBSIDIÁRIAS, AFILIADAS, ADMINISTRADORES, FUNCIONÁRIOS, AGENTES, DEMAIS PARCEIROS E FORNECEDORES SERÃO RESPONSÁVEIS POR DANOS INDIRETOS, ESPECIAIS, CONSEQUENCIAIS OU PUNITIVOS, NEM POR QUAISQUER OUTROS DANOS, INCLUINDO, SEM LIMITAÇÃO, PERDA DE USO OU LUCROS CESSANTES, SEJA EM AÇÃO CONTRATUAL, POR ATO ILÍCITO, INCLUINDO NEGLIGÊNCIA, OU DE OUTRA NATUREZA, DECORRENTES OU DE ALGUMA FORMA RELACIONADOS AO USO OU À IMPOSSIBILIDADE DE USO DO JOGO, AO CONTEÚDO NELE CONTIDO OU ACESSADO POR SEU INTERMÉDIO, OU À FALTA DE PRESTAÇÃO DE SERVIÇOS DE SUPORTE. EM CASO DE NEGLIGÊNCIA LEVE OU COMUM, OU DE DESCUMPRIMENTO DAS OBRIGAÇÕES ESSENCIAIS DA BANDAI NAMCO NESTE CONTRATO, SUA RESPONSABILIDADE FICARÁ LIMITADA AOS DANOS DIRETOS E PREVISÍVEIS SOFRIDOS POR VOCÊ. EM NENHUMA HIPÓTESE A RESPONSABILIDADE TOTAL DA BANDAI NAMCO, SEJA CONTRATUAL, POR GARANTIA, ATO ILÍCITO, RESPONSABILIDADE PELO PRODUTO, RESPONSABILIDADE OBJETIVA, VIOLAÇÃO DE PROPRIEDADE INTELECTUAL OU OUTRO FUNDAMENTO, DECORRENTE OU RELACIONADA AO USO OU À IMPOSSIBILIDADE DE USO DO JOGO OU A ESTES TERMOS, EXCEDERÁ CEM DÓLARES ($100) OU, SE FOR MAIOR, O VALOR PAGO POR VOCÊ À BANDAI NAMCO PELO USO DO JOGO. ESTA SEÇÃO 17 NÃO LIMITA GARANTIAS OBRIGATÓRIAS OU LEGAIS QUE NÃO POSSAM SER LIMITADAS POR CONTRATO SEGUNDO A LEGISLAÇÃO DA SUA JURISDIÇÃO."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0025",
+    "offset": 192040,
+    "en": "\r\n18. \tDISPUTE RESOLUTION.\r\nTHIS SECTION 18 APPLIES TO YOU ONLY IF YOU RESIDE IN NORTH, CENTRAL, AND SOUTH AMERICA, OTHER THAN THE UNITED STATES.\r\n\r\nIf you are a resident of any nation of the Americas, other than the United States of America, either you or BNEA may refer any dispute relating to or arising from this Agreement or the Game to alternative dispute resolution (such as conciliation or arbitration) with the prior written consent of the other party. Notwithstanding the foregoing, the terms of this Agreement will not prevent you from bringing any dispute or claim that may be subject to this Section 18: (i) to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from BNEA on your behalf; (ii) bringing against BNEA, in any court of competent jurisdiction, any claim that is not arbitrable or for which arbitration is prohibited or restricted by applicable law; or (iii) from bringing any claim before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.",
+    "pt": "\r\n18.\tRESOLUÇÃO DE CONTROVÉRSIAS.\r\nESTA SEÇÃO 18 SÓ SE APLICA A VOCÊ SE RESIDIR NA AMÉRICA DO NORTE, CENTRAL OU DO SUL, EXCETO NOS ESTADOS UNIDOS.\r\n\r\nSe residir em qualquer país das Américas, exceto nos Estados Unidos da América, você ou a BNEA poderá submeter qualquer controvérsia relacionada a este Contrato ou ao Jogo a um meio alternativo de resolução de conflitos, como conciliação ou arbitragem, com o consentimento prévio e escrito da outra parte. Apesar disso, este Contrato não impede que você: (i) leve qualquer controvérsia ou reclamação abrangida por esta Seção 18 ao conhecimento de órgãos governamentais federais, estaduais ou locais que possam, se a lei permitir, buscar uma reparação da BNEA em seu nome; (ii) apresente contra a BNEA, em tribunal competente, uma reclamação que não possa ser submetida à arbitragem ou para a qual a legislação proíba ou restrinja a arbitragem; ou (iii) apresente uma reclamação em juizado de pequenas causas, respeitados os limites de competência e os requisitos desse juizado."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0026",
+    "offset": 211948,
+    "en": "\r\n19. \tDISPUTE RESOLUTION.\r\nTHIS SECTION 19 APPLIES TO YOU ONLY IF YOU RESIDE IN THE UNITED STATES.\r\n\r\nIf you are a resident of the United States of America, by accepting the terms of this Agreement, you and BNEA: (i) agree to resolve certain disputes through mandatory binding arbitration, as set forth in Section 19(a), and each subpart thereof (collectively, the “Arbitration Agreement”); and (ii) expressly waive the right to a trial by jury or to participate in any class action brought against the other party, pursuant to Section 19(b) (the “Class Action Waiver”); unless (iii) you exercise your right to opt out of the Arbitration Agreement and/or the Class Action Waiver, as set forth in Section 19(c).\r\na)\tMANDATORY, BINDING ARBITRATION. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AND BNEA: (i) ACKNOWLEDGE AND AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN YOU AND BNEA THROUGH BINDING ARBITRATION, PURSUANT TO THE FEDERAL ARBITRATION ACT, INCLUDING WITHOUT LIMITATION (EXCEPT AS EXPRESSLY SET FORTH IN SECTION 19.a.iii) ANY DISPUTES OR CLAIMS BASED ON LEGAL THEORIES OF BREACH OF CONTRACT, TORTIOUS INJURY, STATUTORY VIOLATIONS, FRAUD, UNFAIR COMPETITION, RIGHTS OF PRIVACY, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY, THAT MAY ARISE OUT OF OR RELATE TO ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND BNEA, ANY TERM OR PROVISION OF THIS AGREEMENT, OR YOUR ACCESS TO OR USE OF THE GAME (EACH, A “CLAIM”); (ii) EXPRESSLY AND IRREVOCABLY WAIVE ANY RIGHT TO PURSUE ANY CLAIMS IN COURT OR TO HAVE ANY CLAIMS HEARD OR TRIED BEFORE A JUDGE OR JURY; (iii) SHALL NOT BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE ARBITRATION AGAINST THE OTHER PARTY, EVEN IF OTHERWISE PERMITTED BY THE FEDERAL ARBITRATION ACT; AND (iv) SHALL NOT SEEK TO CONSOLIDATE OR COMBINE ANY ARBITRATION OF ANY CLAIM BY YOU OR BNEA WITH ANY ACTION OR ARBITRATION BROUGHT BY OR AGAINST ANY THIRD PARTY, WITHOUT THE EXPRESS WRITTEN CONSENT OF EACH SUCH THIRD PARTY AND BOTH PARTIES TO THIS AGREEMENT. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (IN STRICT COMPLIANCE WITH SECTION 19(c)), YOU AND BNEA AGREE THAT ANY CLAIMS AGAINST THE OTHER PARTY WILL ONLY BE CONDUCTED THROUGH MANDATORY, BINDING ARBITRATION.\r\ni)\tPre-Arbitration Informal Dispute Resolution. Prior to initiating arbitration of any Claim subject to this Arbitration Agreement, you and BNEA agree to make reasonable, good faith efforts to informally resolve any dispute or Claim between you and BNEA. The party seeking to raise such dispute or Claim shall send to the other party a written notice describing the nature and basis of such dispute or Claim and identifying the relief sought. All such written notices to BNEA must be sent via first class mail to: BANDAI NAMCO Entertainment America Inc., Attn: Legal & Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA. If you and BNEA do not agree to resolve such dispute or Claim within 30 days after such written notice is received, the party seeking to raise such dispute or Claim may initiate an arbitration action against the other, as permitted by the Arbitration Agreement, above.\r\nii)\tArbitration Procedure. Arbitration is a legally-binding process, through which a party may seek legal remedies from or against another party, similar to a legal action brought before a court, but that generally imposes fewer strict procedural formalities, is held before a third party, neutral arbitrator (instead of before a judge or jury), provides for more limited discovery and potentially reduced legal fees for each party, and is subject to limited review by courts. The procedure for arbitration of any Claim under this Arbitration Agreement will be governed by the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) and, where applicable, the AAA’s Supplementary Procedures for Consumer Related Disputes, both of which are available at: http://www.adr.org. Notwithstanding the foregoing, you and BNEA agree that any such arbitration will be conducted in English, and permit the electronic submission of documents and allow participation by phone or by teleconference, or in person, at a mutually agreed location.\r\niii)\tExcluded Claims. Notwithstanding the foregoing, the terms of this Arbitration Agreement will not prevent you or BNEA from bringing any Claim: (i) to the attention of any federal, state, or local government agencies with the governmental authority and competent jurisdiction to seek relief on your or BNEA’s behalf, from the other party; or (ii) before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.\r\niv)\tSeverability of Arbitration Agreement. You and BNEA agree that, no provision of this Arbitration Agreement shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Arbitration Agreement is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have expressed your election to opt out of this Arbitration Agreement.\r\nb)\tCLASS ACTION WAIVER. IF YOU ARE A RESIDENT OF THE UNITED STATES OF AMERICA, BY ACCEPTING THE TERMS OF THIS AGREEMENT, YOU AND BNEA HEREBY AGREE: (i) THAT EACH CLAIM IS PERSONAL TO YOU AND BNEA, AND SHALL ONLY BE CONDUCTED AS AN INDIVIDUAL ARBITRATION (OR AN INDIVIDUAL COURT PROCEEDING, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) AND NOT AS A CLASS ACTION OR OTHER FORM OF REPRESENTATIVE ACTION; (ii) EXPRESSLY WAIVE ANY RIGHT TO FILE OR PARTICIPATE IN A CLASS ACTION OR SEEK RELIEF ON A CLASS OR REPRESENTATIVE BASIS; AND (iii) THE ARBITRATOR (OR COURT, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) MAY ONLY CONDUCT AN INDIVIDUAL ARBITRATION (OR COURT ACTION, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii), MAY NOT CONSOLIDATE MORE THAN ONE INDIVIDUAL’S CLAIMS, AND MAY NOT PRESIDE OVER ANY FORM OF REPRESENTATIVE OR CLASS PROCEEDING RELATING TO SUCH CLAIMS. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (AS DESCRIBED IN SECTION 19(c)), YOU AND BNEA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.\r\ni) \tSeverability of Class Action Waiver. You and BNEA agree that, no provision of this Class Action Waiver shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Class Action Waiver is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have elected to opt out of this Class Action Waiver. In no event may the severance of the Class Action Waiver be interpreted or deemed to constitute consent by you or BNEA to participate in a class action or class arbitration.\r\nc)\tOPT OUT PROCEDURE. You have the right to opt out and not be bound by the foregoing Arbitration Agreement and Class Action Waiver, by sending a written notice of your election to opt out from such Arbitration Agreement and/or Class Action Waiver (the “Opt Out Notice”), in strict compliance with the following requirements of Sections 19.c.i – 19.c.iii:\r\ni) \tForm & Address. Your Opt Out Notice must be sent to the following address: BANDAI NAMCO Entertainment America Inc., ATTN: Legal & Business Affairs, 2051 Mission College Blvd., Santa Clara, CA 95054, USA, and either by: (i) first class mail, postage prepaid, certified and return receipt requested; or (ii) overnight courier service (such as Federal Express).\r\nii) \tTime Limitations. Unless a longer period is required by applicable law, your Opt Out Notice must be postmarked (if sent by first class mail) or deposited (if sent by overnight courier service) within: (i) 30 days of your purchase of your copy of the Game; or (ii) if no purchase was made, then within 30 days of the date on which you first accessed or used your copy of the Game.\r\niii) \tRequired Information. Your Opt Out Notice must include: (i) the title of the specific Game to which your Opt Out Notice is intended to apply; (ii) your first and last name; (iii) your address; (iv) your phone number; (v) your email address; (vi) if you are a registered user of the Game or any other BNEA product or service, each of your usernames for the Game and such other BNEA products and services; and (vii) a statement that you do not agree to the Arbitration Agreement and/or to the Class Action Waiver. BNEA may use the foregoing information included in the Opt Out Notice to record, process, maintain, and administer your opting out of the Arbitration Agreement and/or Class Action Waiver, as applicable, but not for marketing purposes.\r\niv) \tEffects of Proper Opt Out Notice. If your Opt Out Notice meets all of the above requirements, you and BNEA will be deemed to have opted out of the Arbitration Agreement and/or Class Action Waiver, subject to your statement in such Opt Out Notice, with respect to this Agreement. Submission of a valid Opt Out Notice applies only to Claims arising from or relating to the Game and Agreement identified therein, as between BNEA and the individual identified in such Opt Out Notice.\r\nv) \tEffects of Improper Opt Out Notice. If you submit an Opt Out Notice that fails to meet any of the requirements set forth in Sections 19.c.i – 19.c.iii, you and BNEA will be bound by the Arbitration Agreement and Class Action Waiver set forth in this Agreement.",
+    "pt": "\r\n19. \tRESOLUÇÃO DE CONTROVÉRSIAS.\r\nESTA SEÇÃO 19 SÓ SE APLICA A VOCÊ SE RESIDIR NOS ESTADOS UNIDOS.\r\n\r\nSe você é um residente dos Estados Unidos da América, aceitando os termos deste Contrato, você e BNEA: (i) concordam em resolver certas disputas através de arbitragem vinculativa obrigatória, conforme estabelecido na Seção 19(a), e cada subparte do mesmo (coletivamente, o “Acordo de Arbitragem”); e (ii) renunciam expressamente ao direito a um julgamento por júri ou de participar em qualquer ação coletiva contra a outra parte, nos termos da Seção 19(b) (a “Abdicação de Ação de Classe”); a menos que (iii) você exerça o seu direito de optar por fora do Acordo de Arbitragem e/ou da Dispensa de Ação de Classe, conforme estabelecido na Seção 19(c).\r\nA) Obrigatório, arbitização. NA MEDIDA MÁXIMA PERMITIDA PELA LEI APLICÁVEL, Você e BNEA: (i) AGRADECIMENTO E ACORDA EM RESOLVER TODOS OS DISPUTOS E CLAIMS ENTRE VOCÊ E BNEA ATRAVÉS DA ARBITRAÇÃO BINDING, DE ACORDO COM O ATO DE ARBITRAGEM FEDERAL, Incluindo sem limitação (excepto como expressamente estabelecido no capítulo 19.a.iii) Qualquer disputa ou clama baseada em teorias jurídicas de quebra de contrato, FERIMENTO ATO ILÍCITOUOSO, VIOLAÇÕES LEGAIS, FRAUDE, COMPETIÇÃO INJUSTA, DIREITOS DE PRIVACIDADE, DETURPAÇÃO. OU QUALQUER OUTRA TEORIA LEGAL, QUE PODE SURGIR OU SE RELACIONAR COM QUALQUER ASPECTO DA RELAÇÃO ENTRE VOCÊ E BNEA, QUALQUER TERMO OU DISPOSIÇÃO DESTE ACORDO, OU SEU ACESSO OU USO DO JOGO (CADA UM, UMA “ALEGAÇÃO”); (ii) Expressamente e irrevocavelmente abdicar de qualquer direito de executar qualquer clausura no tribunal ou de ter quaisquer clausuras ouvidas ou tentadas antes de um juiz ou júri; iii) não devem trazer nem participar numa arbitragem de classe ou representativa contra a outra parte, MESMO QUE DE OUTRA FORMA PERMITIDO PELO ATO DE ARBITRAGEM FEDERAL; E iv) não procurarão consolar ou combiná-la com qualquer violação de qualquer claim por você ou BNEA com qualquer ação ou arbitragem trazida por ou contra qualquer terceira parte, SEM O CONSENTIMENTO EXPRESSO POR ESCRITO DE CADA UM DESSES TERCEIROS E DE AMBAS AS PARTES NESTE ACORDO. A menos que você submeta uma notificação adequada em estrita conformidade com a seção 19, alínea c), você e a BNEA concordam que qualquer declaração contra a outra parte só será feita através da manipulação, da arbitragem.\r\nI) Resolução de Disputas Informais Pré-Arbitragem. Antes de iniciar a arbitragem de qualquer reclamação sujeita a este Acordo de Arbitragem, você e a BNEA concordam em fazer esforços razoáveis e de boa fé para resolver informalmente qualquer disputa ou reclamação entre você e a BNEA. A parte que pretende levantar tal disputa ou reclamação deve enviar à outra parte um aviso por escrito descrevendo a natureza e a base de tal disputa ou reclamação e identificando a ajuda solicitada. Todos esses avisos escritos para a BNEA devem ser enviados por correio de primeira classe para a BANDAI NAMCO Entertainment America Inc., Attn: Legal & Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, EUA. Se você e a BNEA não concordarem em resolver tal disputa ou reclamação dentro de 30 dias após tal notificação escrita ser recebida, a parte que pretende levantar tal disputa ou reclamação pode iniciar uma ação arbitral contra a outra, conforme permitido pelo Acordo de Arbitragem, acima.\r\nii) Procedimento de arbitragem. A arbitragem é um processo juridicamente vinculativo, através do qual uma parte pode buscar recursos legais de ou contra outra parte, semelhante a uma ação judicial apresentada perante um tribunal, mas que geralmente impõe menos formalidades processuais estritas, é realizada perante um terceiro, árbitro neutro (em vez de um juiz ou júri), prevê uma descoberta mais limitada e taxas legais potencialmente reduzidas para cada parte, e está sujeito a revisão limitada por tribunais. O procedimento de arbitragem de qualquer reclamação nos termos deste Acordo de Arbitragem será regido pelas Regras de Arbitragem Comercial da Associação Americana de Arbitragem (“AAA”) e, se for caso disso, pelos Procedimentos Complementares da AAA para Disputas Relacionadas ao Consumidor, ambos disponíveis em: http://www.adr.org. Apesar do exposto, você e a BNEA concordam que qualquer arbitragem será conduzida em inglês, e permitem a apresentação eletrônica de documentos e permitem a participação por telefone ou por teleconferência, ou pessoalmente, em um local mutuamente acordado.\r\niii) Reclamações excluídas. Apesar do exposto, os termos deste Acordo de Arbitragem não impedirão que você ou a BNEA tragam qualquer Reclamação: (i) à atenção de qualquer agência federal, estadual ou do governo local com a autoridade governamental e jurisdição competente para pedir alívio em seu nome ou da BNEA, da outra parte; ou (ii) diante de um tribunal de pequenas reivindicações, sujeito às limitações e exigências judiciais de tal tribunal de pequenas reivindicações.\r\niv) Separação do Acordo de Arbitragem. Você e a BNEA concordam que nenhuma disposição deste Acordo de Arbitragem será executória contra você ou a BNEA e todas as Reclamações serão regidas pelas Seções 20(a) e 21(a), abaixo, no caso de: (i) um tribunal de jurisdição competente determina conclusivamente que qualquer termo ou disposição deste Acordo de Arbitragem é inexequível, proibida pela lei aplicável, ou inaplicável a qualquer Reclamação; ou (ii) você submete um aviso de Opt Out adequado (em conformidade com a Seção 19(c)), em que você expressou sua eleição para optar por este Acordo de Arbitragem.\r\nb) Ação de classe waiver. SE VOCÊ É UM RESIDENTE DOS ESTADOS UNIDOS DA AMÉRICA, ACEITANDO OS TERMOS DESTE ACORDO, Você e a BNEA concordam que cada Claim é pessoal para você e a BNEA E SÓ DEVE SER CONDUZIDO COMO UMA ARBITRAGEM INDIVIDUAL (OU UM PROCESSO JUDICIAL INDIVIDUAL, NO QUE DIZ RESPEITO ÀS REIVINDICAÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, E não como uma ação classe ou outra forma de ação representativa; (ii) Desperdiçar expressamente qualquer direito de arquivo ou participação em uma ação classe ou procurar confiança em uma classe ou base representativa; E (iii) O ARBITRATOR (OU TRIBUNAL, NO QUE DIZ RESPEITO ÀS REIVINDICAÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, Por causa da seção 19.A.iii) só pode considerar uma arbitragem individual (ou ação judicial, NO QUE DIZ RESPEITO ÀS REIVINDICAÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, POR FAVOR DA SECÇÃO 19.A.iii), NÃO PODE CONSOLIDAR MAIS DO QUE AS REIVINDICAÇÕES DE UM INDIVÍDUO, E NÃO PODE PRESIDIR A QUALQUER FORMA DE REPRESENTANTE OU CLASSE QUE PROCEDA EM RELAÇÃO A TAIS REIVINDICAÇÕES. A não ser que você apresente uma notificação adequada, conforme descrito na seção 19, alínea c), você e a BNEA concordam que cada um pode trazer claems contra o outro apenas na sua ou na sua capacidade individual, e não como um oficial ou membro da classe em qualquer processo de classificação ou representação.\r\nI) Separabilidade da Classe Action Waiver. Você e a BNEA concordam que, nenhuma disposição desta Dispensa de Ação de Classe será executória contra você ou a BNEA e todas as Reclamações serão regidas pelas Seções 20(a) e 21(a), abaixo, no caso: (i) um tribunal de jurisdição competente determina conclusivamente que qualquer termo ou disposição desta Renúncia de Ação de Classe é inexequível, proibida pela lei aplicável, ou inaplicável a qualquer Reclamação; ou (ii) você submete um aviso de Opt Out adequado (em conformidade com a Seção 19(c)), no qual você elegeu para optar por esta Negação de Ação de Classe. Em caso algum a indenização da Classe Action Waiver pode ser interpretada ou considerada como consentimento por você ou BNEA para participar de uma ação coletiva ou arbitragem de classe.\r\nc) Procedimento de saída. Você tem o direito de optar por sair e não ficar vinculado pelo anterior Acordo de Arbitragem e Ações de Classe, enviando um aviso por escrito de sua eleição para não participar desse Acordo de Arbitragem e/ou Ações de Classe (o Aviso de Saída), em estrita conformidade com os seguintes requisitos das Seções 19.c.i - 19.c.iii:\r\ni) Formulário e endereço. Seu aviso de saída deve ser enviado para o seguinte endereço: BANDAI NAMCO Entertainment America Inc., ATTN: Assuntos Jurídicos e de Negócios, 2051 Mission College Blvd., Santa Clara, CA 95054, EUA, e seja por: (i) correio de primeira classe, pré-pago, certificado e recibo de retorno solicitado; ou (ii) serviço de correio noturno (como Federal Express).\r\nii) Limitações de tempo. A menos que um período mais longo seja exigido pela lei aplicável, seu Aviso de Opt Out deve ser enviado (se enviado por correio de primeira classe) ou depositado (se enviado por serviço de correio noturno) dentro de: (i) 30 dias de sua compra de sua cópia do jogo; ou (ii) se nenhuma compra foi feita, então dentro de 30 dias da data em que você primeiro acessou ou usou sua cópia do jogo.\r\niii) Informações necessárias. Seu Aviso de Opt Out deve incluir: (i) o título do Jogo específico ao qual seu Aviso de Opt Out se destina a aplicar; (ii) seu primeiro e último nome; (iii) seu endereço; (iv) seu número de telefone; (v) seu endereço de e-mail; (vi) se você é um usuário registrado do Jogo ou qualquer outro produto ou serviço da BNEA, cada um de seus nomes de usuário para o Jogo e outros produtos e serviços da BNEA; e (vii) uma declaração de que você não concorda com o Acordo de Arbitragem e/ou com a Negação de Ação de Classe. A BNEA pode usar as informações anteriores incluídas no Aviso de Opt Out para registrar, processar, manter e administrar sua opção de não participar do Acordo de Arbitragem e/ou Ações de Classe, conforme aplicável, mas não para fins de marketing.\r\niv) Efeitos de Notificação de Exclusão. Se o seu Aviso de Opt Out atender a todos os requisitos acima, você e a BNEA serão considerados como tendo optado por fora do Acordo de Arbitragem e/ou Ações de Classe, sujeito à sua declaração em tal Aviso de Opt Out, com respeito a este Acordo. A apresentação de um aviso válido de Opt Out aplica-se apenas a reclamações decorrentes ou relacionadas com o jogo e acordo identificado nele, como entre BNEA e o indivíduo identificado em tal aviso de Opt Out.\r\nv) Efeitos do Aviso de Opt-out inadequado. Se você enviar um aviso de Opt Out que não cumpre nenhum dos requisitos estabelecidos nas Seções 19.c.i - 19.c.iii, você e a BNEA estarão vinculados pelo Acordo de Arbitragem e Ações de Classe estabelecidas neste Acordo."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0027",
+    "offset": 273680,
+    "en": "\r\n20. \tGOVERNING LAW.\r\nTo the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.\r\na)\tIf you reside in North, Central, or South America:\r\nThe laws of the State of California, excluding its conflicts-of-law rules, govern the application, interpretation, or enforcement of the terms of this Agreement and your use of the Game.\r\nb)\tIf you reside in Asia:\r\nAny dispute between the parties arising from or relating to this Agreement will be governed by this Agreement and the laws of Japan, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.\r\nc)\tIf you reside in any other location:\r\nAny dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of France, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.",
+    "pt": "\r\n20. \tLEI APLICÁVEL.\r\nNa medida do exigido pela lei aplicável, todos os termos e disposições do presente Acordo serão regidos e interpretados de acordo com todas as leis obrigatórias aplicáveis, mesmo que incoerentes com a lei vigente estabelecida nesta Seção 20 e, em caso algum, a aplicação, interpretação ou execução dos termos deste Acordo, sob qualquer lei jurisdicional contemplada nesta Seção 20 excluir, limitar ou restringir quaisquer direitos conferidos a você, como consumidor, sob quaisquer leis de proteção ao consumidor aplicáveis. Por favor, note que sua conduta também pode estar sujeita a outras leis locais, estaduais, nacionais e internacionais. As partes concordam que a Convenção das Nações Unidas sobre Contratos para a Venda Internacional de Bens não se aplica a qualquer disputa ou transação decorrente deste Acordo.\r\na) Se você reside na América do Norte, Central ou do Sul:\r\nAs leis do Estado da Califórnia, excluindo suas regras de conflitos de leis, governam a aplicação, interpretação ou aplicação dos termos deste Acordo e seu uso do Jogo.\r\nb) Se você reside na Ásia:\r\nQualquer disputa entre as partes decorrente ou relacionada a este Acordo será governada pelo presente Acordo e pelas leis do Japão, sem dar efeito a qualquer conflito de princípios de leis que possam prever a aplicação da lei de outra jurisdição.\r\nc) Se você residir em qualquer outro local:\r\nQualquer disputa entre as partes decorrente ou relacionada ao presente Acordo, será regida pelo presente Acordo e pelas leis da França, sem dar efeito a qualquer conflito de princípios de leis que possam prever a aplicação da lei de outra jurisdição."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0028",
+    "offset": 284808,
+    "en": "\r\n21. \tVENUE.\r\na)\tIf you reside in North, Central, or South America:\r\nYou and BNEA expressly agree that, for all claims and disputes arising out of or relating to this Agreement and/or your use of the Game that are not subject to the Arbitration Agreement in Section 19, above, exclusive jurisdiction for any such claim or action shall be the federal or state courts that govern Santa Clara County, California, and you expressly consent to the exercise of personal jurisdiction of such courts.\r\nb)\tIf you reside in Asia:\r\nAny dispute between the parties arising from or relating to this Agreement shall be decided by the Tokyo District Court, and you and BNEI agree to submit to the exclusive jurisdiction of that court.\r\nc)\tIf you reside in any other location:\r\nAny dispute between the parties arising from or relating to this Agreement shall be decided by the Commercial Court of Lyon, and you and BNEE agree to submit to the personal jurisdiction of that court.",
+    "pt": "\r\n21. \tFORO.\r\na) Se você reside na América do Norte, Central ou do Sul:\r\nVocê e a BNEA concordam expressamente que, para todas as reclamações e disputas decorrentes ou relacionadas a este Acordo e/ou seu uso do Jogo que não estão sujeitos ao Acordo de Arbitragem na Seção 19, acima, jurisdição exclusiva para qualquer reclamação ou ação serão os tribunais federais ou estaduais que governam o Condado de Santa Clara, Califórnia, e você expressamente concorda com o exercício da jurisdição pessoal de tais tribunais.\r\nb) Se você reside na Ásia:\r\nQualquer disputa entre as partes que surja ou se relacione com este acordo será decidida pelo Tribunal Distrital de Tóquio, e você e BNEI concordarão em se submeter à jurisdição exclusiva desse tribunal.\r\nc) Se você residir em qualquer outro local:\r\nQualquer disputa entre as partes que surjam ou se relacionem com este acordo será decidida pelo Tribunal Comercial de Lyon, e você e a BNEE concordarão em submeter-se à jurisdição pessoal desse tribunal."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0029",
+    "offset": 290940,
+    "en": "\r\n22. \tTHIRD-PARTY BENEFICIARIES. Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.",
+    "pt": "\r\n22. \tTERCEIROS BENEFICIÁRIOS. Qualquer pessoa ou entidade que não seja parte deste Acordo não terá direitos sob nenhuma lei para impor quaisquer termos deste Acordo, independentemente de tal pessoa ou entidade ter sido identificada pelo nome. Nada nesta seção afetará os direitos de qualquer cessionário autorizado ou cessionário deste Acordo."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0030",
+    "offset": 294600,
+    "en": "\r\n23. \tMISCELLANEOUS. This Agreement contains the entire agreement between you and BANDAI NAMCO regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 6(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of BANDAI NAMCO, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of BANDAI NAMCO to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.",
+    "pt": "\r\n23. \tDISPOSIÇÕES GERAIS. Este acordo contém todo o acordo entre você e a BANDAI NAMCO sobre o uso do jogo. Se qualquer disposição deste Acordo for considerada inválida ou inexequível, o restante deste Acordo continuará em plena força e efeito pelo resto do prazo, ou conforme estabelecido na Seção 6 d), exceto se tal disposição privar o Acordo de suas obrigações essenciais. Você não pode atribuir este acordo ou qualquer de seus direitos sob este acordo sem o consentimento prévio por escrito da BANDAI NAMCO, e qualquer tentativa de atribuição sem esse consentimento será anulada. Sob reserva da restrição precedente, este Acordo será totalmente vinculativo para, em benefício de, e ser executório por nós e nossos respectivos sucessores e designações. A falha da BANDAI NAMCO em exercer ou aplicar qualquer direito ou disposição deste Acordo não funcionará como uma renúncia a tal direito ou disposição. Os títulos da seção deste Acordo são apenas por conveniência e não têm efeito legal ou contratual."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0031",
+    "offset": 301572,
+    "en": "To contact BNEI, please follow the process described on our support page located at http://bandainamcoent.co.jp/cs_support/.\r\nTo contact BNEA, please contact BNEA’s customer support line at https://www.bandainamcoent.com/support or by writing to BNEA at: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, USA.\r\nTo contact BNEE, please contact BNEE through BNEE customer service at http://www.bandainamcoent.eu/support or BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 – 69258 LYON CEDEX 09 – France.",
+    "pt": "Para contatar o BNEI, siga o processo descrito em nossa página de apoio localizada em http://bandainamcoent.co.jp/cs_support/.\r\nPara entrar em contato com BNEA, entre em contato com a linha de suporte ao cliente da BNEA https://www.bandainamcoent.com/support Ou escrevendo para a BNEA na BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, EUA.\r\nPara entrar em contato com BNEE, entre em contato com BNEE através do serviço ao cliente BNEE em http://www.bandainamcoent.eu/support Ou BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 - 69258 LYON CEDEX 09 - França."
+  },
+  {
+    "object": 1591,
+    "id": "EULA_0032",
+    "offset": 304872,
+    "en": "WW_On_v1",
+    "pt": "WW_On_v1"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0001",
+    "offset": 305024,
+    "en": "BANDAI NAMCO Entertainment America Inc.\r\nPrivacy Policy",
+    "pt": "BANDAI NAMCO Entertainment America Inc.\r\nPolítica de Privacidade"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0002",
+    "offset": 305404,
+    "en": "Katamari Damacy REROLL",
+    "pt": "Katamari Damacy REROLL"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0003",
+    "offset": 305596,
+    "en": "Last Updated: May 31, 2017",
+    "pt": "Última atualização: 31 de maio de 2017"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0004",
+    "offset": 306780,
+    "en": "\r\nAt BANDAI NAMCO Entertainment America Inc. (“BANDAI NAMCO”), we know your privacy is very important to you, so please take the time to carefully read our privacy policy. Our policy is designed to help you understand the types of information that we collect, how we use and share the information and how the information is protected. This privacy policy applies to your use of the Katamari Damacy REROLL interactive software for the Nintendo Switch™ console, and is subject to all applicable policies of Nintendo.",
+    "pt": "\r\nNa BANDAI NAMCO Entertainment America Inc. Sabemos que sua privacidade é muito importante para você, então, por favor, tenha tempo para ler cuidadosamente nossa política de privacidade. Nossa política é projetada para ajudá-lo a entender os tipos de informações que coletamos, como usamos e compartilhamos as informações e como as informações são protegidas. Esta política de privacidade se aplica ao seu uso do software interativo Katamari Damacy REROLL para o console Nintendo SwitchTM, e está sujeito a todas as políticas aplicáveis da Nintendo."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0005",
+    "offset": 309704,
+    "en": "\r\n1. Types of information BANDAI NAMCO collects through Nintendo",
+    "pt": "\r\n1. Tipos de informação BANDAI NAMCO coleta através da Nintendo"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0006",
+    "offset": 310140,
+    "en": "\r\nInformation that you give to BANDAI NAMCO",
+    "pt": "\r\nInformações que você dá para BANDAI NAMCO"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0007",
+    "offset": 311056,
+    "en": "When you register for and use Nintendo’s services, Nintendo collects the information that you provide. This may include information like your name, email address, phone number, date of birth, country of residence, language, gender, and time zone. None of the foregoing information that you may provide to Nintendo will be collected by or provided to BANDAI NAMCO, without your express authorization.",
+    "pt": "Quando você se registra e usa os serviços da Nintendo, a Nintendo coleta as informações que você fornece. Isso pode incluir informações como seu nome, endereço de e-mail, número de telefone, data de nascimento, país de residência, idioma, sexo e fuso horário. Nenhuma das informações anteriores que você pode fornecer à Nintendo será coletada ou fornecida à BANDAI NAMCO, sem sua autorização expressa."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0008",
+    "offset": 313320,
+    "en": "\r\nInformation BANDAI NAMCO collects when you use its services",
+    "pt": "\r\nInformações que o BANDAI NAMCO coleta quando você usa seus serviços"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0009",
+    "offset": 314360,
+    "en": "Nintendo also collects and processes information about your use of its services. This can include information about your device, your location, your interaction with Nintendo’s services and other Nintendo users, your content and your purchases. None of the foregoing information collected from you by Nintendo will be collected by or provided to BANDAI NAMCO, without your express authorization.",
+    "pt": "A Nintendo também coleta e processa informações sobre seu uso de seus serviços. Isso pode incluir informações sobre seu dispositivo, sua localização, sua interação com os serviços da Nintendo e outros usuários da Nintendo, seu conteúdo e suas compras. Nenhuma das informações acima coletadas de você pela Nintendo será coletada ou fornecida à BANDAI NAMCO, sem sua autorização expressa."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0010",
+    "offset": 316536,
+    "en": "\r\nInformation about your device",
+    "pt": "\r\nInformações sobre seu dispositivo"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0011",
+    "offset": 317496,
+    "en": "When you use Nintendo’s services Nintendo may collect specific information about your device, and across your devices, such as the product model, serial number, operating system, device settings, device performance, Internet service provider, IP address and other unique identifiers. None of the foregoing information about your device will be collected by or provided to BANDAI NAMCO, without your express authorization.",
+    "pt": "Quando você usa os serviços da Nintendo, a Nintendo pode coletar informações específicas sobre seu dispositivo, e através de seus dispositivos, como o modelo de produto, número de série, sistema operacional, configurações de dispositivo, desempenho do dispositivo, provedor de serviços de Internet, endereço IP e outros identificadores únicos. Nenhuma das informações anteriores sobre seu dispositivo será coletada ou fornecida à BANDAI NAMCO, sem sua autorização expressa."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0012",
+    "offset": 319844,
+    "en": "\r\nLocation information",
+    "pt": "\r\nInformação da localização"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0013",
+    "offset": 320824,
+    "en": "With your consent, Nintendo may collect and process information about your precise location. When Nintendo has your location information, Nintendo uses it to tailor its services for you and others, like helping you establish friend relationships with other Nintendo users or telling your existing friends that you are nearby. None of the foregoing location information will be collected by or provided to BANDAI NAMCO, without your express authorization.",
+    "pt": "Com seu consentimento, a Nintendo pode coletar e processar informações sobre sua localização exata. Quando a Nintendo tem sua informação de localização, a Nintendo a usa para adaptar seus serviços para você e outros, como ajudá-lo a estabelecer relacionamentos amigos com outros usuários da Nintendo ou dizer aos seus amigos que você está por perto. Nenhuma das informações acima serão coletadas ou fornecidas à BANDAI NAMCO, sem sua autorização expressa."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0014",
+    "offset": 323420,
+    "en": "\r\nInformation about your use of Nintendo’s services",
+    "pt": "\r\nInformações sobre seu uso dos serviços da Nintendo"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0015",
+    "offset": 324524,
+    "en": "Nintendo collects certain information about your interaction with its services or with other Nintendo users through Nintendo’s services. This could include information about your gameplay, your online status, your service use history, your connections with other Nintendo users and the content that you share with them. Some of the foregoing information, about your use of Nintendo’s services, to the extent related to your use of Katamari Damacy REROLL, may be provided to BANDAI NAMCO by Nintendo.",
+    "pt": "A Nintendo coleta certas informações sobre sua interação com seus serviços ou com outros usuários através dos serviços da Nintendo. Isso pode incluir informações sobre sua jogabilidade, seu status online, seu histórico de uso de serviços, suas conexões com outros usuários da Nintendo e o conteúdo que você compartilha com eles. Algumas das informações acima, sobre o seu uso dos serviços da Nintendo, na extensão relacionada com o seu uso de Katamari Damacy REROLL, podem ser fornecidas à BANDAI NAMCO pela Nintendo."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0016",
+    "offset": 327208,
+    "en": "\r\nYour content",
+    "pt": "\r\nSeu conteúdo"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0017",
+    "offset": 328332,
+    "en": "Nintendo’s services may allow you to create, upload or share content such as text, images, audio, video, or other content that you create or is licensed to you. When you use any of Nintendo’s services that include these or other similar capabilities Nintendo may collect your content in accordance with Nintendo’s user agreements or terms of use and this policy. Some of the foregoing information, about content you create, upload or share through Nintendo’s services, to the extent related to your use of Katamari Damacy REROLL, may be provided to BANDAI NAMCO by Nintendo.",
+    "pt": "Os serviços da Nintendo podem permitir que você crie, carregue ou compartilhe conteúdo como texto, imagens, áudio, vídeo ou outro conteúdo que você crie ou seja licenciado para você. Quando você usa qualquer um dos serviços da Nintendo que incluem essas ou outras capacidades similares, a Nintendo pode coletar seu conteúdo de acordo com os acordos de uso ou termos de uso da Nintendo e esta política. Algumas das informações acima, sobre conteúdo que você cria, carrega ou compartilha através dos serviços da Nintendo, na medida em que relacionada com o seu uso de Katamari Damacy REROLL, pode ser fornecido para BANDAI NAMCO pela Nintendo."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0018",
+    "offset": 331712,
+    "en": "\r\nYour purchases",
+    "pt": "\r\nSuas compras"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0019",
+    "offset": 332640,
+    "en": "Some of Nintendo’s services allow you to make purchases. If you use any of Nintendo’s services to make a purchase, Nintendo may collect information about the purchase. This could include payment information, such as your credit card number, account authentication information and contact information like your billing and shipping address. None of the foregoing information regarding your purchases through Nintendo’s services, will be collected by or provided to BANDAI NAMCO, without your express authorization.",
+    "pt": "Alguns serviços da Nintendo permitem que você faça compras. Se você usar algum dos serviços da Nintendo para fazer uma compra, a Nintendo pode coletar informações sobre a compra. Isso pode incluir informações de pagamento, como o número do seu cartão de crédito, informações de autenticação de conta e informações de contato, como faturamento e endereço de envio. Nenhuma das informações anteriores sobre suas compras através dos serviços da Nintendo, será coletada ou fornecida à BANDAI NAMCO, sem sua autorização expressa."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0020",
+    "offset": 335544,
+    "en": "\r\n2. How BANDAI NAMCO uses your information",
+    "pt": "\r\n2. Como BANDAI NAMCO usa suas informações"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0021",
+    "offset": 336352,
+    "en": "\r\nBANDAI NAMCO uses the information provided by Nintendo to deliver, maintain, and improve Katamari Damacy REROLL. BANDAI NAMCO also uses this information to protect BANDAI NAMCO and its users, and investigate and prevent activities that are potentially illegal or that violate BANDAI NAMCO’s end user license agreement or terms of use.",
+    "pt": "\r\nBANDAI NAMCO usa as informações fornecidas pela Nintendo para entregar, manter e melhorar Katamari Damacy REROLL. BANDAI NAMCO também usa essas informações para proteger BANDAI NAMCO e seus usuários, e investigar e prevenir atividades que são potencialmente ilegais ou que violam o contrato de licença ou os termos de uso da BANDAI NAMCO."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0022",
+    "offset": 338908,
+    "en": "\r\nWhenever you contact BANDAI NAMCO, BANDAI NAMCO uses the information that you provide to BANDAI NAMCO to help resolve issues you might be having when you use Katamari Damacy REROLL through Nintendo’s services. BANDAI NAMCO also uses information, such as your email address, to respond to you when you contact Nintendo.",
+    "pt": "\r\nSempre que você contata BANDAI NAMCO, BANDAI NAMCO usa a informação que você fornece para BANDAI NAMCO para ajudar a resolver problemas que você pode estar tendo quando você usa Katamari Damacy REROLL através dos serviços da Nintendo. BANDAI NAMCO também usa informações, como seu endereço de e-mail, para responder a você quando você contata a Nintendo."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0023",
+    "offset": 340768,
+    "en": "\r\n3. How your information is shared",
+    "pt": "\r\n3. Como suas informações são compartilhadas"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0024",
+    "offset": 342316,
+    "en": "\r\nNintendo sometimes shares certain information, as described above, with certain third-party partners outside of Nintendo, including BANDAI NAMCO. Any such information Nintendo shares with BANDAI NAMCO may be used by BANDAI NAMCO for other legal and business purposes, such as complying with legal process, responding to claims or inquiries, enforcing BANDAI NAMCO’s end user license agreement, or protecting the rights, property or personal safety of BANDAI NAMCO’s operations, its users, or the public. Your information may also be shared as part of any sale or transfer of BANDAI NAMCO assets, if legally permitted. Any information you provide to BANDAI NAMCO concerning your use of Katamari Damacy REROLL may also be shared with Nintendo. The use of your information, and the use of cookies, web beacons, or other technologies, by any other third-party providers is subject to the privacy policies of such third-party service providers.",
+    "pt": "\r\nA Nintendo às vezes compartilha certas informações, como descrito acima, com alguns parceiros de terceiros fora da Nintendo, incluindo BANDAI NAMCO. Qualquer informação que a Nintendo compartilhe com a BANDAI NAMCO pode ser usada pela BANDAI NAMCO para outros fins legais e comerciais, tais como cumprir com o processo legal, responder a reclamações ou inquéritos, aplicar o contrato de licença de usuário final da BANDAI NAMCO, ou proteger os direitos, propriedade ou segurança pessoal das operações da BANDAI NAMCO, seus usuários ou o público. Suas informações também podem ser compartilhadas como parte de qualquer venda ou transferência de bens da BANDAI NAMCO, se permitido legalmente. Qualquer informação que você fornecer à BANDAI NAMCO sobre seu uso de Katamari Damacy REROLL também pode ser compartilhada com a Nintendo. O uso de suas informações, e o uso de cookies, web beacons, ou outras tecnologias, por qualquer outro provedor de terceiros está sujeito às políticas de privacidade de tais provedores de serviços de terceiros."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0025",
+    "offset": 348512,
+    "en": "\r\nSome of Nintendo’s services allow you to share information and content with others. When you decide to use these services in connection with Katamari Damacy REROLL, the information or content that you share, your online status, and your gameplay information may be visible to Nintendo and BANDAI NAMCO, other Nintendo users, and in some cases the public. Please keep in mind, when you use these services, that the information and content that you choose to share can be read, collected, or used by others. You are fully responsible for the information and content that you choose to share in these instances.",
+    "pt": "\r\nAlguns dos serviços da Nintendo permitem que você compartilhe informações e conteúdo com outros. Quando você decidir usar esses serviços em conexão com Katamari Damacy REROLL, as informações ou conteúdo que você compartilha, seu status online, e suas informações de jogabilidade podem ser visíveis para Nintendo e BANDAI NAMCO, outros usuários da Nintendo, e em alguns casos o público. Por favor, tenha em mente, quando você usa esses serviços, que a informação e o conteúdo que você escolhe compartilhar podem ser lidos, coletados ou usados por outros. Você é totalmente responsável pela informação e conteúdo que você escolhe compartilhar nestes casos."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0026",
+    "offset": 351884,
+    "en": "\r\n4. Your controls and choices",
+    "pt": "\r\n4. Seus controles e escolhas"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0027",
+    "offset": 353128,
+    "en": "\r\nNintendo may offer you certain controls and choices regarding the information Nintendo collects, how the information is used, and how it is shared. These controls and choices may include the ability to update, correct or delete information that you have provided to Nintendo or information that Nintendo has collected through your use of its service. They may also include the ability to opt-out of receiving notifications, promotions, offers or other advertising from Nintendo. To the extent your choices, or your changes to such controls affect the information you have shared with or provided to Nintendo, such choices or changes will also be made with respect to any such information shared with BANDAI NAMCO.",
+    "pt": "\r\nA Nintendo pode lhe oferecer certos controles e escolhas sobre as informações que a Nintendo coleta, como as informações são usadas e como são compartilhadas. Esses controles e escolhas podem incluir a capacidade de atualizar, corrigir ou excluir informações que você forneceu à Nintendo ou informações que a Nintendo recolheu através do seu uso de seu serviço. Eles também podem incluir a capacidade de não receber notificações, promoções, ofertas ou outra publicidade da Nintendo. Na medida em que suas escolhas, ou suas mudanças em tais controles afetam as informações que você compartilhou ou forneceu para a Nintendo, tais escolhas ou mudanças também serão feitas com relação a qualquer informação compartilhada com a BANDAI NAMCO."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0028",
+    "offset": 356964,
+    "en": "\r\n5. Information security",
+    "pt": "\r\n5. Segurança da informação"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0029",
+    "offset": 357612,
+    "en": "\r\nBANDAI NAMCO has implemented administrative, physical, and technical security measures that are designed to protect your information from loss, theft, misuse, unauthorized access, disclosure, alteration and destruction. You should understand though that, despite BANDAI NAMCO’s efforts, no security can be guaranteed as impenetrable.",
+    "pt": "\r\nBANDAI NAMCO implementou medidas administrativas, físicas e técnicas de segurança que são projetadas para proteger suas informações de perda, roubo, uso indevido, acesso não autorizado, divulgação, alteração e destruição. Você deve entender que, apesar dos esforços da BANDAI NAMCO, nenhuma segurança pode ser garantida como impenetrável."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0030",
+    "offset": 359608,
+    "en": "\r\n6. Information about children",
+    "pt": "\r\n6. Informações sobre crianças"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0031",
+    "offset": 360476,
+    "en": "\r\nBANDAI NAMCO does not knowingly collect, use, or share personal information from children under the age of 13 without verifiable parental consent or as permitted by law. Where a parent or legal guardian has provided consent for Nintendo to share with BANDAI NAMCO personal information of his or her child, that parent or guardian may review, modify, or delete the child’s personal information, or withdraw such consent, by contacting Nintendo using the contact information provided at the end of Nintendo’s privacy policy.",
+    "pt": "\r\nBANDAI NAMCO não coleta, usa ou compartilha informações pessoais de crianças menores de 13 anos sem o consentimento dos pais verificável ou conforme permitido pela lei. Quando um pai ou tutor legal deu o consentimento para a Nintendo compartilhar com a BANDAI informações pessoais de seu filho, esse pai ou guardião pode revisar, modificar ou excluir as informações pessoais da criança, ou retirar tal consentimento, contatando a Nintendo usando as informações de contato fornecidas no final da política de privacidade da Nintendo."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0032",
+    "offset": 363468,
+    "en": "\r\n7. Changes",
+    "pt": "\r\n7. Mudanças"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0033",
+    "offset": 364272,
+    "en": "\r\nBANDAI NAMCO may update this privacy policy from time to time. When BANDAI NAMCO updates it, BANDAI NAMCO will revise the \"Last Updated\" date above. If BANDAI NAMCO makes material changes in the way it collects, uses, retains or shares your personal information, BANDAI NAMCO will notify you by sending you an email at the last email address that you provided BANDAI NAMCO, or by posting notice of the changes through updates to Katamari Damacy REROLL.",
+    "pt": "\r\nBANDAI NAMCO pode atualizar essa política de privacidade de vez em quando. Quando BANDAI NAMCO atualizá-lo, BANDAI NAMCO irá rever a data \"Última atualização\" acima. Se a BANDAI NAMCO fizer mudanças materiais na forma como coleta, usa, retém ou compartilha suas informações pessoais, a BANDAI NAMCO irá notificá-lo enviando um e-mail no último endereço de e-mail que você forneceu à BANDAI NAMCO, ou postando aviso das mudanças através de atualizações para Katamari Damacy REROLL."
+  },
+  {
+    "object": 1591,
+    "id": "PP_0034",
+    "offset": 367008,
+    "en": "\r\n8. Contact information",
+    "pt": "\r\n8. Informação de contato"
+  },
+  {
+    "object": 1591,
+    "id": "PP_0035",
+    "offset": 368148,
+    "en": "\r\nIf you have any questions, concerns or comments regarding this privacy policy, or any of BANDAI NAMCO’s privacy practices, please contact BANDAI NAMCO via email at privacy@bandainamcoent.com, via phone at 1-408-235-2000, or via regular mail at BANDAI NAMCO Entertainment America Inc., Attn: Legal & Business Affairs, 2051 Mission College Boulevard, Santa Clara, CA 95054. If you wish to review, modify, or delete any personal information collected from or provided by you (or your child or a child under your legal guardianship), please contact Nintendo via email at privacypolicy@noa.nintendo.com, via phone at 1-888-977-7627, or via regular mail at Nintendo of America Inc., Attn: Privacy Administrator, 4600 150th Avenue NE, Redmond, WA 98052, U.S.A.",
+    "pt": "\r\nSe você tiver alguma dúvida, preocupações ou comentários sobre esta política de privacidade, ou qualquer uma das práticas de privacidade da BANDAI NAMCO, por favor entre em contato com a BANDAI NAMCO via e-mail privacy@bandainamcoent.com, via telefone em 1-408-235-2000, ou via correio regular na BANDAI NAMCO Entertainment America Inc., Attn: Legal & Business Affairs, 2051 Mission College Boulevard, Santa Clara, CA 95054. Se você deseja rever, modificar ou excluir qualquer informação pessoal coletada ou fornecida por você (ou seu filho ou uma criança sob sua tutela legal), por favor, entre em contato com a Nintendo via e-mail em privacypolicy@noa.nintendo.com, via telefone em 1-888-977-7627, ou via correio regular na Nintendo of America Inc., Attn: Privacy Administrator, 4600 150th Avenue NE, Redmond, WA 98052, EUA."
+  },
+  {
+    "object": 1591,
+    "id": "STEAM_PP_0001",
+    "offset": 372492,
+    "en": "BANDAI NAMCO Entertainment America Inc.\r\nPrivacy Policy",
+    "pt": "BANDAI NAMCO Entertainment America Inc.\r\nPolítica de Privacidade"
+  },
+  {
+    "object": 1591,
+    "id": "STEAM_PP_0002",
+    "offset": 372880,
+    "en": "Katamari Damacy REROLL",
+    "pt": "Katamari Damacy REROLL"
+  },
+  {
+    "object": 1591,
+    "id": "STEAM_PP_0003",
+    "offset": 373380,
+    "en": "BANDAI NAMCO Entertainment America Inc. and its affiliates do not collect any personal data from you or your device through your access to or use of this Game. Any changes to this privacy policy will be made available to you here.",
+    "pt": "BANDAI NAMCO Entertainment America Inc. e seus afiliados não coletam dados pessoais de você ou do seu dispositivo através do seu acesso ou uso deste jogo. Qualquer mudança nessa política de privacidade será disponibilizada aqui."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0000",
+    "offset": 16332,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0001",
+    "offset": 16336,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0002",
+    "offset": 16340,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0003",
+    "offset": 16344,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0004",
+    "offset": 16348,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0005",
+    "offset": 16352,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0006",
+    "offset": 16356,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0007",
+    "offset": 16360,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0008",
+    "offset": 16364,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0009",
+    "offset": 16368,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0010",
+    "offset": 16372,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0011",
+    "offset": 16376,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0012",
+    "offset": 16380,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0013",
+    "offset": 16384,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0014",
+    "offset": 16388,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0015",
+    "offset": 16392,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0016",
+    "offset": 16396,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0017",
+    "offset": 16400,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0018",
+    "offset": 16404,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0019",
+    "offset": 16408,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0020",
+    "offset": 16412,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0021",
+    "offset": 16416,
+    "en": "<size=30><color=#777>- Credits -</color></size>",
+    "pt": "<size=30><color=#777>- Créditos -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0022",
+    "offset": 16468,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0023",
+    "offset": 16472,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0024",
+    "offset": 16476,
+    "en": "Masatoshi Ogita",
+    "pt": "Masatoshi Ogita"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0025",
+    "offset": 16496,
+    "en": "<size=30><color=#777>Lead Game Designer</color></size>",
+    "pt": "<size=30><color=#777>Design principal de jogo</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0026",
+    "offset": 16556,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0027",
+    "offset": 16560,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0028",
+    "offset": 16564,
+    "en": "Shinsuke Kimura",
+    "pt": "Shinsuke Kimura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0029",
+    "offset": 16584,
+    "en": "<size=30><color=#777>Game Designer</color></size>",
+    "pt": "<size=30><color=#777>Design de jogo</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0030",
+    "offset": 16640,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0031",
+    "offset": 16644,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0032",
+    "offset": 16648,
+    "en": "Minori Kubota",
+    "pt": "Minori Kubota"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0033",
+    "offset": 16668,
+    "en": "<size=30><color=#777>Object & Map Director</color></size>",
+    "pt": "<size=30><color=#777>Direção de objetos e mapas</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0034",
+    "offset": 16732,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0035",
+    "offset": 16736,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0036",
+    "offset": 16740,
+    "en": "Kazumi Yamabe",
+    "pt": "Kazumi Yamabe"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0037",
+    "offset": 16760,
+    "en": "<size=30><color=#777>Lead Programmer</color></size>",
+    "pt": "<size=30><color=#777>Programação principal</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0038",
+    "offset": 16816,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0039",
+    "offset": 16820,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0040",
+    "offset": 16824,
+    "en": "Noriyoshi Tsujimoto",
+    "pt": "Noriyoshi Tsujimoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0041",
+    "offset": 16848,
+    "en": "<size=30><color=#777>Screen & Animation Programmer</color></size>",
+    "pt": "<size=30><color=#777>Programação de telas e animações</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0042",
+    "offset": 16920,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0043",
+    "offset": 16924,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0044",
+    "offset": 16928,
+    "en": "Hiroyuki Nakama",
+    "pt": "Hiroyuki Nakama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0045",
+    "offset": 16948,
+    "en": "<size=30><color=#777>Object Programmer</color></size>",
+    "pt": "<size=30><color=#777>Programação de objetos</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0046",
+    "offset": 17008,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0047",
+    "offset": 17012,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0048",
+    "offset": 17016,
+    "en": "Takashi Yoshida",
+    "pt": "Takashi Yoshida"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0049",
+    "offset": 17036,
+    "en": "<size=30><color=#777>Lead Artist</color></size>",
+    "pt": "<size=30><color=#777>Direção de arte</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0050",
+    "offset": 17088,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0051",
+    "offset": 17092,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0052",
+    "offset": 17096,
+    "en": "Hizuru Uchida",
+    "pt": "Hizuru Uchida"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0053",
+    "offset": 17116,
+    "en": "<size=30><color=#777>Presents & Character Designer</color></size>",
+    "pt": "<size=30><color=#777>Design de presentes e personagens</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0054",
+    "offset": 17188,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0055",
+    "offset": 17192,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0056",
+    "offset": 17196,
+    "en": "Takeshi Ugajin",
+    "pt": "Takeshi Ugajin"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0057",
+    "offset": 17216,
+    "en": "<size=30><color=#777>Effects & Packaging Designer</color></size>",
+    "pt": "<size=30><color=#777>Design de efeitos e embalagem</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0058",
+    "offset": 17284,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0059",
+    "offset": 17288,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0060",
+    "offset": 17292,
+    "en": "Takashi Kurihara",
+    "pt": "Takashi Kurihara"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0061",
+    "offset": 17312,
+    "en": "<size=30><color=#777>Movie & Character Designer</color></size>",
+    "pt": "<size=30><color=#777>Design de vídeos e personagens</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0062",
+    "offset": 17380,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0063",
+    "offset": 17384,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0064",
+    "offset": 17388,
+    "en": "Moe Miura",
+    "pt": "Moe Miura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0065",
+    "offset": 17404,
+    "en": "<size=30><color=#777>2D Artist/Screen Designer</color></size>",
+    "pt": "<size=30><color=#777>Arte 2D e design de telas</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0066",
+    "offset": 17472,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0067",
+    "offset": 17476,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0068",
+    "offset": 17480,
+    "en": "Noriko Uono",
+    "pt": "Noriko Uono"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0069",
+    "offset": 17496,
+    "en": "Mizuki Ooki",
+    "pt": "Mizuki Ooki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0070",
+    "offset": 17512,
+    "en": "Toshiteru Okada",
+    "pt": "Toshiteru Okada"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0071",
+    "offset": 17532,
+    "en": "Yasuaki Hashimoto",
+    "pt": "Yasuaki Hashimoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0072",
+    "offset": 17556,
+    "en": "<size=30><color=#777>Object Modelers</color></size>",
+    "pt": "<size=30><color=#777>Modelagem de objetos</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0073",
+    "offset": 17612,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0074",
+    "offset": 17616,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0075",
+    "offset": 17620,
+    "en": "Yu Miyake",
+    "pt": "Yu Miyake"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0076",
+    "offset": 17636,
+    "en": "<size=30><color=#777>Sound Director</color></size>",
+    "pt": "<size=30><color=#777>Direção de som</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0077",
+    "offset": 17692,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0078",
+    "offset": 17696,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0079",
+    "offset": 17700,
+    "en": "Yuri Misumi",
+    "pt": "Yuri Misumi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0080",
+    "offset": 17716,
+    "en": "Hideki Tobeta",
+    "pt": "Hideki Tobeta"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0081",
+    "offset": 17736,
+    "en": "Akitaka Toyama",
+    "pt": "Akitaka Toyama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0082",
+    "offset": 17756,
+    "en": "Asuka Sakai",
+    "pt": "Asuka Sakai"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0083",
+    "offset": 17772,
+    "en": "<size=30><color=#777>Sound Designers</color></size>",
+    "pt": "<size=30><color=#777>Design de som</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0084",
+    "offset": 17828,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0085",
+    "offset": 17832,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0086",
+    "offset": 17836,
+    "en": "Takao Suzuki",
+    "pt": "Takao Suzuki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0087",
+    "offset": 17852,
+    "en": "<size=30><color=#777>Star Jam.CO.,LTD.</color></size>",
+    "pt": "<size=30><color=#777>Star Jam.CO.,LTD.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0088",
+    "offset": 17912,
+    "en": "<size=30><color=#777>Sound Direction</color></size>",
+    "pt": "<size=30><color=#777>Direção sonora</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0089",
+    "offset": 17968,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0090",
+    "offset": 17972,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0091",
+    "offset": 17976,
+    "en": "Miki Ito",
+    "pt": "Miki Ito"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0092",
+    "offset": 17988,
+    "en": "Masaaki Kaneko",
+    "pt": "Masaaki Kaneko"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0093",
+    "offset": 18008,
+    "en": "<size=30><color=#777>PROCYON STUDIO CO., LTD.</color></size>",
+    "pt": "<size=30><color=#777>PROCYON STUDIO CO., LTD.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0094",
+    "offset": 18072,
+    "en": "<size=30><color=#777>Sound-Effects</color></size>",
+    "pt": "<size=30><color=#777>Efeitos sonoros</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0095",
+    "offset": 18128,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0096",
+    "offset": 18132,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0097",
+    "offset": 18136,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0098",
+    "offset": 18140,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0099",
+    "offset": 18144,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0100",
+    "offset": 18148,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0101",
+    "offset": 18152,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0102",
+    "offset": 18156,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0103",
+    "offset": 18160,
+    "en": "<size=30><color=#777>- Voice Over Actors -</color></size>",
+    "pt": "<size=30><color=#777>- Dubladores -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0104",
+    "offset": 18224,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0105",
+    "offset": 18228,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0106",
+    "offset": 18232,
+    "en": "Yoshihito Yano",
+    "pt": "Yoshihito Yano"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0107",
+    "offset": 18252,
+    "en": "Yu Miyake",
+    "pt": "Yu Miyake"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0108",
+    "offset": 18268,
+    "en": "Yuri Misumi",
+    "pt": "Yuri Misumi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0109",
+    "offset": 18284,
+    "en": "Natsuyo Nakayama",
+    "pt": "Natsuyo Nakayama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0110",
+    "offset": 18304,
+    "en": "Hideki Tobeta",
+    "pt": "Hideki Tobeta"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0111",
+    "offset": 18324,
+    "en": "Tomoko Tatsuta",
+    "pt": "Tomoko Tatsuta"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0112",
+    "offset": 18344,
+    "en": "Keita Takahashi",
+    "pt": "Keita Takahashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0113",
+    "offset": 18364,
+    "en": "Ryuichi Takada",
+    "pt": "Ryuichi Takada"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0114",
+    "offset": 18384,
+    "en": "Asuka Sakai",
+    "pt": "Asuka Sakai"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0115",
+    "offset": 18400,
+    "en": "Kaori Kurosawa",
+    "pt": "Kaori Kurosawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0116",
+    "offset": 18420,
+    "en": "Tomomitsu Kaneko",
+    "pt": "Tomomitsu Kaneko"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0117",
+    "offset": 18440,
+    "en": "Junko Ozawa",
+    "pt": "Junko Ozawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0118",
+    "offset": 18456,
+    "en": "Saori Ogiya",
+    "pt": "Saori Ogiya"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0119",
+    "offset": 18472,
+    "en": "Mizuki Oki",
+    "pt": "Mizuki Oki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0120",
+    "offset": 18488,
+    "en": "Akihiko Ishikawa",
+    "pt": "Akihiko Ishikawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0121",
+    "offset": 18508,
+    "en": "Fumina",
+    "pt": "Fumina"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0122",
+    "offset": 18520,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0123",
+    "offset": 18524,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0124",
+    "offset": 18528,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0125",
+    "offset": 18532,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0126",
+    "offset": 18536,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0127",
+    "offset": 18540,
+    "en": "Xanthe Smith",
+    "pt": "Xanthe Smith"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0128",
+    "offset": 18556,
+    "en": "Dario Toda",
+    "pt": "Dario Toda"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0129",
+    "offset": 18572,
+    "en": "Michael Fearney",
+    "pt": "Michael Fearney"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0130",
+    "offset": 18592,
+    "en": "Towa McCauley",
+    "pt": "Towa McCauley"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0131",
+    "offset": 18612,
+    "en": "Ryan Drees",
+    "pt": "Ryan Drees"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0132",
+    "offset": 18628,
+    "en": "Julia Yermakov",
+    "pt": "Julia Yermakov"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0133",
+    "offset": 18648,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0134",
+    "offset": 18652,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0135",
+    "offset": 18656,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0136",
+    "offset": 18660,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0137",
+    "offset": 18664,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0138",
+    "offset": 18668,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0139",
+    "offset": 18672,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0140",
+    "offset": 18676,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0141",
+    "offset": 18680,
+    "en": "<size=30><color=#777>- Voice Over Recording -</color></size>",
+    "pt": "<size=30><color=#777>- Gravação de vozes -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0142",
+    "offset": 18744,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0143",
+    "offset": 18748,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0144",
+    "offset": 18752,
+    "en": "Hidekazu Nakamura",
+    "pt": "Hidekazu Nakamura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0145",
+    "offset": 18776,
+    "en": "<size=30><color=#777>Art Quest</color></size>",
+    "pt": "<size=30><color=#777>Art Quest</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0146",
+    "offset": 18828,
+    "en": "<size=30><color=#777>Voice Recording Director</color></size>",
+    "pt": "<size=30><color=#777>Direção de gravação de vozes</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0147",
+    "offset": 18892,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0148",
+    "offset": 18896,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0149",
+    "offset": 18900,
+    "en": "Naomi Furukawa",
+    "pt": "Naomi Furukawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0150",
+    "offset": 18920,
+    "en": "<size=30><color=#777>Art Quest</color></size>",
+    "pt": "<size=30><color=#777>Art Quest</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0151",
+    "offset": 18972,
+    "en": "<size=30><color=#777>Voice Recording Assistant</color></size>",
+    "pt": "<size=30><color=#777>Assistência de gravação de vozes</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0152",
+    "offset": 19040,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0153",
+    "offset": 19044,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0154",
+    "offset": 19048,
+    "en": "Tomoyuki Monta",
+    "pt": "Tomoyuki Monta"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0155",
+    "offset": 19068,
+    "en": "<size=30><color=#777>CHUROKU SERVICE CO. LTD.</color></size>",
+    "pt": "<size=30><color=#777>CHUROKU SERVICE CO. LTD.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0156",
+    "offset": 19132,
+    "en": "<size=30><color=#777>Voice Recroding Engineer</color></size>",
+    "pt": "<size=30><color=#777>Engenharia de gravação de vozes</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0157",
+    "offset": 19196,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0158",
+    "offset": 19200,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0159",
+    "offset": 19204,
+    "en": "Mikio Watanabe",
+    "pt": "Mikio Watanabe"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0160",
+    "offset": 19224,
+    "en": "<size=30><color=#777>studio Fine</color></size>",
+    "pt": "<size=30><color=#777>studio Fine</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0161",
+    "offset": 19276,
+    "en": "<size=30><color=#777>Recording Engineer</color></size>",
+    "pt": "<size=30><color=#777>Engenharia de gravação</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0162",
+    "offset": 19336,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0163",
+    "offset": 19340,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0164",
+    "offset": 19344,
+    "en": "Kazushi Yamamoto",
+    "pt": "Kazushi Yamamoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0165",
+    "offset": 19364,
+    "en": "<size=30><color=#777>aLIVE RECORDING STUDIO</color></size>",
+    "pt": "<size=30><color=#777>aLIVE RECORDING STUDIO</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0166",
+    "offset": 19428,
+    "en": "<size=30><color=#777>Operator</color></size>",
+    "pt": "<size=30><color=#777>Operação</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0167",
+    "offset": 19476,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0168",
+    "offset": 19480,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0169",
+    "offset": 19484,
+    "en": "Tomoko Sugiyama",
+    "pt": "Tomoko Sugiyama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0170",
+    "offset": 19504,
+    "en": "Tai Studio",
+    "pt": "Tai Studio"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0171",
+    "offset": 19520,
+    "en": "<size=30><color=#777>Assistant</color></size>",
+    "pt": "<size=30><color=#777>Assistência</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0172",
+    "offset": 19572,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0173",
+    "offset": 19576,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0174",
+    "offset": 19580,
+    "en": "Haruna Sasaki",
+    "pt": "Haruna Sasaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0175",
+    "offset": 19600,
+    "en": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>",
+    "pt": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0176",
+    "offset": 19676,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0177",
+    "offset": 19680,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0178",
+    "offset": 19684,
+    "en": "Taku Wagatsuma",
+    "pt": "Taku Wagatsuma"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0179",
+    "offset": 19704,
+    "en": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>",
+    "pt": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0180",
+    "offset": 19780,
+    "en": "<size=30><color=#777>Recording & Mixing</color></size>",
+    "pt": "<size=30><color=#777>Gravação e mixagem</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0181",
+    "offset": 19840,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0182",
+    "offset": 19844,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0183",
+    "offset": 19848,
+    "en": "Shunichi Uemura",
+    "pt": "Shunichi Uemura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0184",
+    "offset": 19868,
+    "en": "<size=30><color=#777>Director</color></size>",
+    "pt": "<size=30><color=#777>Direção</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0185",
+    "offset": 19916,
+    "en": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>",
+    "pt": "<size=30><color=#777>Columbia Music Entertainment, Inc.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0186",
+    "offset": 19992,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0187",
+    "offset": 19996,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0188",
+    "offset": 20000,
+    "en": "Satoru Kosaki",
+    "pt": "Satoru Kosaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0189",
+    "offset": 20020,
+    "en": "<size=30><color=#777>Mastering</color></size>",
+    "pt": "<size=30><color=#777>Masterização</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0190",
+    "offset": 20072,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0191",
+    "offset": 20076,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0192",
+    "offset": 20080,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0193",
+    "offset": 20084,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0194",
+    "offset": 20088,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0195",
+    "offset": 20092,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0196",
+    "offset": 20096,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0197",
+    "offset": 20100,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0198",
+    "offset": 20104,
+    "en": "<size=30><color=#777>- Voicalist Coordination -</color></size>",
+    "pt": "<size=30><color=#777>- Coordenação de vocalistas -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0199",
+    "offset": 20172,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0200",
+    "offset": 20176,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0201",
+    "offset": 20180,
+    "en": "Nobuyo Yanagisawa",
+    "pt": "Nobuyo Yanagisawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0202",
+    "offset": 20204,
+    "en": "<size=30><color=#777>VOCAL, Ltd.</color></size>",
+    "pt": "<size=30><color=#777>VOCAL, Ltd.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0203",
+    "offset": 20256,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0204",
+    "offset": 20260,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0205",
+    "offset": 20264,
+    "en": "Shunji Kawatsuna",
+    "pt": "Shunji Kawatsuna"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0206",
+    "offset": 20284,
+    "en": "<size=30><color=#777>Expulse, Inc.</color></size>",
+    "pt": "<size=30><color=#777>Expulse, Inc.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0207",
+    "offset": 20340,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0208",
+    "offset": 20344,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0209",
+    "offset": 20348,
+    "en": "Kunio Eto",
+    "pt": "Kunio Eto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0210",
+    "offset": 20364,
+    "en": "<size=30><color=#777>Columbia Songs, Inc.</color></size>",
+    "pt": "<size=30><color=#777>Columbia Songs, Inc.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0211",
+    "offset": 20424,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0212",
+    "offset": 20428,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0213",
+    "offset": 20432,
+    "en": "Ayako Yoshida",
+    "pt": "Ayako Yoshida"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0214",
+    "offset": 20452,
+    "en": "<size=30><color=#777>Gekidan Mirai Gekijo</color></size>",
+    "pt": "<size=30><color=#777>Gekidan Mirai Gekijo</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0215",
+    "offset": 20512,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0216",
+    "offset": 20516,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0217",
+    "offset": 20520,
+    "en": "Etsuko Yamaguchi",
+    "pt": "Etsuko Yamaguchi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0218",
+    "offset": 20540,
+    "en": "Takao Suzuki",
+    "pt": "Takao Suzuki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0219",
+    "offset": 20556,
+    "en": "<size=30><color=#777>Star Jam.CO.,LTD.</color></size>",
+    "pt": "<size=30><color=#777>Star Jam.CO.,LTD.</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0220",
+    "offset": 20616,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0221",
+    "offset": 20620,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0222",
+    "offset": 20624,
+    "en": "Manabu Sugiyama",
+    "pt": "Manabu Sugiyama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0223",
+    "offset": 20644,
+    "en": "<size=30><color=#777>Namco Licersing Team</color></size>",
+    "pt": "<size=30><color=#777>Equipe de licenciamento da Namco</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0224",
+    "offset": 20704,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0225",
+    "offset": 20708,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0226",
+    "offset": 20712,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0227",
+    "offset": 20716,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0228",
+    "offset": 20720,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0229",
+    "offset": 20724,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0230",
+    "offset": 20728,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0231",
+    "offset": 20732,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0232",
+    "offset": 20736,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0233",
+    "offset": 20740,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0234",
+    "offset": 20744,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0235",
+    "offset": 20748,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0236",
+    "offset": 20752,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0237",
+    "offset": 20756,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0238",
+    "offset": 20760,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0239",
+    "offset": 20764,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0240",
+    "offset": 20768,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0241",
+    "offset": 20772,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0242",
+    "offset": 20776,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0243",
+    "offset": 20780,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0244",
+    "offset": 20784,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0245",
+    "offset": 20788,
+    "en": "<size=30><color=#777>- Songs -</color></size>",
+    "pt": "<size=30><color=#777>- Músicas -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0246",
+    "offset": 20840,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0247",
+    "offset": 20844,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0248",
+    "offset": 20848,
+    "en": "「Roll Me In」",
+    "pt": "「Me enrole」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0249",
+    "offset": 20868,
+    "en": "Yui Asaka<color=#777>：Vocals</color>",
+    "pt": "Yui Asaka<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0250",
+    "offset": 20912,
+    "en": "Hideki Tobeta (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Hideki Tobeta (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0251",
+    "offset": 20972,
+    "en": "Hideki Tobeta (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Hideki Tobeta (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0252",
+    "offset": 21032,
+    "en": "Takayuki Ikezawa (Namco Ltd.)<color=#777>：Guitar</color>",
+    "pt": "Takayuki Ikezawa (Namco Ltd.)<color=#777>：Guitarra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0253",
+    "offset": 21096,
+    "en": "Jesahm (Namco Ltd.)<color=#777>：Bass</color>",
+    "pt": "Jesahm (Namco Ltd.)<color=#777>：Baixo</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0254",
+    "offset": 21148,
+    "en": "Jesahm (Namco Ltd.)<color=#777>：Saxophone</color>",
+    "pt": "Jesahm (Namco Ltd.)<color=#777>：Saxofone</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0255",
+    "offset": 21204,
+    "en": "Jesahm (Namco Ltd.)<color=#777>：Flute</color>",
+    "pt": "Jesahm (Namco Ltd.)<color=#777>：Flauta</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0256",
+    "offset": 21256,
+    "en": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violin</color>",
+    "pt": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violino</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0257",
+    "offset": 21316,
+    "en": "Mika Sato (Namco Ltd.)<color=#777>：Chorus</color>",
+    "pt": "Mika Sato (Namco Ltd.)<color=#777>：Coro</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0258",
+    "offset": 21372,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0259",
+    "offset": 21376,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0260",
+    "offset": 21380,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0261",
+    "offset": 21384,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0262",
+    "offset": 21388,
+    "en": "「The Last Samba」",
+    "pt": "「O último samba」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0263",
+    "offset": 21412,
+    "en": "Katamari Samba-Tai<color=#777>：Vocals</color>",
+    "pt": "Katamari Samba-Tai<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0264",
+    "offset": 21464,
+    "en": "Tomomitsu Kaneko, Keiki Kobayashi)",
+    "pt": "Tomomitsu Kaneko, Keiki Kobayashi)"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0265",
+    "offset": 21504,
+    "en": "Yuri Mikado, Yu Miyake, Hideki Tobeta",
+    "pt": "Yuri Mikado, Yu Miyake, Hideki Tobeta"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0266",
+    "offset": 21548,
+    "en": "(Yoshihito Yano, Yuji Masabuchi",
+    "pt": "(Yoshihito Yano, Yuji Masabuchi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0267",
+    "offset": 21584,
+    "en": "Yu Miyake, Asuka Sakai (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake, Asuka Sakai (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0268",
+    "offset": 21652,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0269",
+    "offset": 21656,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0270",
+    "offset": 21660,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0271",
+    "offset": 21664,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0272",
+    "offset": 21668,
+    "en": "「Lonely Rolling Star」",
+    "pt": "「Estrela solitária rolante」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0273",
+    "offset": 21700,
+    "en": "Saki Kabata<color=#777>：Vocals</color>",
+    "pt": "Saki Kabata<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0274",
+    "offset": 21744,
+    "en": "(Courtesy of FOR LIFE MUSIC ENTERTAINMENT, INC)",
+    "pt": "(Cortesia de FOR LIFE MUSIC ENTERTAINMENT, INC)"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0275",
+    "offset": 21796,
+    "en": "Yoshihito Yano (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Yoshihito Yano (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0276",
+    "offset": 21856,
+    "en": "Yoshihito Yano (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yoshihito Yano (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0277",
+    "offset": 21916,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0278",
+    "offset": 21920,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0279",
+    "offset": 21924,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0280",
+    "offset": 21928,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0281",
+    "offset": 21932,
+    "en": "「Cherry Tree Times」",
+    "pt": "「Tempos de cerejeiras」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0282",
+    "offset": 21960,
+    "en": "Katamari-Tai Jr.<color=#777>：Vocals</color>",
+    "pt": "Katamari-Tai Jr.<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0283",
+    "offset": 22012,
+    "en": "(GEKIDAN TOHAI.CO.LTD.)",
+    "pt": "(GEKIDAN TOHAI.CO.LTD.)"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0284",
+    "offset": 22040,
+    "en": "Kento Masui, Tomoka Osawa",
+    "pt": "Kento Masui, Tomoka Osawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0285",
+    "offset": 22072,
+    "en": "Chihiro Arai, Hiroki Fujita, Kana Sagara",
+    "pt": "Chihiro Arai, Hiroki Fujita, Kana Sagara"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0286",
+    "offset": 22116,
+    "en": "(VOCAL Ltd.,)",
+    "pt": "(VOCAL Ltd.,)"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0287",
+    "offset": 22136,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0288",
+    "offset": 22192,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0289",
+    "offset": 22248,
+    "en": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violin</color>",
+    "pt": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violino</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0290",
+    "offset": 22308,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0291",
+    "offset": 22312,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0292",
+    "offset": 22316,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0293",
+    "offset": 22320,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0294",
+    "offset": 22324,
+    "en": "「Katamari On The Rocks」",
+    "pt": "「Katamari com gelo」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0295",
+    "offset": 22356,
+    "en": "Masayuki Tanaka(EX.CRYSTAL KING)<color=#777>：Vocals</color>",
+    "pt": "Masayuki Tanaka(EX.CRYSTAL KING)<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0296",
+    "offset": 22424,
+    "en": "Yu Miyake/Keita Takahashi (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Yu Miyake/Keita Takahashi (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0297",
+    "offset": 22496,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0298",
+    "offset": 22552,
+    "en": "Satoru Kosaki (Namco Ltd.)<color=#777>：Trumpet</color>",
+    "pt": "Satoru Kosaki (Namco Ltd.)<color=#777>：Trompete</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0299",
+    "offset": 22612,
+    "en": "Tomomi Suzuki<color=#777>：Chorus</color>",
+    "pt": "Tomomi Suzuki<color=#777>：Coro</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0300",
+    "offset": 22660,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0301",
+    "offset": 22664,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0302",
+    "offset": 22668,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0303",
+    "offset": 22672,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0304",
+    "offset": 22676,
+    "en": "「Que Sera Sera」",
+    "pt": "「O que será, será」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0305",
+    "offset": 22700,
+    "en": "Charlie Kosei<color=#777>：Vocals</color>",
+    "pt": "Charlie Kosei<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0306",
+    "offset": 22748,
+    "en": "Asuka Sakai (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Asuka Sakai (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0307",
+    "offset": 22808,
+    "en": "Asuka Sakai (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Asuka Sakai (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0308",
+    "offset": 22864,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0309",
+    "offset": 22868,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0310",
+    "offset": 22872,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0311",
+    "offset": 22876,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0312",
+    "offset": 22880,
+    "en": "「The Moon & The Prince」",
+    "pt": "「A Lua e o Príncipe」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0313",
+    "offset": 22912,
+    "en": "Kenji Ninuma<color=#777>：Vocals</color>",
+    "pt": "Kenji Ninuma<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0314",
+    "offset": 22960,
+    "en": "Toyama Akitaka (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Toyama Akitaka (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0315",
+    "offset": 23020,
+    "en": "Toyama Akitaka (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Toyama Akitaka (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0316",
+    "offset": 23080,
+    "en": "Fumina<color=#777>：Chorus</color>",
+    "pt": "Fumina<color=#777>：Coro</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0317",
+    "offset": 23120,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0318",
+    "offset": 23124,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0319",
+    "offset": 23128,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0320",
+    "offset": 23132,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0321",
+    "offset": 23136,
+    "en": "「Katamari of Love」",
+    "pt": "「Katamari do amor」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0322",
+    "offset": 23164,
+    "en": "Shigeru Matsuzaki<color=#777>：Vocals</color>",
+    "pt": "Shigeru Matsuzaki<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0323",
+    "offset": 23216,
+    "en": "Yoshihito Yano (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Yoshihito Yano (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0324",
+    "offset": 23276,
+    "en": "Yoshihito Yano (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yoshihito Yano (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0325",
+    "offset": 23336,
+    "en": "Yukiko Yoko, Motonaga Ishii)",
+    "pt": "Yukiko Yoko, Motonaga Ishii)"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0326",
+    "offset": 23368,
+    "en": "(Katsuki Itami, Midori Fukushima,",
+    "pt": "(Katsuki Itami, Midori Fukushima,"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0327",
+    "offset": 23408,
+    "en": "Namco Recorder Quartet<color=#777>：Recorder</color>",
+    "pt": "Namco Recorder Quartet<color=#777>：Flauta doce</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0328",
+    "offset": 23468,
+    "en": "Yuji Masabuchi (Namco Ltd.)<color=#777>：Guitar</color>",
+    "pt": "Yuji Masabuchi (Namco Ltd.)<color=#777>：Guitarra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0329",
+    "offset": 23528,
+    "en": "Yuri Misumi (Namco Ltd.)<color=#777>：Chorus</color>",
+    "pt": "Yuri Misumi (Namco Ltd.)<color=#777>：Coro</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0330",
+    "offset": 23588,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0331",
+    "offset": 23592,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0332",
+    "offset": 23596,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0333",
+    "offset": 23600,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0334",
+    "offset": 23604,
+    "en": "「Katamari Mambo (Katamari Syndrome Re-mix)」",
+    "pt": "「Mambo do Katamari (Remix da síndrome Katamari)」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0335",
+    "offset": 23656,
+    "en": "Nobue Matsubara, Sakamoto-Chan<color=#777>：Vocals</color>",
+    "pt": "Nobue Matsubara, Sakamoto-Chan<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0336",
+    "offset": 23720,
+    "en": "Kazuyuki Oda, Yuri Misumi (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Kazuyuki Oda, Yuri Misumi (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0337",
+    "offset": 23792,
+    "en": "Yuri Misumi (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yuri Misumi (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0338",
+    "offset": 23848,
+    "en": "Satoru Kosaki (Namco Ltd.)<color=#777>：Trumpet</color>",
+    "pt": "Satoru Kosaki (Namco Ltd.)<color=#777>：Trompete</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0339",
+    "offset": 23908,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0340",
+    "offset": 23912,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0341",
+    "offset": 23916,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0342",
+    "offset": 23920,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0343",
+    "offset": 23924,
+    "en": "「Gin & Tonic & Red Red Roses」",
+    "pt": "「Gim, tônica e rosas bem vermelhas」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0344",
+    "offset": 23964,
+    "en": "Ado Mizumori<color=#777>：Vocals</color>",
+    "pt": "Ado Mizumori<color=#777>：Voz</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0345",
+    "offset": 24012,
+    "en": "Asuka Sakai (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Asuka Sakai (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0346",
+    "offset": 24072,
+    "en": "Asuka Sakai (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Asuka Sakai (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0347",
+    "offset": 24128,
+    "en": "Kazuhide Takahama<color=#777>：Piano</color>",
+    "pt": "Kazuhide Takahama<color=#777>：Piano</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0348",
+    "offset": 24180,
+    "en": "Ichiro Sakai<color=#777>：Bass</color>",
+    "pt": "Ichiro Sakai<color=#777>：Baixo</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0349",
+    "offset": 24224,
+    "en": "Kuniyoshi Yashiro<color=#777>：Drums</color>",
+    "pt": "Kuniyoshi Yashiro<color=#777>：Bateria</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0350",
+    "offset": 24276,
+    "en": "Akio Fujita<color=#777>：Flute</color>",
+    "pt": "Akio Fujita<color=#777>：Flauta</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0351",
+    "offset": 24320,
+    "en": "Asami Shimada<color=#777>：Chorus</color>",
+    "pt": "Asami Shimada<color=#777>：Coro</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0352",
+    "offset": 24368,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0353",
+    "offset": 24372,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0354",
+    "offset": 24376,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0355",
+    "offset": 24380,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0356",
+    "offset": 24384,
+    "en": "「Katamari Nah-Nah」",
+    "pt": "「Katamari Ná-ná」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0357",
+    "offset": 24412,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Humming</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Vocalização</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0358",
+    "offset": 24468,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Lyrics</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Letra</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0359",
+    "offset": 24524,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0360",
+    "offset": 24580,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0361",
+    "offset": 24584,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0362",
+    "offset": 24588,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0363",
+    "offset": 24592,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0364",
+    "offset": 24596,
+    "en": "「You Are Smart」",
+    "pt": "「Você é esperto」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0365",
+    "offset": 24620,
+    "en": "Akitaka Toyama (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Akitaka Toyama (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0366",
+    "offset": 24680,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0367",
+    "offset": 24684,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0368",
+    "offset": 24688,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0369",
+    "offset": 24692,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0370",
+    "offset": 24696,
+    "en": "「Angel Gifts」",
+    "pt": "「Presentes de anjo」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0371",
+    "offset": 24720,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0372",
+    "offset": 24776,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0373",
+    "offset": 24780,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0374",
+    "offset": 24784,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0375",
+    "offset": 24788,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0376",
+    "offset": 24792,
+    "en": "「Fugue #7777」",
+    "pt": "「Fuga nº 7777」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0377",
+    "offset": 24816,
+    "en": "Asuka Sakai (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Asuka Sakai (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0378",
+    "offset": 24872,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0379",
+    "offset": 24876,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0380",
+    "offset": 24880,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0381",
+    "offset": 24884,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0382",
+    "offset": 24888,
+    "en": "「Katamari★Stars」",
+    "pt": "「Katamari★Estrelas」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0383",
+    "offset": 24916,
+    "en": "Hideki Tobeta (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Hideki Tobeta (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0384",
+    "offset": 24976,
+    "en": "Katsuki Itami (Namco Ltd.)<color=#777>：Recorder</color>",
+    "pt": "Katsuki Itami (Namco Ltd.)<color=#777>：Flauta doce</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0385",
+    "offset": 25040,
+    "en": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violin</color>",
+    "pt": "Ryuichi Takada (Namco Ltd.)<color=#777>：Violino</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0386",
+    "offset": 25100,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0387",
+    "offset": 25104,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0388",
+    "offset": 25108,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0389",
+    "offset": 25112,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0390",
+    "offset": 25116,
+    "en": "「Walking on a Star!」",
+    "pt": "「Caminhando em uma estrela!」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0391",
+    "offset": 25144,
+    "en": "Yuri Misumi (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yuri Misumi (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0392",
+    "offset": 25200,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0393",
+    "offset": 25204,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0394",
+    "offset": 25208,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0395",
+    "offset": 25212,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0396",
+    "offset": 25216,
+    "en": "「Stardust Fanfare」",
+    "pt": "「Fanfarra de poeira estelar」"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0397",
+    "offset": 25244,
+    "en": "Yu Miyake (Namco Ltd.)<color=#777>：Music</color>",
+    "pt": "Yu Miyake (Namco Ltd.)<color=#777>：Composição</color>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0398",
+    "offset": 25300,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0399",
+    "offset": 25304,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0400",
+    "offset": 25308,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0401",
+    "offset": 25312,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0402",
+    "offset": 25316,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0403",
+    "offset": 25320,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0404",
+    "offset": 25324,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0405",
+    "offset": 25328,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0406",
+    "offset": 25332,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0407",
+    "offset": 25336,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0408",
+    "offset": 25340,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0409",
+    "offset": 25344,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0410",
+    "offset": 25348,
+    "en": "<size=30><color=#777>- US Localization -</color></size>",
+    "pt": "<size=30><color=#777>- Localização para os EUA -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0411",
+    "offset": 25408,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0412",
+    "offset": 25412,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0413",
+    "offset": 25416,
+    "en": "Noriko Wada",
+    "pt": "Noriko Wada"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0414",
+    "offset": 25432,
+    "en": "<size=30><color=#777>Localization Manager (Namco Hometek)</color></size>",
+    "pt": "<size=30><color=#777>Gerência de localização (Namco Hometek)</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0415",
+    "offset": 25508,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0416",
+    "offset": 25512,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0417",
+    "offset": 25516,
+    "en": "Lindsay Gray",
+    "pt": "Lindsay Gray"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0418",
+    "offset": 25532,
+    "en": "<size=30><color=#777>Localization Producer (Namco Ltd.)</color></size>",
+    "pt": "<size=30><color=#777>Produção de localização (Namco Ltd.)</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0419",
+    "offset": 25608,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0420",
+    "offset": 25612,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0421",
+    "offset": 25616,
+    "en": "Ko Kimura",
+    "pt": "Ko Kimura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0422",
+    "offset": 25632,
+    "en": "Naotaka Higashiyama",
+    "pt": "Naotaka Higashiyama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0423",
+    "offset": 25656,
+    "en": "<size=30><color=#777>Localization Specialists (Namco Ltd.)</color></size>",
+    "pt": "<size=30><color=#777>Especialistas em localização (Namco Ltd.)</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0424",
+    "offset": 25736,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0425",
+    "offset": 25740,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0426",
+    "offset": 25744,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0427",
+    "offset": 25748,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0428",
+    "offset": 25752,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0429",
+    "offset": 25756,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0430",
+    "offset": 25760,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0431",
+    "offset": 25764,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0432",
+    "offset": 25768,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0433",
+    "offset": 25772,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0434",
+    "offset": 25776,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0435",
+    "offset": 25780,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0436",
+    "offset": 25784,
+    "en": "<size=30><color=#777>- Special Thanks -</color></size>",
+    "pt": "<size=30><color=#777>- Agradecimentos especiais -</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0437",
+    "offset": 25844,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0438",
+    "offset": 25848,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0439",
+    "offset": 25852,
+    "en": "Hiroshi Watanabe",
+    "pt": "Hiroshi Watanabe"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0440",
+    "offset": 25872,
+    "en": "Masanori Yamada",
+    "pt": "Masanori Yamada"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0441",
+    "offset": 25892,
+    "en": "Miura Yochien",
+    "pt": "Miura Yochien"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0442",
+    "offset": 25912,
+    "en": "Akira Furusawa",
+    "pt": "Akira Furusawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0443",
+    "offset": 25932,
+    "en": "Takashi Fukawa",
+    "pt": "Takashi Fukawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0444",
+    "offset": 25952,
+    "en": "Satoru Hirohashi",
+    "pt": "Satoru Hirohashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0445",
+    "offset": 25972,
+    "en": "Hideki Hiraoka",
+    "pt": "Hideki Hiraoka"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0446",
+    "offset": 25992,
+    "en": "Takefumi Hyodo",
+    "pt": "Takefumi Hyodo"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0447",
+    "offset": 26012,
+    "en": "Masanobu Hayashi",
+    "pt": "Masanobu Hayashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0448",
+    "offset": 26032,
+    "en": "Nobuhiro Nakamoto",
+    "pt": "Nobuhiro Nakamoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0449",
+    "offset": 26056,
+    "en": "Koji Nakagawa",
+    "pt": "Koji Nakagawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0450",
+    "offset": 26076,
+    "en": "Keiichi Naito",
+    "pt": "Keiichi Naito"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0451",
+    "offset": 26096,
+    "en": "Hiromi Shibano",
+    "pt": "Hiromi Shibano"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0452",
+    "offset": 26116,
+    "en": "Yuichiro Sadahiro",
+    "pt": "Yuichiro Sadahiro"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0453",
+    "offset": 26140,
+    "en": "Hiroto Sasaki",
+    "pt": "Hiroto Sasaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0454",
+    "offset": 26160,
+    "en": "Yukihiro Kobayashi",
+    "pt": "Yukihiro Kobayashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0455",
+    "offset": 26184,
+    "en": "Keiki Kobayashi",
+    "pt": "Keiki Kobayashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0456",
+    "offset": 26204,
+    "en": "Takashi Goto",
+    "pt": "Takashi Goto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0457",
+    "offset": 26220,
+    "en": "Kaori Kurosawa",
+    "pt": "Kaori Kurosawa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0458",
+    "offset": 26240,
+    "en": "Yohimi Kurihara",
+    "pt": "Yohimi Kurihara"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0459",
+    "offset": 26260,
+    "en": "Junichi Kawamura",
+    "pt": "Junichi Kawamura"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0460",
+    "offset": 26280,
+    "en": "Koichi Kawase",
+    "pt": "Koichi Kawase"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0461",
+    "offset": 26300,
+    "en": "Hiromi Kakumoto",
+    "pt": "Hiromi Kakumoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0462",
+    "offset": 26320,
+    "en": "Mitsutoshi Ozaki",
+    "pt": "Mitsutoshi Ozaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0463",
+    "offset": 26340,
+    "en": "Takayuki Ozaki",
+    "pt": "Takayuki Ozaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0464",
+    "offset": 26360,
+    "en": "Fuki Ohira",
+    "pt": "Fuki Ohira"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0465",
+    "offset": 26376,
+    "en": "Kuninori Onishi",
+    "pt": "Kuninori Onishi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0466",
+    "offset": 26396,
+    "en": "Masuya Oishi",
+    "pt": "Masuya Oishi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0467",
+    "offset": 26412,
+    "en": "Kunichiro Uekusa",
+    "pt": "Kunichiro Uekusa"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0468",
+    "offset": 26432,
+    "en": "Koji Inokuchi",
+    "pt": "Koji Inokuchi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0469",
+    "offset": 26452,
+    "en": "Natsuki Ezaki",
+    "pt": "Natsuki Ezaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0470",
+    "offset": 26472,
+    "en": "Takahiro Akiyama",
+    "pt": "Takahiro Akiyama"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0471",
+    "offset": 26492,
+    "en": "Yuji Tsuyuki",
+    "pt": "Yuji Tsuyuki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0472",
+    "offset": 26508,
+    "en": "Taku Tsuge",
+    "pt": "Taku Tsuge"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0473",
+    "offset": 26524,
+    "en": "Ken Takeda",
+    "pt": "Ken Takeda"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0474",
+    "offset": 26540,
+    "en": "Yumi Takasaki",
+    "pt": "Yumi Takasaki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0475",
+    "offset": 26560,
+    "en": "Hiroshi Ikeda",
+    "pt": "Hiroshi Ikeda"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0476",
+    "offset": 26580,
+    "en": "Hiroshi Fuji",
+    "pt": "Hiroshi Fuji"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0477",
+    "offset": 26596,
+    "en": "Takaharu Suzuki",
+    "pt": "Takaharu Suzuki"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0478",
+    "offset": 26616,
+    "en": "Toshio Natsui",
+    "pt": "Toshio Natsui"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0479",
+    "offset": 26636,
+    "en": "Shinichi Tsuruya",
+    "pt": "Shinichi Tsuruya"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0480",
+    "offset": 26656,
+    "en": "Takayasu Shiratsu",
+    "pt": "Takayasu Shiratsu"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0481",
+    "offset": 26680,
+    "en": "Shintaro Imai",
+    "pt": "Shintaro Imai"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0482",
+    "offset": 26700,
+    "en": "Kazuyuki Eto",
+    "pt": "Kazuyuki Eto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0483",
+    "offset": 26716,
+    "en": "Tatsuya Imada",
+    "pt": "Tatsuya Imada"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0484",
+    "offset": 26736,
+    "en": "Nobuhiro Kasahara",
+    "pt": "Nobuhiro Kasahara"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0485",
+    "offset": 26760,
+    "en": "Robert Ennis",
+    "pt": "Robert Ennis"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0486",
+    "offset": 26776,
+    "en": "Garry Cole",
+    "pt": "Garry Cole"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0487",
+    "offset": 26792,
+    "en": "Rod Nakamoto",
+    "pt": "Rod Nakamoto"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0488",
+    "offset": 26808,
+    "en": "Jeff Lujan",
+    "pt": "Jeff Lujan"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0489",
+    "offset": 26824,
+    "en": "Jennifer Tersigni",
+    "pt": "Jennifer Tersigni"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0490",
+    "offset": 26848,
+    "en": "Lee Hsiao",
+    "pt": "Lee Hsiao"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0491",
+    "offset": 26864,
+    "en": "Glen Cureton",
+    "pt": "Glen Cureton"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0492",
+    "offset": 26880,
+    "en": "Yoko Nakao",
+    "pt": "Yoko Nakao"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0493",
+    "offset": 26896,
+    "en": "Brian Schorr",
+    "pt": "Brian Schorr"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0494",
+    "offset": 26912,
+    "en": "Erik Harshman",
+    "pt": "Erik Harshman"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0495",
+    "offset": 26932,
+    "en": "NHI IS Team",
+    "pt": "Equipe de sistemas da NHI"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0496",
+    "offset": 26948,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0497",
+    "offset": 26952,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0498",
+    "offset": 26956,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0499",
+    "offset": 26960,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0500",
+    "offset": 26964,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0501",
+    "offset": 26968,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0502",
+    "offset": 26972,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0503",
+    "offset": 26976,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0504",
+    "offset": 26980,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0505",
+    "offset": 26984,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0506",
+    "offset": 26988,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0507",
+    "offset": 26992,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0508",
+    "offset": 26996,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0509",
+    "offset": 27000,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0510",
+    "offset": 27004,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0511",
+    "offset": 27008,
+    "en": "ZYAMU KIKAKU",
+    "pt": "ZYAMU KIKAKU"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0512",
+    "offset": 27024,
+    "en": "VOCAL, Ltd.",
+    "pt": "VOCAL, Ltd."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0513",
+    "offset": 27040,
+    "en": "Tai Studio",
+    "pt": "Tai Studio"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0514",
+    "offset": 27056,
+    "en": "studio Fine",
+    "pt": "studio Fine"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0515",
+    "offset": 27072,
+    "en": "Star Jam.CO.,LTD.",
+    "pt": "Star Jam.CO.,LTD."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0516",
+    "offset": 27096,
+    "en": "PRODUCTION OGI CO.,LTD.",
+    "pt": "PRODUCTION OGI CO.,LTD."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0517",
+    "offset": 27124,
+    "en": "PROCYON STUDIO CO., LTD.",
+    "pt": "PROCYON STUDIO CO., LTD."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0518",
+    "offset": 27152,
+    "en": "OFFICE WALKER",
+    "pt": "OFFICE WALKER"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0519",
+    "offset": 27172,
+    "en": "NOBUE MATSUBARA MUSIC OFFICE",
+    "pt": "NOBUE MATSUBARA MUSIC OFFICE"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0520",
+    "offset": 27204,
+    "en": "GEKIDAN TOHAI.CO.LTD.",
+    "pt": "GEKIDAN TOHAI.CO.LTD."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0521",
+    "offset": 27232,
+    "en": "Gekidan Mirai Gekijo",
+    "pt": "Gekidan Mirai Gekijo"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0522",
+    "offset": 27256,
+    "en": "Expulse,Inc.",
+    "pt": "Expulse,Inc."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0523",
+    "offset": 27272,
+    "en": "DAIICHI PRODUCTION,CO.,LTD",
+    "pt": "DAIICHI PRODUCTION,CO.,LTD"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0524",
+    "offset": 27304,
+    "en": "DAIICHI MUSIC PUBLISHERS CO.,LTD.",
+    "pt": "DAIICHI MUSIC PUBLISHERS CO.,LTD."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0525",
+    "offset": 27344,
+    "en": "Columbia Songs,Inc.",
+    "pt": "Columbia Songs,Inc."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0526",
+    "offset": 27368,
+    "en": "Columbia Music Entertainment, Inc.",
+    "pt": "Columbia Music Entertainment, Inc."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0527",
+    "offset": 27408,
+    "en": "Cabina japan",
+    "pt": "Cabina japan"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0528",
+    "offset": 27424,
+    "en": "Asaikikaku.Co.Ltd.",
+    "pt": "Asaikikaku.Co.Ltd."
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0529",
+    "offset": 27448,
+    "en": "aLIVE RECORDING STUDIO",
+    "pt": "aLIVE RECORDING STUDIO"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0530",
+    "offset": 27476,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0531",
+    "offset": 27480,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0532",
+    "offset": 27484,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0533",
+    "offset": 27488,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0534",
+    "offset": 27492,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0535",
+    "offset": 27496,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0536",
+    "offset": 27500,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0537",
+    "offset": 27504,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0538",
+    "offset": 27508,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0539",
+    "offset": 27512,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0540",
+    "offset": 27516,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0541",
+    "offset": 27520,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0542",
+    "offset": 27524,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0543",
+    "offset": 27528,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0544",
+    "offset": 27532,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0545",
+    "offset": 27536,
+    "en": "Keita Takahashi",
+    "pt": "Keita Takahashi"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0546",
+    "offset": 27556,
+    "en": "<size=30><color=#777>Director</color></size>",
+    "pt": "<size=30><color=#777>Direção</color></size>"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0547",
+    "offset": 27604,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0548",
+    "offset": 27608,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0549",
+    "offset": 27612,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0550",
+    "offset": 27616,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0551",
+    "offset": 27620,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0552",
+    "offset": 27624,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0553",
+    "offset": 27628,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0554",
+    "offset": 27632,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0555",
+    "offset": 27636,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0556",
+    "offset": 27640,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0557",
+    "offset": 27644,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0558",
+    "offset": 27648,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0559",
+    "offset": 27652,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0560",
+    "offset": 27656,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0561",
+    "offset": 27660,
+    "en": "",
+    "pt": ""
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0562",
+    "offset": 27664,
+    "en": "Mitsumasa Fujita",
+    "pt": "Mitsumasa Fujita"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0563",
+    "offset": 27684,
+    "en": "Hideki Tomida",
+    "pt": "Hideki Tomida"
+  },
+  {
+    "object": 1594,
+    "id": "CREDIT_0564",
+    "offset": 27704,
+    "en": "<size=30><color=#777>Producers</color></size>",
+    "pt": "<size=30><color=#777>Produção</color></size>"
+  }
+]

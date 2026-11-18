@@ -1,0 +1,15 @@
+Katamari Plus 0.2 — PC / Steam
+
+Recursos: tempo infinito configurável, encerramento de fase pela pausa, jukebox restrita às fases, salvamento e carregamento automáticos com seleção de slot, opção de pular a abertura.
+
+Acesso: Katamari Plus nas opções de controle ou SELECT/View na pausa (V no teclado). Usa os elementos nativos do jogo. No modo Controles simples, o stick direito gira para os lados; puxe-o para BAIXO para carregar a arrancada. O esquerdo mantém o comportamento normal fora da arrancada.
+
+A jukebox só substitui a trilha durante uma fase; menus, resultados e cenas mantêm a música original. Original restaura a trilha prevista para a fase.
+
+Instalação: feche o jogo e execute Instalar.ps1. O caminho padrão é D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL. O instalador valida os arquivos, mantém backup e preserva tradução, saves e opções existentes. Restaurar-original.ps1 restaura o código original do jogo.
+
+Configurações: pasta KatamariQoL dentro do jogo, arquivo plus-settings.ini. O salvamento usa o sistema normal do jogo; não retoma a posição exata no meio de uma fase. Encerre normalmente para permitir salvar ao sair.
+
+Validação: compilação para Mono 2.0; 6576 corpos de métodos e 16962 destinos de desvio verificados. Câmera original preservada. Usuário confirmou encerramento de fase e arrancada com o controle. Dica corrigida para baixo conforme o teste. Ajustes recentes de fundo, retorno de menu e escopo da jukebox ainda dependem de confirmação visual em jogo.
+
+Código-fonte incluído em source. Para recompilar, disponibilize as DLLs originais do jogo em Managed e Mono.Cecil em tools/cecil/lib/net40, conforme Build.ps1.

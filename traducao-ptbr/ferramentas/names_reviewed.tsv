@@ -1,0 +1,664 @@
+0001	Objeto de teste
+0003	Caqui
+0008	Cavalinha enlatada
+0013	Celular feminino
+0016	Bilboquê
+0020	Bola de beisebol
+0021	Pá de lixo
+0025	Lista telefônica
+0027	Cartões de Ano-Novo
+0031	Poste de barbeiro
+0033	Pá de lixo da loja
+0034	Caixa de correio residencial
+0035	Ferro de passar
+0039	Tigela de ração
+0040	Vasos de flores
+0044	Repelente elétrico
+0045	Refil de repelente
+0047	Garrafa PET
+0055	Claquete
+0056	Concha
+0059	Pão de forma
+0063	Máscara de teatro Nô
+0068	Distintivo policial
+0069	Apagador de lousa
+0073	Chave Phillips
+0078	Sushi de atum gordo
+0083	Peso de papel
+0084	Nanquim
+0085	Pedra de nanquim
+0086	Cavalinha
+0092	Cassetete
+0093	Hambúrguer
+0094	Bebida
+0096	Megafone
+0098	Aquarela
+0102	Portfólio
+0105	Teatro de papel
+0110	Árvore de Natal
+0111	Bota
+0115	Boneco de trânsito
+0121	2º degrau
+0122	3º degrau
+0123	4º degrau
+0124	5º degrau
+0125	6º degrau
+0126	7º degrau
+0127	8º degrau
+0128	9º degrau
+0129	10º degrau
+0130	Balança
+0132	Medidor de altura
+0133	Escadinha
+0138	Alvo de golfe de teste
+0139	Cadeira escolar
+0140	Carteira escolar
+0152	Motocultivador
+0153	Colheitadeira
+0154	Trator
+0156	Chapa de takoyaki
+0157	Fogão a gás
+0160	Salamandra
+0162	Placa de motorista iniciante
+0163	Placa de motorista idoso
+0168	Tampa de concreto
+0169	Tampa de ferro
+0170	Tampa de aço
+0173	Almofariz
+0177	Pedalinho de cisne
+0178	Boia de piscina
+0180	Almofada de carimbo
+0182	Lixeira
+0183	Lixeira de reciclagem
+0190	Expositor de revistas
+0192	Guarda-chuva de bolinhas
+0194	Guarda-chuva gigante
+0204	Abóbora
+0207	Palco de festival
+0208	Tenda de festival
+0209	Mesa de festival
+0213	Restaurante de lámen
+0214	Barril de picles
+0218	Enxada
+0221	Matriosca (GG)
+0223	Lenha
+0231	Picareta
+0233	Geleia de morango
+0234	Planta de jardim (M)
+0235	Canteiro de flores
+0238	Vaso de jardim
+0240	Amores-perfeitos
+0241	Placa de proibido estacionar
+0244	Garagem coberta
+0254	Poste telefônico
+0256	Poste telefônico
+0257	Fio elétrico (50m)
+0258	Fio elétrico (20m)
+0263	Casa de fazenda
+0264	Tigela chinesa
+0265	Lotérica
+0266	Placa da lotérica
+0267	Letreiro de cinema
+0268	Placa do Rio Codorna
+0269	Passarela
+0270	Ponto de ônibus
+0271	Arco do centro comercial
+0272	Armadilha para baratas
+0273	Barraca de acampamento
+0276	Enfeite de pinheiro
+0280	Placa de estacionamento
+0281	Placa da delegacia
+0283	Cone infantil
+0284	Cone triangular
+0285	Minicone
+0294	Barraca de rua
+0296	Loja da esquina
+0298	Bomba de poço
+0301	Espiral repelente
+0311	Ônibus
+0312	Flâmula de carpa
+0319	Trepa-trepa esférico
+0320	Gangorra
+0321	Trepa-trepa
+0322	Escorregador
+0326	Almofada de assento
+0333	Timão
+0339	Tenda indígena
+0342	Panela de shabu-shabu
+0343	Moto de entrega de pizza
+0344	Moto de entrega de comida
+0347	Engradado de bebidas
+0348	Cesta de piquenique
+0349	Gongo
+0350	Ringue de luta livre
+0353	Caixa de anel
+0354	Boneco de neve
+0357	Banheiro químico
+0359	Vela de faíscas
+0360	Fogo de artifício
+0361	Placa do hotel
+0362	Prato decorativo
+0363	Boneco do Jumboman
+0364	Brinquedo de equilíbrio
+0365	Placa da barbearia
+0366	Caixa de entrega de comida
+0368	Capim-dos-pampas
+0370	Rádio portátil
+0371	Placa da livraria
+0372	Placa da farmácia
+0373	Aparelho de som
+0375	Foguete
+0383	Prédio do peixe-dourado
+0384	Prédio da enguia
+0385	Prédio do peixe-lua
+0387	Filme plástico
+0389	Lenços (5 pacotes)
+0390	Caixa de lenços
+0394	Balão de propaganda de baiacu
+0395	"Coma à vontade"
+0396	Faixa de promoção
+0397	Placa de proibido nadar
+0399	Lenços
+0405	Pote de doces
+0406	Lata de biscoitos
+0410	Cofre
+0411	Cone pequeno
+0415	Sapato infantil
+0416	Pantufa
+0417	Sapato de salto
+0418	Tênis
+0419	Caminhonete monstro
+0422	Guindaste
+0423	Condensador de ar-condicionado
+0425	Trator de esteira
+0426	Placa da loja
+0428	Rolo compressor
+0430	Placa do dentista
+0433	Perfuratriz
+0437	Mesa de shogi
+0438	Ousho
+0448	Mochila de menino
+0449	Balança de banheiro
+0450	Placa da empresa
+0453	Gol de futebol
+0458	Placa do banco
+0463	Estábulo
+0465	Panela elétrica de arroz
+0466	Placa de roupas masculinas
+0469	Ursinho de pelúcia
+0473	Urso do Kintaro
+0475	Pargo
+0479	Baiacu
+0480	Arraia
+0483	Caranguejo-dos-coqueiros
+0484	Caranguejo-ferradura
+0486	Siri-azul
+0487	Bezerro
+0488	Vaca leiteira
+0490	Boi
+0491	Vaca sagrada
+0496	Brinquedo de panda
+0500	Alvo de teste 02
+0506	Buldogue
+0507	Gato tricolor
+0508	Gato rajado
+0511	Camundongo
+0512	Ratazana
+0515	Lontra-marinha
+0516	Rola-bosta
+0517	Rola-bosta grande
+0518	Rola-bosta gigante
+0522	Cliente
+0528	Macaco com pratos
+0529	Fanático por golfe
+0530	Mamãe cochilando
+0532	Bisavô
+0533	Estudante
+0534	Estudante alta
+0535	Estudante alto
+0536	Estudante
+0537	Estudante gorducho
+0538	Estudante baixinho
+0540	Empresário alto
+0542	Grandalhão
+0545	Carrinho de controle remoto
+0548	Júnior
+0552	Garoto de patins
+0555	Lojista
+0560	Defensor de beisebol
+0561	Arremessador
+0562	Rebatedor
+0563	Jogador reserva
+0564	Mutsuo Hoshino
+0565	Homem de toalha
+0566	Dupla nas costas
+0567	Trio nas costas
+0571	Criança com boia
+0572	Garoto com prancha
+0575	Luta de sumô
+0576	Luta de judô
+0580	Homem forte
+0581	Michiru Hoshino
+0582	Homem com leque
+0583	Garoto do festival
+0584	Fã de festivais
+0585	Garota do festival
+0586	Técnico da rede elétrica
+0587	Artista de rua
+0588	Papai faz-tudo
+0592	Chefe da perfuração
+0593	Mizue Hoshino
+0594	Operário da construção
+0597	Vendedor de balões
+0600	Entregador
+0611	Escola de ensino fundamental
+0614	Placa do supermercado
+0616	Chaminé
+0618	Placa da pousada japonesa
+0620	Alvo de teste 03
+0621	Prédio do marlim
+0622	Prédio da arraia
+0623	Prédio da sardinha
+0624	Prédio do salmão
+0625	Prédio do sargo
+0626	Prédio do coral
+0632	Alvo de teste 01
+0635	Casquinha de baunilha
+0636	Casquinha mista
+0637	Casquinha de morango
+0638	Freezer de sorvetes
+0640	Carrinho de promoções
+0641	Expositor
+0642	Ponto de ônibus
+0644	Cartazes eleitorais
+0645	Máquina de vendas
+0646	Máquina de vendas
+0647	Máquina de vendas da vaca
+0652	Bandeira de boa pesca nº 3
+0653	Bandeira de boa pesca nº 1
+0654	Bloco de quebra-mar
+0657	Telão do estádio
+0658	Floricultura
+0659	Placa da floricultura
+0661	Placa da sapataria
+0662	Hortifruti
+0665	Grande inauguração
+0671	Conselheiro da direita
+0672	Conselheiro da esquerda
+0676	Placa de bebidas
+0678	Barras de escalada
+0679	Cavalinho de balanço
+0682	Cesto de arremesso
+0684	Placa do açougue
+0686	Placa da doceria
+0687	Carne com osso
+0690	Placa de aluguel de barcos
+0692	Fatia de melancia
+0704	Escola primária
+0706	Escola de ensino médio
+0708	Quimono
+0716	Guindaste
+0718	Ponte com pedágio
+0721	Garrafa térmica
+0724	Cogumelo (G)
+0725	Cogumelo (gigante)
+0728	Redemoinho
+0731	Homem-urso
+0735	Tabuleiro de shogi
+0736	Defensa metálica (5m)
+0737	Defensa metálica (direita)
+0738	Defensa metálica (esquerda)
+0739	Defensa metálica (3m)
+0742	Perereca
+0745	Foca
+0746	Moeda de 5 ienes
+0747	Moeda de 10 ienes
+0748	Moeda de 500 ienes
+0751	Galo dos ventos
+0754	Carrinho infantil
+0755	Carrinho de sapo
+0756	Poste de luz do parque
+0760	Espanta-cervos
+0763	Bomba de creme
+0764	Toco de árvore
+0769	Pazinha infantil
+0770	Rastelo infantil
+0771	Baldinho infantil
+0779	Grafite de menino
+0782	Enrolador de mangueira
+0787	Placa de risco de incêndio
+0788	Outdoor de eletrodomésticos
+0789	Placa de takoyaki
+0790	Propaganda de bomba de creme
+0792	Placa de caixa-d'água
+0793	Proibido estacionar!
+0795	Boia de piscina
+0797	Balanço
+0799	Cerca da floricultura
+0800	Aromatizador de ar
+0801	Máquina de brinquedos
+0809	Alfinete de mural
+0810	Alfinete de mural
+0811	Placa da editora
+0812	Giz de cera branco
+0813	Giz de cera preto
+0814	Giz de cera vermelho
+0815	Giz de cera rosa
+0816	Giz de cera verde
+0817	Giz de cera verde-limão
+0818	Giz de cera azul
+0819	Giz de cera azul-claro
+0820	Giz de cera roxo
+0821	Giz de cera marrom
+0822	Giz de cera bege
+0823	Giz de cera ocre
+0824	Giz de cera dourado
+0825	Caixa de giz de cera
+0826	Dado
+0828	Outdoor de eletrodomésticos
+0829	Letreiro de neon do hotel
+0832	Placa "Acima de 3m"
+0833	Placa "Acima de 12m"
+0834	Placa "Acima de 60m"
+0835	Placa de aberto/fechado
+0836	Tigela da mamãe
+0837	Tigela do papai
+0838	Tigela do filho
+0841	Cacho de bananas
+0846	Controle de carrinho
+0847	Tigela da filha
+0852	Refrigerante
+0858	Garrafa de leite
+0859	Café com leite
+0861	Guindaste (G)
+0867	Geleia de laranja
+0870	Sachê de molho de soja
+0878	Escultura de urso
+0879	Selo postal
+0880	Cone grande
+0881	Cone selvagem
+0882	Supercone
+0883	Guarda-chuva de vaca
+0884	Detergente de louça
+0887	Garrafa de molho de soja
+0893	Livro de bolso
+0897	Caderno de kanji
+0898	Revista em quadrinhos
+0900	Avião a hélice
+0902	Escorredor de louça
+0908	Pacote de chiclete
+0911	Lápis B
+0912	Lápis nº 2
+0914	Bandeira de boa pesca nº 2
+0915	Bandeira de boa pesca nº 4
+0919	Pilha
+0922	Ilha Oni
+0923	Ilha do Abalone
+0924	Ilha do Berbigão
+0925	Ilha da Estrela-do-mar
+0926	Ilha Tsunami
+0927	Ilha do Búzio
+0928	Ilha da Âncora
+0930	Semáforo
+0931	Semáforo de pedestres
+0932	Peixe-dourado no saquinho
+0934	Faixa da casa de chá
+0937	Marco topográfico
+0938	Pedra
+0944	Pedra Oni
+0946	Carne de porco assada
+0947	Lámen
+0952	"Não atravesse correndo!"
+0956	Etiqueta de preço
+0957	Etiqueta de preço
+0959	Cone de vaca
+0961	Cardápio exposto
+0962	Placa de lámen
+0967	Bolo de morango
+0969	Caixa térmica
+0973	Placa da loja de guarda-chuvas
+0976	Hortênsia
+0977	Vaso de flores
+0978	Vaso de flores
+0979	Vaso de flores
+0986	Feira de usados
+0990	Pera
+0991	Pera grande
+0993	Melão monstruoso
+0995	Maçã monstruosa
+0997	Cerejas monstruosas
+1007	Biscoito recheado
+1008	Filhote de tartaruga
+1009	Filhote de codorna
+1010	Pintinho
+1011	Filhote de avestruz
+1014	Guarda-chuva de bolinhas
+1016	Guarda-chuva gigante
+1017	Matriosca (G)
+1018	Matriosca (M)
+1019	Matriosca (P)
+1026	Borboleta cauda-de-andorinha
+1028	Borboleta cauda-de-andorinha amarela
+1030	Carro de gângster
+1032	Monte de areia
+1033	Golpe mortal
+1034	Corrida de bolinhas
+1036	Garoto da ginástica
+1039	Deus do trovão
+1040	Garoto no pula-pula
+1042	Rapaz relaxando
+1043	Mergulhadora de abalone
+1044	Marinheiro veterano
+1052	Peça de mahjong
+1053	Peça de mahjong
+1054	Peça de mahjong
+1055	Peça de mahjong
+1063	Pudim de caramelo
+1065	Grampo de cabelo
+1066	Guarda-sol
+1068	Capacete de obra
+1071	Guarda-sol
+1072	Caneta esferográfica
+1081	Bomba de combustível
+1082	Lava-rápido
+1083	Placa do posto de gasolina
+1086	Base principal
+1087	Montículo do arremessador
+1088	Placa do campo de beisebol
+1090	Marcador de campo
+1091	Rolo de gramado
+1092	Garoto da educação física
+1096	Barra de musculação
+1097	Boia com bandeira
+1098	Baú do tesouro
+1099	Placa de pesqueiro
+1101	Entrada da obra
+1103	Placa "Bulbul"
+1105	Escora de poste telefônico
+1106	Placa de limite de velocidade
+1107	Placa de pare
+1108	Defensa decorativa
+1109	"Proibida a entrada"
+1111	Cavalete de retrato
+1112	Tronco
+1113	Cabana de madeira
+1114	Bangalô
+1115	Placa da montanha
+1117	Placa de trânsito
+1118	Mapa de trilhas
+1122	Placa da loja de balões
+1123	Ponteiro dos minutos
+1124	Ponteiro das horas
+1125	Relógio de flores "12"
+1127	Relógio de flores "6"
+1130	Emissora de TV
+1134	Bola de futebol americano
+1139	Trave de equilíbrio
+1140	Cone gigante
+1141	Minicone
+1150	Marmita bentô
+1152	Martelo de brinquedo
+1153	Forma de gelo
+1155	Espátula vazada
+1158	Baú de brinquedos
+1159	Ralo de pia
+1162	Lavatório
+1165	Fósforo
+1167	Expositor de sapatos
+1169	Bloco de quebra-mar
+1171	Cerca do parque
+1172	Placa da floresta
+1177	Boia
+1178	Depósito do ginásio
+1179	Contêiner de carga
+1180	Contêiner de carga
+1181	Contêiner de carga
+1184	Vagão-plataforma
+1189	Placa do circo
+1190	Arroz com omelete
+1191	Placa de radiação de RF
+1197	Área de secagem de roupa
+1198	Vara de varal
+1199	Cabide de varal
+1201	Relíquia de família
+1202	Videogame
+1209	Filtro de linha
+1210	Placa de panda
+1214	Exaustor
+1217	Casinha de cachorro
+1218	Regador
+1220	Cerca de plantas
+1225	Suporte
+1226	Mesa de telefone
+1228	Fio elétrico
+1230	Morangueiro
+1232	Bandeja de morangos
+1234	Expositor de bonsai
+1236	Penico
+1242	Bandeirinha de golfe
+1243	Nicho de sapatos
+1245	Dente-de-leão
+1246	Penugem
+1248	Placa "Katamari"
+1249	"Experiência"
+1250	"Em"
+1251	"Andamento"
+1254	Glória-da-manhã
+1255	Glória-da-manhã vermelha
+1256	Glória-da-manhã azul
+1258	Caixa de tangerinas
+1259	Porta-lápis
+1262	Mercado atacadista
+1263	Placa do mercado
+1266	Banho público
+1267	Chaminé
+1268	Muro branco
+1270	Cortina do banho público
+1271	Totem
+1273	Placa da escola (U)
+1274	Placa da escola (Ni)
+1275	Placa da escola (Ga)
+1276	Placa da escola (Oka)
+1277	Placa da escola (Chu)
+1278	Placa da escola (Ga)
+1279	Placa da escola (Ko)
+1283	Mesa de quiromancia
+1285	Placa de quiromancia
+1287	Persiana de bambu
+1290	Escadinha
+1293	Bacia de lavar
+1295	Interruptor
+1298	Suporte de livros
+1299	Régua
+1300	Luminária de mesa
+1302	Sino dos ventos
+1307	Cogumelo venenoso (M)
+1309	Cogumelo venenoso (G)
+1312	Guarda-chuva infantil
+1313	Guarda-chuva infantil
+1322	Escorregador de girafa
+1324	Hashis
+1325	Cofrinho
+1326	Talão de cheques
+1327	Porta-retrato
+1330	Cogumelo venenoso (P)
+1331	Bolinho shumai
+1332	Gomo de tangerina
+1333	Casca de tangerina
+1334	Tangerina
+1335	Pilar do portão
+1336	Luminária do portão
+1343	Cone
+1344	Plugue do kotatsu
+1345	Placa de nome
+1346	Estante do aparelho de som
+1347	Ilha da demonstração
+1352	Placa da escola
+1353	Placa "Novo"
+1354	Placa "Bairro"
+1355	"Em construção"
+1359	"Proibido roubar vacas"
+1360	Placa do lago
+1361	Fogueira
+1364	Placa do pachinko
+1367	Placa da pousada japonesa
+1368	Placa da pousada japonesa
+1369	Placa da pousada japonesa
+1370	Placa da pousada japonesa
+1371	Placa da pousada japonesa
+1374	Plataforma giratória de carros
+1375	Prédio antigo do hotel
+1376	Prédio novo do hotel
+1377	Passarela de ligação
+1378	Placa do hotel antigo
+1379	Placa do hotel novo
+1380	Plataforma de preparação do foguete
+1387	Ilha do Peixe-pescador
+1389	Ilha do Pepino-do-mar
+1390	Ilha da Gaivota-de-cauda-preta
+1392	Área do Parque das Gaivotas
+1394	Ponte suspensa
+1401	Garoto do controle remoto
+1402	Trisavô
+1403	Tetravô
+1404	Estudante de uniforme de verão
+1405	Magrinho de verão
+1407	Empresário gorducho
+1408	Rapaz tímido
+1410	Mamãe barulhenta
+1412	Trabalhador temporário
+1415	Funcionário de loja de lembranças
+1421	Jumboman marinho
+1423	Empresário alto
+1425	Pernas de pau
+1426	Golfista
+1433	Tritão
+1434	Antigo Mercado do Caranguejo
+1435	Antiga Praia do Bronzeado
+1436	Antiga Vila do Ouriço
+1437	Antiga Vila do Sal
+1438	Antigo Rancho
+1439	Alvo de teste 05
+1441	Porto de pesca antigo
+1442	Porto de pesca novo
+1444	Porto antigo
+1445	Colinas de Kuroshio
+1446	Cidade de Kuroshio
+1447	Escola antiga
+1448	Ilha do Leão-marinho
+1449	Alvo de teste 06
+1451	Prédio da cavalinha
+1452	Prédio do robalo
+1453	Prédio do guppy
+1454	Prédio do tubarão
+1455	Prédio do camarão
+1458	Balão de propaganda nº 2
+1460	Placa "Acima de 10cm"
+1461	Placa "Acima de 20cm"
+1462	Placa "Acima de 50cm"
+1463	Placa "Acima de 45cm"
+1464	Placa "Acima de 1,5m"
+1465	Placa "Acima de 5m"
+1466	Flâmula de carpa
+1468	Cavalo de salto
+0048	Bússola

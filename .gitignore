@@ -1,0 +1,14 @@
+# Arquivos do jogo (originais ou modificados) não vão para o repositório
+patch/
+Managed/
+katamari_Data/
+*.dll
+*.exe
+*.assets
+*.zip
+
+# Ferramentas, modelos e dependências
+tools/
+*.argosmodel
+__pycache__/
+*.pyc
