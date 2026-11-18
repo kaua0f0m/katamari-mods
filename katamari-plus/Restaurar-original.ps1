@@ -1,4 +1,4 @@
-param([string]$GameDir='D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL')
+﻿param([string]$GameDir='D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL')
 $ErrorActionPreference='Stop'
 if(Get-Process -Name katamari -ErrorAction SilentlyContinue){throw 'Feche o jogo antes de restaurar.'}
 $manifest=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'manifesto.json') -Raw -Encoding UTF8 | ConvertFrom-Json

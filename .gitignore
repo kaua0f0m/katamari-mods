@@ -12,3 +12,6 @@ tools/
 *.argosmodel
 __pycache__/
 *.pyc
+
+# Pacotes gerados
+dist/

@@ -27,17 +27,7 @@ public sealed partial class KatamariQoL
     struct Layout { public Vector2 Position,Size; public bool Active; }
     static Dictionary<RectTransform,Layout> savedLayout=new Dictionary<RectTransform,Layout>();
     static Dictionary<UguiFocus,UguiFocus[]> savedNavigation=new Dictionary<UguiFocus,UguiFocus[]>();
-    static readonly string[] labels={"Tempo infinito","Jukebox","Salvamento automático","Carregamento automático","Pular abertura","Intervalo de salvamento","Encerrar fase","Voltar"};
-    static readonly string[] descriptions={
-        "Mantém o relógio parado. Para encerrar, volte à pausa e abra Katamari Plus > Encerrar fase.",
-        "Substitui apenas a música da fase. Fora dela, a escolha vale para a próxima fase. Original restaura a trilha normal.",
-        "Escolha o slot que receberá o progresso ao fechar e nos salvamentos periódicos. Os dados desse slot serão substituídos. Desligado desativa ambos.",
-        "Escolha o save para abrir na próxima inicialização. Se estiver vazio ou inválido, o jogo mostra a seleção normal. Desligado mantém a seleção manual.",
-        "Pula a abertura e a espera na tela de título. As cenas da história e os resultados continuam normais.",
-        "Define a frequência do salvamento periódico. Ao voltar ao Planeta Natal e fechar normalmente, o jogo também tenta salvar.",
-        "Encerra esta tentativa e segue para a avaliação normal. Se a meta não foi atingida, o resultado pode ser uma falha.",
-        "Fecha o Katamari Plus e volta à tela anterior. As opções são salvas automaticamente."
-    };
+    // Textos por idioma: ver PlusText.cs.
 
     static Text FindText(Component parent,string name)
     {
@@ -115,12 +105,17 @@ public sealed partial class KatamariQoL
             }
             pauseTip=NewText(back,canvas,"PlusPauseTooltip");
             pauseTip.fontSize=22;AtBottom(pauseTip,canvas,42f,5f);
-            pauseTip.text="Abra Katamari Plus para ajustar os recursos ou encerrar a fase.";
+            pauseTip.resizeTextForBestFit=true;pauseTip.resizeTextMinSize=14;pauseTip.resizeTextMaxSize=22;
             Log("Pause native command strip extended");
         }
         bool visible=w.u8Pause!=0 && w.u8State==GAMEINFO_STATE.GAMEINFO_STATE_PLAY && !pause.isActiveDialogReturn && !plusPending && !plusMode;
         pauseEntry.gameObject.SetActive(visible);pauseTip.gameObject.SetActive(visible);
-        if(visible){pauseContinue.text="Continuar";pauseHome.text="Voltar ao menu";}
+        if(visible)
+        {
+            pauseTip.text=T.PauseTip;
+            // Nos demais idiomas, a faixa da pausa mantém os textos nativos do jogo.
+            if(IsPortuguese){pauseContinue.text=T.Continue;pauseHome.text=T.Home;}
+        }
 
     }
 
@@ -223,7 +218,7 @@ public sealed partial class KatamariQoL
         foreach(Text t in savedTexts.Keys)
         {
             string value=t.text.ToLowerInvariant();
-            if(!t.name.StartsWith("TextItem") && (value.Contains("gráfic")||value.Contains("graphic")||value.Contains("vídeo")||value.Contains("グラフィック")))t.text="Katamari Plus";
+            if(!t.name.StartsWith("TextItem") && IsQualityHeading(value))t.text="Katamari Plus";
         }
         if(videoEntry!=null)videoEntry.gameObject.SetActive(false);
         Text style=FindText(qualityUtility,"TextItem0");
@@ -240,6 +235,7 @@ public sealed partial class KatamariQoL
         plusHeading.gameObject.SetActive(true);
         if(plusTip==null)plusTip=NewText(style,canvas.transform,"PlusFeatureTooltip");
         plusTip.fontSize=24;plusTip.color=Color.white;AtBottom(plusTip,canvas.transform,95f,65f);plusTip.gameObject.SetActive(true);
+        plusTip.resizeTextForBestFit=true;plusTip.resizeTextMinSize=16;plusTip.resizeTextMaxSize=24;
         SetupActionButtons();
         qualityUtility.SetFocus(0);Set(manager,"cursorLine",0);
         acceptInputAfter=Time.unscaledTime+.2f;
@@ -250,18 +246,28 @@ public sealed partial class KatamariQoL
     static void RefreshPlus()
     {
         if(!plusMode || plusQuality==null)return;
-        string[] values={settings.InfiniteTime?"Ligado":"Desligado",settings.Music<0?"Original":musicNames[settings.Music],
-            SlotLabel(settings.AutoSaveSlot),SlotLabel(settings.AutoLoadSlot),settings.SkipOpening?"Ligado":"Desligado",settings.AutoSaveSeconds+" s","",""};
+        PlusLang t=T;
+        string[] values={settings.InfiniteTime?t.On:t.Off,settings.Music<0?t.Original:MusicName(settings.Music),
+            SlotLabel(settings.AutoSaveSlot),SlotLabel(settings.AutoLoadSlot),settings.SkipOpening?t.On:t.Off,string.Format(t.Seconds,settings.AutoSaveSeconds),"",""};
         for(int i=0;i<6;i++)
         {
             Text label=FindText(qualityUtility,"TextItem"+i),value=FindText(qualityUtility,"TextItemExp"+i);
-            label.text=labels[i];value.text=values[i];value.resizeTextForBestFit=true;value.resizeTextMinSize=20;value.resizeTextMaxSize=36;
+            if(!label.resizeTextForBestFit){label.resizeTextMaxSize=label.fontSize;label.resizeTextMinSize=Mathf.Min(18,label.fontSize);label.resizeTextForBestFit=true;}
+            label.text=t.Labels[i];value.text=values[i];value.resizeTextForBestFit=true;value.resizeTextMinSize=20;value.resizeTextMaxSize=36;
         }
         int row=Mathf.Clamp(Get<int>(plusQuality,"cursorLine"),0,7);
-        plusTip.text=row==6&&!plusFromPause?descriptions[7]:descriptions[row];
+        plusTip.text=row==6&&!plusFromPause?t.Tips[7]:t.Tips[row];
     }
 
-    static string SlotLabel(int slot){return slot<0?"Desligado":"Save "+(slot+1);}
+    static string SlotLabel(int slot){return slot<0?T.Off:string.Format(T.Slot,slot+1);}
+
+    // Título nativo da tela de vídeo/gráficos em qualquer idioma do jogo (ou da tradução).
+    static bool IsQualityHeading(string lower)
+    {
+        foreach(string key in new string[]{"graphi","grafi","gráfi","vídeo","vidéo","video","グラフィック"})
+            if(lower.Contains(key))return true;
+        return false;
+    }
 
     static void SetupActionButtons()
     {
@@ -281,7 +287,7 @@ public sealed partial class KatamariQoL
             Text label=NewText(style,buttonObject.transform,"PlusActionLabel");
             label.rectTransform.anchorMin=Vector2.zero;label.rectTransform.anchorMax=Vector2.one;
             label.rectTransform.offsetMin=label.rectTransform.offsetMax=Vector2.zero;
-            label.alignment=TextAnchor.MiddleCenter;label.text=i==6&&plusFromPause?"Encerrar fase":"Voltar";
+            label.alignment=TextAnchor.MiddleCenter;label.text=i==6&&plusFromPause?T.Labels[6]:T.Labels[7];
             Button button=buttonObject.GetComponent<Button>();button.onClick=new Button.ButtonClickedEvent();
             bool finish=i==6&&plusFromPause;button.onClick.AddListener(delegate{ClosePlus(finish);});
             UguiFocusButton focus=buttonObject.AddComponent<UguiFocusButton>();Field(typeof(UguiFocus),"focusID").SetValue(focus,i);
@@ -350,7 +356,7 @@ public sealed partial class KatamariQoL
         }
         StoreSettings();RefreshPlus();
         SingletonMonoBehaviour<SoundController>.Instance.Play(SoundController.eChannel.SE,SoundData.eClipGroup.CommonBank,1,false,1f,0f,1f,0UL);
-        Log("Plus setting changed: "+labels[row]);
+        Log("Plus setting changed: "+logLabels[row]);
     }
 
     static void ClosePlus(bool finish)
@@ -392,7 +398,7 @@ public sealed partial class KatamariQoL
         {
             originalQuestion=Get<Text>(pauseOwner,"_text_question2").text;
             pauseOwner.isDialogSelectYes=false;pauseOwner.ShowDialog(false);
-            Get<Text>(pauseOwner,"_text_question2").text="Encerrar a fase agora?";
+            Get<Text>(pauseOwner,"_text_question2").text=T.Confirm;
             customDialog=pauseOwner;Log("Native finish confirmation opened from Plus menu");
         }
     }

@@ -42,7 +42,7 @@ public sealed partial class KatamariQoL : MonoBehaviour
         instance = go.AddComponent<KatamariQoL>();
         nextSave = Time.realtimeSinceStartup + 60f;
         installing = false;
-        Log("Katamari Plus 0.2 initialized; autoLoad=" + settings.AutoLoadSlot + "; autoSave=" + settings.AutoSaveSlot);
+        Log("Katamari Plus 0.3 initialized; autoLoad=" + settings.AutoLoadSlot + "; autoSave=" + settings.AutoSaveSlot);
     }
 
     static void Log(string message)
@@ -162,7 +162,7 @@ public sealed partial class KatamariQoL : MonoBehaviour
             if (plusPending || plusFromPause && plusQuality != null) return false;
             if (Time.unscaledTime<pauseAcceptAfter) return false;
             if (!Playable(w) || w.u8State != GAMEINFO_STATE.GAMEINFO_STATE_PLAY) return true;
-            if (customDialog == pause) { Get<Text>(pause,"_text_question2").text = "Encerrar a fase agora?"; return true; }
+            if (customDialog == pause) { Get<Text>(pause,"_text_question2").text = T.Confirm; return true; }
             if (w.u8Pause != 0 && !pause.isActiveDialogReturn && Get<InputController>(pause,"input").Pad().IsDown(KeyMap.Back))
             { OpenPlusFromPause(pause); return false; }
         }

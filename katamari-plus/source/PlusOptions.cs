@@ -41,7 +41,8 @@ public sealed partial class KatamariQoL
             Canvas canvas=Get<Canvas>(manager,"mainCanvas");
             optionControlTip=NewText(style,canvas.transform,"SimpleControlTooltip");
             optionControlTip.fontSize=24;optionControlTip.color=Color.white;AtBottom(optionControlTip,canvas.transform,70f,85f);
-            optionControlTip.text="Controle simples: esquerdo move · direito para os lados gira · direito para baixo carrega a arrancada.";
+            optionControlTip.text=T.ControlTip;
+            optionControlTip.resizeTextForBestFit=true;optionControlTip.resizeTextMinSize=16;optionControlTip.resizeTextMaxSize=24;
             optionControlTip.gameObject.SetActive(false);
             OptionsAfter(manager);
             Log("Plus button added below keyboard configuration; simple right-stick remap enabled");

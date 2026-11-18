@@ -1,4 +1,4 @@
-param([string]$GameDir='D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL')
+﻿param([string]$GameDir='D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL')
 $ErrorActionPreference='Stop'
 if(Get-Process -Name katamari -ErrorAction SilentlyContinue){throw 'Feche o jogo antes de instalar.'}
 $manifest=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'manifesto.json') -Raw -Encoding UTF8 | ConvertFrom-Json
@@ -24,7 +24,7 @@ foreach($file in $manifest.files){
     $previous=$null
     if(Test-Path -LiteralPath $target){
         $hash=(Get-FileHash -LiteralPath $target).Hash.ToLower()
-        $previous=$target+'.before-plus02-'+$hash.Substring(0,12)
+        $previous=$target+'.before-plus03-'+$hash.Substring(0,12)
     }
     $plan += [pscustomobject]@{Source=$source;Target=$target;Backup=$previous;Hash=$file.sha256}
 }
@@ -38,4 +38,4 @@ try{
     foreach($item in $plan){if($item.Backup){Copy-Item -LiteralPath $item.Backup -Destination $item.Target -Force}}
     throw 'Falha na instalação. Os arquivos anteriores foram restaurados.'
 }
-Write-Output 'Katamari Plus 0.2 instalado. Tradução, saves e configurações preservados.'
+Write-Output 'Katamari Plus 0.3 instalado. Tradução, saves e configurações preservados.'

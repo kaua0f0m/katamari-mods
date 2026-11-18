@@ -20,7 +20,7 @@ public sealed partial class KatamariQoL
         "Katamari Stars", "Katamari of Love", "Game Over", "Overture",
         "Katamari on the Rocks", "The Moon & The Prince", "Gin & Tonic & Red Red Roses",
         "Lonely Rolling Star", "You Are Smart", "Katamari Mambo", "Cherry Tree Times",
-        "Angel Gifts", "Roll Me In", "Que Sera Sera", "Tutorial 2", "Tutorial 3", "Música da demonstração"
+        "Angel Gifts", "Roll Me In", "Que Sera Sera", "Tutorial 2", "Tutorial 3", "Demo" // o último nome é traduzido em MusicName()
     };
     public static int MusicIndex(SoundController.eChannel channel, SoundData.eClipGroup group, int index, bool loop)
     {

@@ -13,7 +13,9 @@ public sealed partial class KatamariQoL
         public int AutoLoadSlot = 0;
         public int AutoSaveSeconds = 60;
         public int Music = -1;
+        public string Language = "auto";
     }
+    static readonly string[] languageCodes = {"auto","ja","en","fr","de","it","es","pt"};
     static Settings settings = new Settings();
     static readonly int[] saveIntervals = {30,60,120,300};
     static string SettingsPath { get { return Path.Combine(root,"plus-settings.ini"); } }
@@ -27,6 +29,12 @@ public sealed partial class KatamariQoL
             {
                 string[] pair = raw.Split(new char[]{'='},2);
                 if (pair.Length != 2) continue;
+                if (pair[0].Trim() == "Language")
+                {
+                    string code = pair[1].Trim().ToLowerInvariant();
+                    if (Array.IndexOf(languageCodes, code) >= 0) settings.Language = code;
+                    continue;
+                }
                 int n;
                 if (!int.TryParse(pair[1].Trim(),out n)) continue;
                 switch(pair[0].Trim())
@@ -47,7 +55,9 @@ public sealed partial class KatamariQoL
     {
         try
         {
-            string value = "# Katamari Plus 0.2\r\n# Slots: -1=desligado, 0=save 1, 1=save 2, 2=save 3\r\n"
+            string value = "# Katamari Plus 0.3\r\n# Slots: -1=off, 0=save 1, 1=save 2, 2=save 3\r\n"
+                +"# Language: auto (game language), ja, en, fr, de, it, es, pt\r\n"
+                +"Language="+settings.Language+"\r\n"
                 +"InfiniteTime="+(settings.InfiniteTime?1:0)+"\r\n"
                 +"\r\nSkipOpening="+(settings.SkipOpening?1:0)+"\r\nAutoSaveSlot="+settings.AutoSaveSlot
                 +"\r\nAutoLoadSlot="+settings.AutoLoadSlot+"\r\nAutoSaveSeconds="+settings.AutoSaveSeconds
