@@ -1,6 +1,6 @@
 # Katamari Damacy REROLL — mods para PC (Steam)
 
-Código-fonte, ferramentas e textos de três mods não oficiais para a versão Steam de **Katamari Damacy REROLL**:
+Código-fonte, ferramentas e textos de dois mods não oficiais para a versão Steam de **Katamari Damacy REROLL**:
 
 | Pasta | Versão | O que é |
 |---|---|---|
@@ -9,9 +9,16 @@ Código-fonte, ferramentas e textos de três mods não oficiais para a versão S
 
 Cada pasta tem o seu `LEIA-ME` com detalhes, o instalador (`Instalar.ps1`), o desinstalador e o `manifesto.json` com os hashes SHA-256 dos arquivos esperados.
 
-## Arquivos do jogo não incluídos
+## Download
 
-Este repositório **não contém arquivos do jogo**, nem originais nem modificados (`Assembly-CSharp.dll`, `resources.assets`, `level*`, `gamemain`, `ui_pause` etc.). Eles pertencem à Bandai Namco. Por isso a pasta `patch/` que os instaladores esperam não está aqui. Os instaladores só funcionam com os pacotes gerados a partir de uma cópia própria do jogo.
+Os pacotes prontos para instalar estão em [Releases](https://github.com/kaua0f0m/katamari-mods/releases):
+
+- [Tradução PT-BR 0.3](https://github.com/kaua0f0m/katamari-mods/releases/tag/traducao-v0.3)
+- [Katamari Plus 0.2](https://github.com/kaua0f0m/katamari-mods/releases/tag/plus-v0.2)
+
+Baixe o ZIP, extraia, feche o jogo e execute `Instalar.ps1` no PowerShell. Se o jogo não estiver em `D:\SteamLibrary\steamapps\common\Katamari Damacy REROLL`, informe o caminho: `.\Instalar.ps1 -GameDir 'C:\caminho\do\jogo'`.
+
+O código e os textos ficam no repositório; os arquivos modificados do jogo (pasta `patch/`) só vão nos ZIPs das releases.
 
 ## Tradução PT-BR
 
