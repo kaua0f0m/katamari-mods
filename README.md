@@ -4,7 +4,7 @@ Código-fonte, ferramentas e textos de dois mods não oficiais para a versão St
 
 | Pasta | Versão | O que é |
 |---|---|---|
-| [`traducao-ptbr/`](traducao-ptbr/) | 0.3 | Tradução para português brasileiro dos textos do jogo |
+| [`traducao-ptbr/`](traducao-ptbr/) | 0.3 | Tradução para português brasileiro dos textos do jogo. Feita por IA, com curadoria do criador. |
 | [`katamari-plus/`](katamari-plus/) | 0.3 | Tempo infinito configurável, encerrar fase pela pausa, jukebox, salvamento/carregamento automático com escolha de slot, pular abertura. Menu no idioma do jogo (ja, en, fr, de, it, es) ou em português com a tradução |
 
 Cada pasta tem o seu `LEIA-ME` com detalhes, o instalador (`Instalar.ps1`), o desinstalador e o `manifesto.json` com os hashes SHA-256 dos arquivos esperados.
